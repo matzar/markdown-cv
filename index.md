@@ -36,18 +36,12 @@ __University of Abertay Dundee, United Kingdom__
 - BSc with Merit in Computer Game Applications Development, 2:1
 - [Higher Education Achivement Report](https://matzar.github.io/hear/)
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
 
 ## Awards
 
-`2012`
+`2019`
 President, *Royal Society*, London, UK
-
+`20121`
 Associate, *French Academy of Science*, Paris, France
 
 
