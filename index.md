@@ -5,7 +5,7 @@ author: Mateusz Zaremba
 date: 20 November, 2019
 ---
 # Mateusz Zaremba
-Pician, Graduate student.
+Programmer, Mathematician, Graduate student.
 
 <div id="webaddress">
 <a href="mailto:mat.zar@icloud.com">mat.zar@icloud.com</a>
