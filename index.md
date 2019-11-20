@@ -13,7 +13,7 @@ Programmer, Mathematician, Graduate student.
 
 ## Currently
 
-Standing on the shoulders of giants
+Studying towards MSc in Mathematics and Data Science at at the University of Stirling 
 
 ### Specialized in
 
