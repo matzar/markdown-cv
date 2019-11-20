@@ -43,24 +43,53 @@ __University of Abertay Dundee, United Kingdom__
 The Data Lab MSc scholarship
 
 
-## Publications
+## Relevant Experience
+`01.2019 – 02.2019` 
+__C++ Software Engineer Intern, First Line Software/Viastore__
+- Design and implementation of large distributed IT systems according to customer and project requirements.
+- Quick and efficient concept creation and prototyping of new solutions.
+- Close co-operation with product management to understand the requirements of customers and deliver the agreed solution on time
+- Testing of the developed solution
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`08.2018 – 10.2018` 
+__Unreal Game Programmer Intern, Bohemia Interactive__
+- Project worked on – Vigor ([video] update I worked on), post-apocalyptic survival game
+- Engine: UE4 | Platform: XBOX ONE
+- Key responsibilities:
+- Networked gameplay programming
+- UI programming
+- Developing new solutions based on already existing ones and bug fixing
 
-### Journals
+`09.2017 – 06.2018` 
+__Lead Programme, Abertay University: Professional Project__
+- Project worked on – Mobile game for Junkfish Game Company | Retro platformer for Timex company (git)
+- Engine: Unity | Programming language: C# | Platforms: Android (Junk Fish) | Windows (Timex)
+- Key responsibilities:
+- Prototyping and gameplay programming
+- Source control maintenance (merging, pull requests, .gitignore)
+- Programming team management using GitHub Projects with kanban board, SCRUM (Deadlines setting, mentoring)
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+## Game Jams
 
-`1669`
-Lectiones opticæ.
+`24.01.2018 – 26.01.2018`
+__Gameplay Programmer/Design/Team Lead, Serious Game Jam__
+- Mobile game prototype aiding lectures and students at the University of St Andrews with practical exercises preparation and explanation
+- Engine: Unity | Programming language: C# | Platform: Android (video link, git)
 
-etc. etc. etc.
+`15.11.2017`
+__Gameplay Programmer/Design/Team Lead, AGDS 4-hour Game Jam__
+- Brief visual novel with animations, presenting a joke, made in 4-hours with two artists
+- Engine: Ren’Py | Programming language: Python | Platform: Windows (video link, git)
 
-### Patents
+`15.08.2016 – 17.08.2016`
+__Gameplay Programmer/Design/Team Lead, Rainbow Game Jam__
+- Infinite runner chosen to be made in 48-hours with two other artists and a sound designer
+- Engine: Unity | Programming language: C# | Platforms: Windows, MAC, Linux (video link, git, play game)
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`29.01.2016 – 31.01.2016` 
+__Gameplay Programmer, Global Game Jam 2016__
+- Easy pick-up game. My first Unity game and first game jam
+- Engine: Unity | Programming language: C# | Platforms: Windows, MAC, Linux (video link)
 
 
 ## Occupation
