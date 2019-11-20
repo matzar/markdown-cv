@@ -13,7 +13,7 @@ Programmer, Mathematician, Graduate student.
 
 ## Currently
 
-Studying towards MSc in Mathematics and Data Science at at the University of Stirling 
+Studying towards MSc in Mathematics and Data Science at the University of Stirling 
 
 ### Specialized in
 
@@ -34,7 +34,7 @@ __University of Stirling, United Kingdom__
 `2015 - 2018`
 __University of Abertay Dundee, United Kingdom__
 - BSc with Merit in Computer Game Applications Development, 2:1
-- [Higher Education Achivement Report](https://matzar.github.io/hear/)
+- [Higher Education Achievement Report](https://matzar.github.io/hear/)
 
 
 ## Awards
