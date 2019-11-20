@@ -63,7 +63,8 @@ __Unreal Game Programmer Intern, Bohemia Interactive__
 
 `09.2017 – 06.2018` 
 __Lead Programme, Abertay University: Professional Project__
-- Project worked on – Mobile game for Junkfish Game Company | Retro platformer for Timex company (git)
+- Project worked on – Mobile game for Junkfish Game Company
+- Retro platformer for Timex company (git)
 - Engine: Unity
 - Programming language: C#
 - Platforms: Android (Junk Fish), Windows (Timex)
@@ -77,22 +78,30 @@ __Lead Programme, Abertay University: Professional Project__
 `24.01.2018 – 26.01.2018`
 __Gameplay Programmer/Design/Team Lead, Serious Game Jam__
 - Mobile game prototype aiding lectures and students at the University of St Andrews with practical exercises preparation and explanation
-- Engine: Unity | Programming language: C# | Platform: Android (video link, git)
+- Engine: Unity 
+- Programming language: C#
+- Platform: Android (video link, git)
 
 `15.11.2017`
 __Gameplay Programmer/Design/Team Lead, AGDS 4-hour Game Jam__
 - Brief visual novel with animations, presenting a joke, made in 4-hours with two artists
-- Engine: Ren’Py | Programming language: Python | Platform: Windows (video link, git)
+- Engine: Ren’Py 
+- Programming language: Python
+- Platform: Windows (video link, git)
 
 `15.08.2016 – 17.08.2016`
 __Gameplay Programmer/Design/Team Lead, Rainbow Game Jam__
 - Infinite runner chosen to be made in 48-hours with two other artists and a sound designer
-- Engine: Unity | Programming language: C# | Platforms: Windows, MAC, Linux (video link, git, play game)
+- Engine: Unity 
+- Programming language: C# 
+- Platforms: Windows, MAC, Linux (video link, git, play game)
 
 `29.01.2016 – 31.01.2016` 
 __Gameplay Programmer, Global Game Jam 2016__
 - Easy pick-up game. My first Unity game and first game jam
-- Engine: Unity | Programming language: C# | Platforms: Windows, MAC, Linux (video link)
+- Engine: Unity 
+- Programming language: C# 
+- Platforms: Windows, MAC, Linux (video link)
 
 
 ## Occupation
