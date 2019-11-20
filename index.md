@@ -77,7 +77,8 @@ __Lead Programme, Abertay University: Professional Project__
 
 `24.01.2018 – 26.01.2018`
 __Gameplay Programmer/Design/Team Lead, Serious Game Jam__
-- Mobile game prototype aiding lectures and students at the University of St Andrews with practical exercises preparation and explanation
+- Mobile game prototype aiding lectures and students at the University of St Andrews with 
+practical exercises preparation and explanation
 - Engine: Unity 
 - Programming language: C#
 - Platform: Android (video link, git)
