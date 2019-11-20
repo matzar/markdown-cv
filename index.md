@@ -29,10 +29,10 @@ Statistical analysis for data science, representing and manipulating data using 
 
 `2019 - now`
 __University of Stirling, United Kingdom__
+- MSc in Mathematics and Data Science 
 
 `2015 - 2018`
 __University of Abertay Dundee, United Kingdom__
-
 - BSc with Merit in Computer Game Applications Development, 2:1
 - [Higher Education Achivement Report](https://matzar.github.io/hear/)
 
@@ -40,11 +40,7 @@ __University of Abertay Dundee, United Kingdom__
 ## Awards
 
 `2019`
-President, *Royal Society*, London, UK
-
-`20121`
-Associate, *French Academy of Science*, Paris, France
-
+The Data Lab MSc scholarship
 
 
 ## Publications
