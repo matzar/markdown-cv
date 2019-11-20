@@ -17,23 +17,24 @@ Studying towards MSc in Mathematics and Data Science at at the University of Sti
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+C++, Python, R, Statistical Analysis, Big Data
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Statistical analysis for data science, representing and manipulating data using R and Python programming languages
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2019 - now`
+__University of Stirling, United Kingdom__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2015 - 2018`
+__University of Abertay Dundee, United Kingdom__
 
-- Sizar
+- BSc with Merit in Computer Game Applications Development, 2:1
+- [Higher Education Achivement Report](https://matzar.github.io/hear/)
 
 `1667 - death`
 __Trinity College, Cambridge__
