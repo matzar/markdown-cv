@@ -8,7 +8,7 @@ date: 20 November, 2019
 Pician, Graduate student.
 
 <div id="webaddress">
-<a href="mat.zar@icloud.com">mat.zar@icloud.com</a>
+<a href="mailto:mat.zar@icloud.com">mat.zar@icloud.com</a>
 | <a href="https://matzar.github.io/">Personal website</a>
 | Update: 20 November, 2019
 </div>
