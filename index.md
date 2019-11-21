@@ -76,7 +76,7 @@ __Lead Programme, Abertay University: Professional Project__
 - Source control maintenance (merging, pull requests, .gitignore)
 - Programming team management using GitHub Projects with kanban board, SCRUM (Deadlines setting, mentoring)
 
-## Game Jams
+## Hackathons
 
 `24.01.2018 – 26.01.2018`
 __Gameplay Programmer/Design/Team Lead, Serious Game Jam__
