@@ -94,12 +94,12 @@ __Lead Programmer, Abertay University: Professional Project__
     - Engine: Unity
     - Programming language: C#
     - Platforms: Android (Junk Fish), Windows (Timex)
+    - [git](https://github.com/RetrospectAbertay/Lit)
 - Key responsibilities:
     - Prototyping
     - Game programming
     - Source control maintenance: merging, pull requests, .gitignore
     - Team management: kanban boards with GitHub Projects, SCRUM (Deadlines setting, mentoring)
-- [git](https://github.com/RetrospectAbertay/Lit)
 
 ## Hackathons
 
@@ -111,7 +111,8 @@ __Gameplay Programmer/Design/Team Lead, Serious Game Jam__
 - Engine: Unity 
 - Programming language: C#
 - Platform: Android
-- [gameplay video](https://www.youtube.com/watch?v=G7QTE65uGhw) [git](https://github.com/matzar/Chemistry-Game-Jam)
+- [gameplay video](https://www.youtube.com/watch?v=G7QTE65uGhw)
+- [git](https://github.com/matzar/Chemistry-Game-Jam)
 
 `15.11.2017`
 __Gameplay Programmer/Design/Team Lead, AGDS 4-hour Game Jam__
@@ -119,7 +120,8 @@ __Gameplay Programmer/Design/Team Lead, AGDS 4-hour Game Jam__
 - Engine: Ren’Py 
 - Programming language: Python
 - Platform: Windows
-- [gameplay video](https://www.youtube.com/watch?v=Vm5y8DxGTPA) [git](https://github.com/matzar/ren-py)
+- [gameplay video](https://www.youtube.com/watch?v=Vm5y8DxGTPA)
+- [git](https://github.com/matzar/ren-py)
 
 `15.08.2016 – 17.08.2016`
 __Gameplay Programmer/Design/Team Lead, Rainbow Game Jam__
@@ -127,7 +129,9 @@ __Gameplay Programmer/Design/Team Lead, Rainbow Game Jam__
 - Engine: Unity 
 - Programming language: C# 
 - Platforms: Windows, MAC, Linux
-- [gameplay video](https://www.youtube.com/watch?v=ZmV5vOcXYbA) [git](https://github.com/matzar/infinite-runner) [play in browser](https://mateuszzaremba.itch.io/rainbow-dash)
+- [gameplay video](https://www.youtube.com/watch?v=ZmV5vOcXYbA) 
+- [git](https://github.com/matzar/infinite-runner) 
+- [play in browser](https://mateuszzaremba.itch.io/rainbow-dash)
 
 `29.01.2016 – 31.01.2016` 
 __Gameplay Programmer, Global Game Jam 2016__
