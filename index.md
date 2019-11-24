@@ -37,8 +37,8 @@ __University of Stirling, United Kingdom__
 `2015 - 2018`
 
 __University of Abertay Dundee, United Kingdom__
-- BSc with Merit in Computer Game Applications Development, 2:1
-    - [Higher Education Achievement Report](https://matzar.github.io/hear/) 
+BSc with Merit in Computer Game Applications Development, 2:1\
+[Higher Education Achievement Report](https://matzar.github.io/hear/) 
 
 - 3rd year modules (GPA: 2.83):
     - Graphics Programming with Shaders (C+)
@@ -69,9 +69,6 @@ __University of Abertay Dundee, United Kingdom__
 __The Data Lab MSc scholarship__
 - Fully funded MSc place
 - Data Scientist training 
-
-***
----
 
 ## Relevant Experience
 `01.2019 – 02.2019` 
