@@ -129,7 +129,7 @@ __Gameplay Programmer/Design/Team Lead, Rainbow Game Jam__
 - Engine: Unity 
 - Programming language: C# 
 - Platforms: Windows, MAC, Linux
-- [gameplay video](https://www.youtube.com/watch?v=ZmV5vOcXYbA) [git](https://github.com/matzar/infinite-runner)   [play in browser](https://mateuszzaremba.itch.io/rainbow-dash)
+- [gameplay video](https://www.youtube.com/watch?v=ZmV5vOcXYbA) , [git](https://github.com/matzar/infinite-runner) , [play in browser](https://mateuszzaremba.itch.io/rainbow-dash)
 
 `29.01.2016 – 31.01.2016` 
 __Gameplay Programmer, Global Game Jam 2016__
