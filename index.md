@@ -117,7 +117,7 @@ __Gameplay Programmer/Design/Team Lead, Serious Game Jam__
 __Gameplay Programmer/Design/Team Lead, AGDS 4-hour Game Jam__
 - Brief visual novel with animations, telling a joke
 - Made in 4-hours with two artists
-- Engine: Ren’Py 
+- *Engine*: Ren’Py 
 - Programming language: Python
 - Platform: Windows
 - [gameplay video](https://www.youtube.com/watch?v=Vm5y8DxGTPA) , [git](https://github.com/matzar/ren-py)

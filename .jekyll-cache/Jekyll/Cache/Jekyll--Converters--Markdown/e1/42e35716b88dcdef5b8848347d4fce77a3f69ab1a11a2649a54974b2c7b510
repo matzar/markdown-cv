@@ -1,4 +1,4 @@
-I"<h1 id="mateusz-zaremba">Mateusz Zaremba</h1>
+I"<h1 id="mateusz-zaremba">Mateusz Zaremba</h1>
 <p>Programmer, Mathematician, Graduate student.</p>
 
 <div id="webaddress">
@@ -147,7 +147,7 @@
 <ul>
   <li>Brief visual novel with animations, telling a joke</li>
   <li>Made in 4-hours with two artists</li>
-  <li>Engine: Ren’Py</li>
+  <li><em>Engine</em>: Ren’Py</li>
   <li>Programming language: Python</li>
   <li>Platform: Windows</li>
   <li><a href="https://www.youtube.com/watch?v=Vm5y8DxGTPA">gameplay video</a> , <a href="https://github.com/matzar/ren-py">git</a></li>
