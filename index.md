@@ -99,7 +99,9 @@ __Lead Programmer, Abertay University: Professional Project__
     - Prototyping
     - Game programming
     - Source control maintenance: merging, pull requests, .gitignore
-    - Team management: kanban boards with GitHub Projects, SCRUM (Deadlines setting, mentoring)
+- Team management: 
+    - Kanban boards with GitHub Projects 
+    - SCRUM (Deadlines setting, mentoring)
 
 ## Hackathons
 
