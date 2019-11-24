@@ -74,39 +74,39 @@ __The Data Lab MSc scholarship__
 ## Relevant Experience
 `01.2019 – 02.2019` 
 __C++ Software Engineer Intern, First Line Software for Viastore__
-- Design and implementation of large distributed IT systems according to customer and project requirements.
-- Quick and efficient concept creation and prototyping of new solutions.
-- Close co-operation with product management to understand the requirements of customers and deliver the agreed solution on time
-- Testing of the developed solution
+- Learned about: 
+    - Large distributed IT systems
+    - Rapid prototyping
 
 `08.2018 – 10.2018` 
 __Unreal Game Programmer Intern, Bohemia Interactive__
-- Project worked on – Vigor ([video] update I worked on), post-apocalyptic survival game
-- Engine: UE4 
-- Platform: XBOX ONE
+- Project worked on – [Vigor](https://www.youtube.com/watch?v=tJS4gItz56s), post-apocalyptic survival game
+    - Engine: UE4 
+    - Platform: XBOX ONE
 - Key responsibilities:
-- Networked gameplay programming
-- UI programming
-- Developing new solutions based on already existing ones and bug fixing
+    - Gameplay development
+    - Problem solving
 
 `09.2017 – 06.2018` 
 __Lead Programmer, Abertay University: Professional Project__
 - Project worked on – Mobile game for Junkfish Game Company
 - Retro platformer for Timex company (git)
-- Engine: Unity
-- Programming language: C#
-- Platforms: Android (Junk Fish), Windows (Timex)
+    - Engine: Unity
+    - Programming language: C#
+    - Platforms: Android (Junk Fish), Windows (Timex)
 - Key responsibilities:
-- Prototyping and gameplay programming
-- Source control maintenance (merging, pull requests, .gitignore)
-- Programming team management using GitHub Projects with kanban board, SCRUM (Deadlines setting, mentoring)
+    - Prototyping
+    - Game programming
+    - Source control maintenance: merging, pull requests, .gitignore
+    - Team management: kanban boards with GitHub Projects, SCRUM (Deadlines setting, mentoring)
 
 ## Hackathons
 
 `24.01.2018 – 26.01.2018`
 __Gameplay Programmer/Design/Team Lead, Serious Game Jam__
-- Mobile game prototype aiding lectures and students at the University of St Andrews with 
-- practical exercises preparation and explanation
+- Mobile game prototype 
+    - Aid for lectures and students of the University of St Andrews,
+    - with practical exercises preparation and explanation
 - Engine: Unity 
 - Programming language: C#
 - Platform: Android (video link, git)
