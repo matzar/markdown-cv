@@ -1,0 +1,220 @@
+I"�<h1 id="mateusz-zaremba">Mateusz Zaremba</h1>
+<p>Programmer, Mathematician, Graduate student.</p>
+
+<div id="webaddress">
+<a href="mailto:mat.zar@icloud.com">mat.zar@icloud.com</a>
+| <a href="https://matzar.github.io/">Personal website</a>
+| Update: 20 November, 2019
+</div>
+
+<h2 id="currently">Currently</h2>
+
+<p>Studying towards MSc in Mathematics and Data Science at the University of Stirling</p>
+
+<h3 id="specialized-in">Specialized in</h3>
+
+<p>C++, Python, R, Statistical Analysis, Big Data</p>
+
+<h3 id="research-interests">Research interests</h3>
+
+<p>Statistical analysis for data science, representing and manipulating data using R and Python programming languages</p>
+
+<h2 id="education">Education</h2>
+
+<p><code class="highlighter-rouge">2019 - now</code>
+<strong>University of Stirling, United Kingdom</strong></p>
+<ul>
+  <li>MSc in Mathematics and Data Science</li>
+</ul>
+
+<p><code class="highlighter-rouge">2015 - 2018</code></p>
+
+<p><strong>University of Abertay Dundee, United Kingdom</strong></p>
+<ul>
+  <li>BSc with Merit in Computer Game Applications Development, 2:1
+    <ul>
+      <li><a href="https://matzar.github.io/hear/">Higher Education Achievement Report</a></li>
+    </ul>
+  </li>
+  <li>3rd year modules (GPA: 2.83):
+    <ul>
+      <li>Graphics Programming with Shaders (C+)</li>
+      <li>Gameplay Mechanics Development (C+)</li>
+      <li>Network Systems for Game Development (A)</li>
+      <li>Artificial Intelligence (B)</li>
+      <li>Professional Team Project: Planning and Prototyping (C+)</li>
+      <li>Professional Team Project: Development and Delivery (C+)</li>
+    </ul>
+  </li>
+  <li>2nd year modules (GPA: 4.17)
+    <ul>
+      <li>Data Structures and Algorithms 1 (A)</li>
+      <li>Data Structures and Algorithms 2 (A+)</li>
+      <li>Graphics Programming (A)</li>
+      <li>Game Programming and System Architectures (A)</li>
+      <li>Film and Game Genres (A)</li>
+      <li>Mathematics for Application Development 2 (A+)</li>
+    </ul>
+  </li>
+  <li>1st year modules (GPA: 3.63):
+    <ul>
+      <li>Computer and Graphics Architectures (A)</li>
+      <li>Programming in C++ (A)</li>
+      <li>Narrative Theory in Interactive Game Design (C+)</li>
+      <li>Mathematics for Applications Development 1 (A+)</li>
+      <li>Asset Production for Games (B+)</li>
+      <li>Games for Change (B+)</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="awards">Awards</h2>
+
+<p><code class="highlighter-rouge">2019</code>
+<strong>The Data Lab MSc scholarship</strong></p>
+<ul>
+  <li>Fully funded MSc place</li>
+  <li>Data Scientist training</li>
+</ul>
+
+<h2 id="relevant-experience">Relevant Experience</h2>
+<p><code class="highlighter-rouge">01.2019 – 02.2019</code> 
+<strong>C++ Software Engineer Intern, First Line Software for Viastore</strong></p>
+<ul>
+  <li>Learned about:
+    <ul>
+      <li>Large distributed IT systems</li>
+      <li>Rapid prototyping</li>
+    </ul>
+  </li>
+</ul>
+
+<p><code class="highlighter-rouge">08.2018 – 10.2018</code> 
+<strong>Unreal Game Programmer Intern, Bohemia Interactive</strong></p>
+<ul>
+  <li>Project worked on: <a href="https://www.youtube.com/watch?v=tJS4gItz56s">Vigor</a>, post-apocalyptic survival game
+    <ul>
+      <li>Engine: UE4</li>
+      <li>Platform: XBOX ONE</li>
+    </ul>
+  </li>
+  <li>Key responsibilities:
+    <ul>
+      <li>Gameplay development</li>
+      <li>Problem solving</li>
+    </ul>
+  </li>
+</ul>
+
+<p><code class="highlighter-rouge">09.2017 – 06.2018</code> 
+<strong>Lead Programmer, Abertay University: Professional Project</strong></p>
+<ul>
+  <li>Project worked on: Mobile game for <a href="https://www.teamjunkfish.com/">Junkfish</a> Game Company</li>
+  <li>Retro platformer for <a href="https://www.timex.com/">Timex</a>
+    <ul>
+      <li>Engine: Unity</li>
+      <li>Programming language: C#</li>
+      <li>Platforms: Android (Junk Fish), Windows (Timex)</li>
+      <li><a href="https://github.com/RetrospectAbertay/Lit">git</a></li>
+    </ul>
+  </li>
+  <li>Key responsibilities:
+    <ul>
+      <li>Prototyping</li>
+      <li>Game programming</li>
+      <li>Source control maintenance: merging, pull requests, .gitignore</li>
+      <li>Team management: kanban boards with GitHub Projects, SCRUM (Deadlines setting, mentoring)</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="hackathons">Hackathons</h2>
+
+<p><code class="highlighter-rouge">24.01.2018 – 26.01.2018</code>
+<strong>Gameplay Programmer/Design/Team Lead, Serious Game Jam</strong></p>
+<ul>
+  <li>Mobile game prototype:</li>
+  <li>aid for lectures and students of the University of St Andrews,</li>
+  <li>with practical exercises preparation and explanation</li>
+  <li>Engine: Unity</li>
+  <li>Programming language: C#</li>
+  <li>Platform: Android</li>
+  <li><a href="https://www.youtube.com/watch?v=G7QTE65uGhw">gameplay video</a> , <a href="https://github.com/matzar/Chemistry-Game-Jam">git</a></li>
+</ul>
+
+<p><code class="highlighter-rouge">15.11.2017</code>
+<strong>Gameplay Programmer/Design/Team Lead, AGDS 4-hour Game Jam</strong></p>
+<ul>
+  <li>Brief visual novel with animations, telling a joke</li>
+  <li>Made in 4-hours with two artists</li>
+  <li>Engine: Ren’Py</li>
+  <li>Programming language: Python</li>
+  <li>Platform: Windows</li>
+  <li><a href="https://www.youtube.com/watch?v=Vm5y8DxGTPA">gameplay video</a> , <a href="https://github.com/matzar/ren-py">git</a></li>
+</ul>
+
+<p><code class="highlighter-rouge">15.08.2016 – 17.08.2016</code>
+<strong>Gameplay Programmer/Design/Team Lead, Rainbow Game Jam</strong></p>
+<ul>
+  <li>Infinite runner chosen to be made in 48-hours with two other artists and a sound designer</li>
+  <li>Engine: Unity</li>
+  <li>Programming language: C#</li>
+  <li>Platforms: Windows, MAC, Linux</li>
+  <li><a href="https://www.youtube.com/watch?v=ZmV5vOcXYbA">gameplay video</a> , <a href="https://github.com/matzar/infinite-runner">git</a> , <a href="https://mateuszzaremba.itch.io/rainbow-dash">play in browser</a></li>
+</ul>
+
+<p><code class="highlighter-rouge">29.01.2016 – 31.01.2016</code> 
+<strong>Gameplay Programmer, Global Game Jam 2016</strong></p>
+<ul>
+  <li>Easy pick-up game. My first Unity project and first game jam</li>
+  <li>Engine: Unity</li>
+  <li>Programming language: C#</li>
+  <li>Platforms: Windows, MAC, Linux</li>
+  <li><a href="https://www.youtube.com/watch?v=qdlMIl685iU">gameplay video</a></li>
+</ul>
+
+<h2 id="societies">Societies</h2>
+<p><code class="highlighter-rouge">Sep 2015 – Jul 2018</code>
+<strong>Member of Abertay Game Development Society:</strong> <a href="https://github.com/jctwood/EGD-RhythmGame">1st year project</a>, <a href="https://github.com/GeorgeRankin/space-whales">2nd year project</a></p>
+
+<h2 id="volunteer-experience">Volunteer Experience</h2>
+<p><code class="highlighter-rouge">Sep 2017 - Aug 2018</code>
+<strong>Built and managed St Andrew’s RC Cathedral website</strong></p>
+<ul>
+  <li><a href="http://www.standrewscathedraldundee.com/">http://www.standrewscathedraldundee.com/</a></li>
+</ul>
+
+<p><code class="highlighter-rouge">Sep 2015 – Apr 2016</code>
+<strong>Class Representative of the 1st Year Computer Applications Game Development course</strong></p>
+
+<h2 id="other-experience">Other Experience</h2>
+<p><code class="highlighter-rouge">Oct 2015 – Dec 2015</code> 
+<strong>Warden, St. Ninian’s Institute, Diocese of Dunkeld</strong></p>
+<ul>
+  <li>Taking care of the St Ninian’s Institute and its guests</li>
+  <li>Welcoming at the reception and showing guests to their rooms</li>
+</ul>
+
+<p><code class="highlighter-rouge">Apr 2015 – Aug 2015</code> 
+<strong>Waiter/Bartender, Drumoig Golf Hotel</strong></p>
+<ul>
+  <li>Welcoming people at the reception</li>
+  <li>Bartending</li>
+  <li>Waitering</li>
+</ul>
+
+<p><code class="highlighter-rouge">May 2013 – Aug 2013</code> 
+<strong>Office Assistant, University of Wroclaw</strong></p>
+<ul>
+  <li>Calling vendors to set up appointments and gather information</li>
+  <li>Post delivery</li>
+  <li>Clerk duties
+Jan 2009 – Aug 2009: Younger Lifeguard, Wroclaw Water Park
+Taking care of visitors safety and well being. Stamina and health training. Took part in a solo rescue action</li>
+</ul>
+
+<!-- ### Footer
+
+Last updated: Nov 2019 -->
+
+:ET
