@@ -138,7 +138,8 @@ __Member of Abertay Game Development Society:__ [1st year project](https://githu
 
 ## Volunteer Experience
 `Sep 2017 - Aug 2018`
-__Built and managed St Andrew's RC Cathedral [website]((http://www.standrewscathedraldundee.com/)__
+__Built and managed St Andrew's RC Cathedral website__
+[http://www.standrewscathedraldundee.com/]((http://www.standrewscathedraldundee.com/)
 
 `Sep 2015 – Apr 2016`
 __Class Representative of the 1st Year Computer Applications Game Development course__
