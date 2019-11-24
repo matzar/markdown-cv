@@ -25,7 +25,7 @@ C++, Python, R, Statistical Analysis, Big Data
 
 ### Research interests
 
-Statistical analysis for data science, representing and manipulating data using R and Python programming languages
+Statistical analysis for data science, representing and manipulating data using R and Python programming
 
 
 ## Education
