@@ -10,7 +10,7 @@ Programmer, Mathematician, Graduate student.
 <div id="webaddress">
 <a href="mailto:mat.zar@icloud.com">mat.zar@icloud.com</a>
 | <a href="https://matzar.github.io/">Personal website</a>
-| Update: 20 November, 2019
+| Update: 24 November, 2019
 </div>
 
 
@@ -89,7 +89,8 @@ __Unreal Game Programmer Intern, Bohemia Interactive__
 
 `09.2017 – 06.2018` 
 __Lead Programmer, Abertay University: Professional Project__
-- Project worked on: Mobile game for [Junkfish](https://www.teamjunkfish.com/) Game Company
+- Projects worked on: 
+- Mobile game for [Junkfish](https://www.teamjunkfish.com/) Game Company
 - Retro platformer for [Timex](https://www.timex.com/)
     - Engine: Unity
     - Programming language: C#
@@ -106,8 +107,8 @@ __Lead Programmer, Abertay University: Professional Project__
 `24.01.2018 – 26.01.2018`
 __Gameplay Programmer/Design/Team Lead, Serious Game Jam__
 - Mobile game prototype:
-- aid for lectures and students of the University of St Andrews,
-- with practical exercises preparation and explanation
+- Aid for lectures and students from the University of St Andrews,
+- with preparation and explanation of their practical exercises
 - Engine: Unity 
 - Programming language: C#
 - Platform: Android
