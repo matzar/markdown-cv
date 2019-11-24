@@ -96,7 +96,7 @@ __Lead Programmer, Abertay University: Professional Project__
     - Platforms: Android (Junk Fish), Windows (Timex)
     - [git](https://github.com/RetrospectAbertay/Lit)
 - Key responsibilities:
-    - Prototyping
+    <li>Prototyping</li>
     - Game programming
     - Source control maintenance: merging, pull requests, .gitignore
     - Team management: kanban boards with GitHub Projects, SCRUM (Deadlines setting, mentoring)
