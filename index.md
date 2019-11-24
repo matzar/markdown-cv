@@ -130,6 +130,9 @@ __Gameplay Programmer/Design/Team Lead, Rainbow Game Jam__
 - Programming language: C# 
 - Platforms: Windows, MAC, Linux
 <div>
+<a href="https://www.youtube.com/watch?v=ZmV5vOcXYbA">gameplay video</a>
+| <a href="https://matzar.github.io/">Personal website</a>
+| Update: 20 November, 2019
 - [gameplay video](https://www.youtube.com/watch?v=ZmV5vOcXYbA) | [git](https://github.com/matzar/infinite-runner) | [play in browser](https://mateuszzaremba.itch.io/rainbow-dash)
 </div>
 
