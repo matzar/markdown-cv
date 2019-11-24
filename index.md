@@ -68,8 +68,8 @@ __University of Abertay Dundee, United Kingdom__
 
 `2019`
 __The Data Lab MSc scholarship__
-    - Fully funded MSc place
-    - Data Science training 
+- Fully funded MSc place
+- Data Science training 
 
 
 ## Relevant Experience
