@@ -42,7 +42,7 @@ BSc with Merit in Computer Game Applications Development, 2:1\
 \
 \
 \
-- 3rd year modules (GPA: 2.83):
+- 3rd year modules (GPA: 2.83):\
     - Graphics Programming with Shaders (C+)
     - Gameplay Mechanics Development (C+)
     - Network Systems for Game Development (A)
