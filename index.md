@@ -70,7 +70,6 @@ __The Data Lab MSc scholarship__
 - Fully funded MSc place
 - Data Scientist training 
 
-
 ## Relevant Experience
 `01.2019 – 02.2019` 
 __C++ Software Engineer Intern, First Line Software for Viastore__
