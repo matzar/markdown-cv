@@ -36,7 +36,7 @@ __University of Stirling, United Kingdom__
 
 `2015 - 2018`
 
-__University of Abertay Dundee, United Kingdom__
+__University of Abertay Dundee, United Kingdom__\
 BSc with Merit in Computer Game Applications Development, 2:1\
 [Higher Education Achievement Report](https://matzar.github.io/hear/) 
 
