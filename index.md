@@ -90,7 +90,7 @@ __Unreal Game Programmer Intern, Bohemia Interactive__
 - Developing new solutions based on already existing ones and bug fixing
 
 `09.2017 – 06.2018` 
-__Lead Programme, Abertay University: Professional Project__
+__Lead Programmer, Abertay University: Professional Project__
 - Project worked on – Mobile game for Junkfish Game Company
 - Retro platformer for Timex company (git)
 - Engine: Unity
