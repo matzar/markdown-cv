@@ -63,10 +63,10 @@ __University of Abertay Dundee, United Kingdom__
     - Games for Change (B+)
 
 `Sep 2015 – Jul 2018`
-Member of Abertay Game Development Society ([1st year project](https://github.com/jctwood/EGD-RhythmGame), [2nd year project](https://github.com/GeorgeRankin/space-whales))
+__Member of Abertay Game Development Society:__ [1st year project](https://github.com/jctwood/EGD-RhythmGame), [2nd year project](https://github.com/GeorgeRankin/space-whales)
 
 `Sep 2015 – Apr 2016`
-Class Representative for 1st Year Computer Applications Game Development course
+__Class Representative of the 1st Year Computer Applications Game Development course__
 
 
 
