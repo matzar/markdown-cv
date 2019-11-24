@@ -1,4 +1,4 @@
-I"<h1 id="mateusz-zaremba">Mateusz Zaremba</h1>
+I".<h1 id="mateusz-zaremba">Mateusz Zaremba</h1>
 <p>Programmer, Mathematician, Graduate student.</p>
 
 <div id="webaddress">
@@ -158,8 +158,10 @@
 
 <h2 id="volunteer-experience">Volunteer Experience</h2>
 <p><code class="highlighter-rouge">Sep 2017 - Aug 2018</code>
-<strong>Built and managed St Andrew’s RC Cathedral website</strong>
-<a href="http://www.standrewscathedraldundee.com/">http://www.standrewscathedraldundee.com/</a></p>
+<strong>Built and managed St Andrew’s RC Cathedral website</strong></p>
+<ul>
+  <li><a href="http://www.standrewscathedraldundee.com/">http://www.standrewscathedraldundee.com/</a></li>
+</ul>
 
 <p><code class="highlighter-rouge">Sep 2015 – Apr 2016</code>
 <strong>Class Representative of the 1st Year Computer Applications Game Development course</strong></p>
