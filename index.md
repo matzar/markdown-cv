@@ -134,21 +134,13 @@ __Gameplay Programmer, Global Game Jam 2016__
 - Platforms: Windows, MAC, Linux (video link)
 
 
-## Occupation
 
-`1600`
-__Royal Mint__, London
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Nov 2019 -->
 
 
