@@ -1,4 +1,4 @@
-I" <h1 id="mateusz-zaremba">Mateusz Zaremba</h1>
+I"z <h1 id="mateusz-zaremba">Mateusz Zaremba</h1>
 <p>Programmer, Mathematician, Graduate student.</p>
 
 <div id="webaddress">
@@ -17,7 +17,7 @@
 
 <h3 id="research-interests">Research interests</h3>
 
-<p>Statistical analysis for data science, representing and manipulating data using R and Python programming languages</p>
+<p>Statistical analysis for data science, representing and manipulating data using R and Python programming</p>
 
 <h2 id="education">Education</h2>
 
@@ -77,6 +77,9 @@
   <li>Data Scientist training</li>
 </ul>
 
+<hr />
+<hr />
+
 <h2 id="relevant-experience">Relevant Experience</h2>
 <p><code class="highlighter-rouge">01.2019 – 02.2019</code> 
 <strong>C++ Software Engineer Intern, First Line Software for Viastore</strong></p>
@@ -124,7 +127,12 @@
       <li>Prototyping</li>
       <li>Game programming</li>
       <li>Source control maintenance: merging, pull requests, .gitignore</li>
-      <li>Team management: kanban boards with GitHub Projects, SCRUM (Deadlines setting, mentoring)</li>
+    </ul>
+  </li>
+  <li>Team management:
+    <ul>
+      <li>Kanban boards with GitHub Projects</li>
+      <li>SCRUM (Deadlines setting, mentoring)</li>
     </ul>
   </li>
 </ul>
@@ -218,11 +226,6 @@
   <li>Taking care of visitors safety and well being</li>
   <li>Stamina and wellbeing training</li>
 </ul>
-
-<hr />
-<hr />
-
-<p>References available upon request</p>
 
 <!-- ### Footer
 

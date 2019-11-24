@@ -1,4 +1,4 @@
-I"u <h1 id="mateusz-zaremba">Mateusz Zaremba</h1>
+I"k <h1 id="mateusz-zaremba">Mateusz Zaremba</h1>
 <p>Programmer, Mathematician, Graduate student.</p>
 
 <div id="webaddress">
@@ -124,7 +124,12 @@
       <li>Prototyping</li>
       <li>Game programming</li>
       <li>Source control maintenance: merging, pull requests, .gitignore</li>
-      <li>Team management: kanban boards with GitHub Projects, SCRUM (Deadlines setting, mentoring)</li>
+    </ul>
+  </li>
+  <li>Team management:
+    <ul>
+      <li>Kanban boards with GitHub Projects</li>
+      <li>SCRUM (Deadlines setting, mentoring)</li>
     </ul>
   </li>
 </ul>
@@ -218,11 +223,6 @@
   <li>Taking care of visitors safety and well being</li>
   <li>Stamina and wellbeing training</li>
 </ul>
-
-<hr />
-<hr />
-
-<p>References available upon request</p>
 
 <!-- ### Footer
 
