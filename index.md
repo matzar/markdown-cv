@@ -80,7 +80,7 @@ __C++ Software Engineer Intern, First Line Software for Viastore__
 
 `08.2018 – 10.2018` 
 __Unreal Game Programmer Intern, Bohemia Interactive__
-- Project worked on – [Vigor](https://www.youtube.com/watch?v=tJS4gItz56s), post-apocalyptic survival game
+- Project worked on: [Vigor](https://www.youtube.com/watch?v=tJS4gItz56s), post-apocalyptic survival game
     - Engine: UE4 
     - Platform: XBOX ONE
 - Key responsibilities:
@@ -89,8 +89,8 @@ __Unreal Game Programmer Intern, Bohemia Interactive__
 
 `09.2017 – 06.2018` 
 __Lead Programmer, Abertay University: Professional Project__
-- Project worked on – Mobile game for Junkfish Game Company
-- Retro platformer for Timex company (git)
+- Project worked on: Mobile game for [Junkfish](https://www.teamjunkfish.com/) Game Company
+- Retro platformer for [Timex](https://www.timex.com/)
     - Engine: Unity
     - Programming language: C#
     - Platforms: Android (Junk Fish), Windows (Timex)
@@ -99,31 +99,35 @@ __Lead Programmer, Abertay University: Professional Project__
     - Game programming
     - Source control maintenance: merging, pull requests, .gitignore
     - Team management: kanban boards with GitHub Projects, SCRUM (Deadlines setting, mentoring)
+- [git](https://github.com/RetrospectAbertay/Lit)
 
 ## Hackathons
 
 `24.01.2018 – 26.01.2018`
 __Gameplay Programmer/Design/Team Lead, Serious Game Jam__
-- Mobile game prototype 
-    - Aid for lectures and students of the University of St Andrews,
+- Mobile game prototype:
+    - aid for lectures and students of the University of St Andrews,
     - with practical exercises preparation and explanation
 - Engine: Unity 
 - Programming language: C#
-- Platform: Android (video link, git)
+- Platform: Android
+- [gameplay video](https://www.youtube.com/watch?v=G7QTE65uGhw) [git](https://github.com/matzar/Chemistry-Game-Jam)
 
 `15.11.2017`
 __Gameplay Programmer/Design/Team Lead, AGDS 4-hour Game Jam__
 - Brief visual novel with animations, presenting a joke, made in 4-hours with two artists
 - Engine: Ren’Py 
 - Programming language: Python
-- Platform: Windows (video link, git)
+- Platform: Windows
+- [gameplay video](https://www.youtube.com/watch?v=Vm5y8DxGTPA) [git](https://github.com/matzar/ren-py)
 
 `15.08.2016 – 17.08.2016`
 __Gameplay Programmer/Design/Team Lead, Rainbow Game Jam__
 - Infinite runner chosen to be made in 48-hours with two other artists and a sound designer
 - Engine: Unity 
 - Programming language: C# 
-- Platforms: Windows, MAC, Linux (video link, git, play game)
+- Platforms: Windows, MAC, Linux
+- [gameplay video](https://www.youtube.com/watch?v=ZmV5vOcXYbA) [git](https://github.com/matzar/infinite-runner) [play in browser](https://mateuszzaremba.itch.io/rainbow-dash)
 
 `29.01.2016 – 31.01.2016` 
 __Gameplay Programmer, Global Game Jam 2016__
