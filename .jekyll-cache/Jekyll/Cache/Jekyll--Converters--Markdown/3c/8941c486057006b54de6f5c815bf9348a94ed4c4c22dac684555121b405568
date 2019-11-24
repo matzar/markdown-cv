@@ -1,4 +1,4 @@
-I"$<h1 id="mateusz-zaremba">Mateusz Zaremba</h1>
+I"<h1 id="mateusz-zaremba">Mateusz Zaremba</h1>
 <p>Programmer, Mathematician, Graduate student.</p>
 
 <div id="webaddress">
@@ -133,12 +133,9 @@
 <p><code class="highlighter-rouge">24.01.2018 – 26.01.2018</code>
 <strong>Gameplay Programmer/Design/Team Lead, Serious Game Jam</strong></p>
 <ul>
-  <li>Mobile game prototype:
-    <ul>
-      <li>aid for lectures and students of the University of St Andrews,</li>
-      <li>with practical exercises preparation and explanation</li>
-    </ul>
-  </li>
+  <li>Mobile game prototype:</li>
+  <li>aid for lectures and students of the University of St Andrews,</li>
+  <li>with practical exercises preparation and explanation</li>
   <li>Engine: Unity</li>
   <li>Programming language: C#</li>
   <li>Platform: Android</li>
