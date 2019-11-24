@@ -129,16 +129,15 @@ __Gameplay Programmer/Design/Team Lead, Rainbow Game Jam__
 - Engine: Unity 
 - Programming language: C# 
 - Platforms: Windows, MAC, Linux
-- [gameplay video](https://www.youtube.com/watch?v=ZmV5vOcXYbA) 
-- [git](https://github.com/matzar/infinite-runner) 
-- [play in browser](https://mateuszzaremba.itch.io/rainbow-dash)
+- [gameplay video](https://www.youtube.com/watch?v=ZmV5vOcXYbA) [git](https://github.com/matzar/infinite-runner)   [play in browser](https://mateuszzaremba.itch.io/rainbow-dash)
 
 `29.01.2016 – 31.01.2016` 
 __Gameplay Programmer, Global Game Jam 2016__
-- Easy pick-up game. My first Unity game and first game jam
+- Easy pick-up game. My first Unity project and first game jam
 - Engine: Unity 
 - Programming language: C# 
-- Platforms: Windows, MAC, Linux (video link)
+- Platforms: Windows, MAC, Linux
+- [video](https://www.youtube.com/watch?v=qdlMIl685iU)
 
 ## Societies
 `Sep 2015 – Jul 2018`
