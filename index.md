@@ -135,7 +135,7 @@ __Gameplay Programmer, Global Game Jam 2016__
 - Engine: Unity 
 - Programming language: C# 
 - Platforms: Windows, MAC, Linux
-- [video](https://www.youtube.com/watch?v=qdlMIl685iU)
+- [gameplay video](https://www.youtube.com/watch?v=qdlMIl685iU)
 
 ## Societies
 `Sep 2015 – Jul 2018`
