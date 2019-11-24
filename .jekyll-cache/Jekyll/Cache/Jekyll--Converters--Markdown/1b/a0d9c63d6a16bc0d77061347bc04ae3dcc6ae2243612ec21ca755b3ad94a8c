@@ -1,4 +1,4 @@
-I"5<h1 id="mateusz-zaremba">Mateusz Zaremba</h1>
+I".<h1 id="mateusz-zaremba">Mateusz Zaremba</h1>
 <p>Programmer, Mathematician, Graduate student.</p>
 
 <div id="webaddress">
@@ -32,6 +32,39 @@
 <ul>
   <li>BSc with Merit in Computer Game Applications Development, 2:1</li>
   <li><a href="https://matzar.github.io/hear/">Higher Education Achievement Report</a></li>
+  <li>
+    <p><a href="https://matzar.github.io/hear/">Higher Education Achievement Report</a></p>
+  </li>
+  <li>3rd year modules (GPA: 2.83):
+    <ul>
+      <li>Graphics Programming with Shaders (C+)</li>
+      <li>Gameplay Mechanics Development (C+)</li>
+      <li>Network Systems for Game Development (A)</li>
+      <li>Artificial Intelligence (B)</li>
+      <li>Professional Team Project: Planning and Prototyping (C+)</li>
+      <li>Professional Team Project: Development and Delivery (C+)</li>
+    </ul>
+  </li>
+  <li>2nd year modules (GPA: 4.17)
+    <ul>
+      <li>Data Structures and Algorithms 1 (A)</li>
+      <li>Data Structures and Algorithms 2 (A+)</li>
+      <li>Graphics Programming (A)</li>
+      <li>Game Programming and System Architectures (A)</li>
+      <li>Film and Game Genres (A)</li>
+      <li>Mathematics for Application Development 2 (A+)</li>
+    </ul>
+  </li>
+  <li>1st year modules (GPA: 3.63):
+    <ul>
+      <li>Computer and Graphics Architectures (A)</li>
+      <li>Programming in C++ (A)</li>
+      <li>Narrative Theory in Interactive Game Design (C+)</li>
+      <li>Mathematics for Applications Development 1 (A+)</li>
+      <li>Asset Production for Games (B+)</li>
+      <li>Games for Change (B+)</li>
+    </ul>
+  </li>
 </ul>
 
 <h2 id="awards">Awards</h2>
@@ -75,7 +108,7 @@ The Data Lab MSc scholarship</p>
   <li>Programming team management using GitHub Projects with kanban board, SCRUM (Deadlines setting, mentoring)</li>
 </ul>
 
-<h2 id="game-jams">Game Jams</h2>
+<h2 id="hackathons">Hackathons</h2>
 
 <p><code class="highlighter-rouge">24.01.2018 – 26.01.2018</code>
 <strong>Gameplay Programmer/Design/Team Lead, Serious Game Jam</strong></p>
