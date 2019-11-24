@@ -90,7 +90,7 @@ __Unreal Game Programmer Intern, Bohemia Interactive__
 __Lead Programmer, Abertay University: Professional Project__
 - Projects worked on: 
 - Mobile game for [Junkfish](https://www.teamjunkfish.com/) Game Company
-- Retro platformer for [Timex](https://www.timex.com/)
+* Retro platformer for [Timex](https://www.timex.com/)
     - Engine: Unity
     - Programming language: C#
     - Platforms: Android (Junk Fish), Windows (Timex)
