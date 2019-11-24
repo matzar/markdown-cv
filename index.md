@@ -73,7 +73,7 @@ __The Data Lab MSc scholarship__
 
 ## Relevant Experience
 `01.2019 – 02.2019` 
-__C++ Software Engineer Intern, First Line Software/Viastore__
+__C++ Software Engineer Intern, First Line Software for Viastore__
 - Design and implementation of large distributed IT systems according to customer and project requirements.
 - Quick and efficient concept creation and prototyping of new solutions.
 - Close co-operation with product management to understand the requirements of customers and deliver the agreed solution on time
