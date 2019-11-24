@@ -62,6 +62,10 @@ __University of Abertay Dundee, United Kingdom__
     - Asset Production for Games (B+)
     - Games for Change (B+)
 
+## Societies
+`Sep 2015 – Jul 2018`
+__Member of Abertay Game Development Society:__ [1st year project](https://github.com/jctwood/EGD-RhythmGame), [2nd year project](https://github.com/GeorgeRankin/space-whales)
+
 
 ## Awards
 
@@ -132,9 +136,6 @@ __Gameplay Programmer, Global Game Jam 2016__
 - Programming language: C# 
 - Platforms: Windows, MAC, Linux (video link)
 
-## Societies
-`Sep 2015 – Jul 2018`
-__Member of Abertay Game Development Society:__ [1st year project](https://github.com/jctwood/EGD-RhythmGame), [2nd year project](https://github.com/GeorgeRankin/space-whales)
 
 ## Volunteer Experience
 `Sep 2015 – Apr 2016`
