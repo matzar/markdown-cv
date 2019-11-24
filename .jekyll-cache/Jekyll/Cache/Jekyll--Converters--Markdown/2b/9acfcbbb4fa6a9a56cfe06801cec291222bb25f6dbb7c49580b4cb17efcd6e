@@ -1,4 +1,4 @@
-I"p <h1 id="mateusz-zaremba">Mateusz Zaremba</h1>
+I"r <h1 id="mateusz-zaremba">Mateusz Zaremba</h1>
 <p>Programmer, Mathematician, Graduate student.</p>
 
 <div id="webaddress">
@@ -120,8 +120,8 @@
     </ul>
   </li>
   <li>Key responsibilities:
-    <li>Prototyping</li>
     <ul>
+      <li>Prototyping</li>
       <li>Game programming</li>
       <li>Source control maintenance: merging, pull requests, .gitignore</li>
       <li>Team management: kanban boards with GitHub Projects, SCRUM (Deadlines setting, mentoring)</li>

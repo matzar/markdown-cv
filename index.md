@@ -96,7 +96,7 @@ __Lead Programmer, Abertay University: Professional Project__
     - Platforms: Android (Junk Fish), Windows (Timex)
     - [git](https://github.com/RetrospectAbertay/Lit)
 - Key responsibilities:
-    <li>Prototyping</li>
+    - Prototyping
     - Game programming
     - Source control maintenance: merging, pull requests, .gitignore
     - Team management: kanban boards with GitHub Projects, SCRUM (Deadlines setting, mentoring)
@@ -173,7 +173,7 @@ __Younger Lifeguard, Wroclaw Water Park__
 - Taking care of visitors safety and well being 
 - Stamina and wellbeing training 
 
-<li>References available upon request</li>
+<h4>References available upon request</h4>
 
 
 
