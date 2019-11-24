@@ -38,8 +38,10 @@ __University of Stirling, United Kingdom__
 
 __University of Abertay Dundee, United Kingdom__\
 BSc with Merit in Computer Game Applications Development, 2:1\
-[Higher Education Achievement Report](https://matzar.github.io/hear/)\
 \
+\
+[Higher Education Achievement Report](https://matzar.github.io/hear/)\
+
 - 3rd year modules (GPA: 2.83):
     - Graphics Programming with Shaders (C+)
     - Gameplay Mechanics Development (C+)
