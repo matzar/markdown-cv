@@ -108,7 +108,6 @@ __Gameplay Programmer/Design/Team Lead, Serious Game Jam__
 - Mobile game prototype:
 - aid for lectures and students of the University of St Andrews,
 - with practical exercises preparation and explanation
-
 - Engine: Unity 
 - Programming language: C#
 - Platform: Android
