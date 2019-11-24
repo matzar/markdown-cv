@@ -90,7 +90,7 @@ __Unreal Game Programmer Intern, Bohemia Interactive__
 __Lead Programmer, Abertay University: Professional Project__
 - Projects worked on: 
 - Mobile game for [Junkfish](https://www.teamjunkfish.com/) Game Company
-* Retro platformer for [Timex](https://www.timex.com/)
+- Retro platformer for [Timex](https://www.timex.com/)
     - Engine: Unity
     - Programming language: C#
     - Platforms: Android (Junk Fish), Windows (Timex)
@@ -173,7 +173,7 @@ __Younger Lifeguard, Wroclaw Water Park__
 - Taking care of visitors safety and well being 
 - Stamina and wellbeing training 
 
-<code>References available upon request</code>
+<code><a>References available upon request</a></div>
 
 
 
