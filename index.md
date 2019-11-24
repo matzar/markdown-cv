@@ -40,7 +40,6 @@ __University of Abertay Dundee, United Kingdom__
 - BSc with Merit in Computer Game Applications Development, 2:1
     - [Higher Education Achievement Report](https://matzar.github.io/hear/) 
 
-
 - 3rd year modules (GPA: 2.83):
     - Graphics Programming with Shaders (C+)
     - Gameplay Mechanics Development (C+)
@@ -62,6 +61,13 @@ __University of Abertay Dundee, United Kingdom__
     - Mathematics for Applications Development 1 (A+)
     - Asset Production for Games (B+)
     - Games for Change (B+)
+
+`Sep 2015 – Jul 2018`
+Member of Abertay Game Development Society ([1st year project](https://github.com/jctwood/EGD-RhythmGame), [2nd year project](https://github.com/GeorgeRankin/space-whales))
+
+`Sep 2015 – Apr 2016`
+Class Representative for 1st Year Computer Applications Game Development course
+
 
 
 ## Awards
