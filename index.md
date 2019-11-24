@@ -103,6 +103,7 @@ __Lead Programmer, Abertay University: Professional Project__
 
 ## Hackathons
 
+<p>
 `24.01.2018 – 26.01.2018`
 __Gameplay Programmer/Design/Team Lead, Serious Game Jam__
 - Mobile game prototype:
@@ -112,12 +113,13 @@ __Gameplay Programmer/Design/Team Lead, Serious Game Jam__
 - Programming language: C#
 - Platform: Android
 - [gameplay video](https://www.youtube.com/watch?v=G7QTE65uGhw) , [git](https://github.com/matzar/Chemistry-Game-Jam)
+</p>
 
 `15.11.2017`
 __Gameplay Programmer/Design/Team Lead, AGDS 4-hour Game Jam__
 - Brief visual novel with animations, telling a joke
 - Made in 4-hours with two artists
-- *Engine*: Ren’Py 
+- Engine: Ren’Py 
 - Programming language: Python
 - Platform: Windows
 - [gameplay video](https://www.youtube.com/watch?v=Vm5y8DxGTPA) , [git](https://github.com/matzar/ren-py)

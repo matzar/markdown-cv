@@ -1,4 +1,4 @@
-I"<h1 id="mateusz-zaremba">Mateusz Zaremba</h1>
+I"~<h1 id="mateusz-zaremba">Mateusz Zaremba</h1>
 <p>Programmer, Mathematician, Graduate student.</p>
 
 <div id="webaddress">
@@ -130,24 +130,24 @@
 
 <h2 id="hackathons">Hackathons</h2>
 
-<p><code class="highlighter-rouge">24.01.2018 – 26.01.2018</code>
-<strong>Gameplay Programmer/Design/Team Lead, Serious Game Jam</strong></p>
-<ul>
-  <li>Mobile game prototype:</li>
-  <li>aid for lectures and students of the University of St Andrews,</li>
-  <li>with practical exercises preparation and explanation</li>
-  <li>Engine: Unity</li>
-  <li>Programming language: C#</li>
-  <li>Platform: Android</li>
-  <li><a href="https://www.youtube.com/watch?v=G7QTE65uGhw">gameplay video</a> , <a href="https://github.com/matzar/Chemistry-Game-Jam">git</a></li>
-</ul>
+<p>
+`24.01.2018 – 26.01.2018`
+__Gameplay Programmer/Design/Team Lead, Serious Game Jam__
+- Mobile game prototype:
+- aid for lectures and students of the University of St Andrews,
+- with practical exercises preparation and explanation
+- Engine: Unity 
+- Programming language: C#
+- Platform: Android
+- [gameplay video](https://www.youtube.com/watch?v=G7QTE65uGhw) , [git](https://github.com/matzar/Chemistry-Game-Jam)
+</p>
 
 <p><code class="highlighter-rouge">15.11.2017</code>
 <strong>Gameplay Programmer/Design/Team Lead, AGDS 4-hour Game Jam</strong></p>
 <ul>
   <li>Brief visual novel with animations, telling a joke</li>
   <li>Made in 4-hours with two artists</li>
-  <li><em>Engine</em>: Ren’Py</li>
+  <li>Engine: Ren’Py</li>
   <li>Programming language: Python</li>
   <li>Platform: Windows</li>
   <li><a href="https://www.youtube.com/watch?v=Vm5y8DxGTPA">gameplay video</a> , <a href="https://github.com/matzar/ren-py">git</a></li>
