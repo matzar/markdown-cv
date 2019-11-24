@@ -173,7 +173,7 @@ __Younger Lifeguard, Wroclaw Water Park__
 - Taking care of visitors safety and well being 
 - Stamina and wellbeing training 
 
-<h4>References available upon request</h4>
+<q>References available upon request</q>
 
 
 
