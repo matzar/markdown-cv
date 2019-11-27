@@ -5,7 +5,7 @@ author: Mateusz Zaremba
 date: 20 November, 2019
 ---
 # Mateusz Zaremba
-Programmer, Mathematician, Graduate student.
+Programmer, Mathematician, Graduate student/
 Dundee
 
 <div id="webaddress">
