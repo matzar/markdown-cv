@@ -154,29 +154,6 @@ __Built and managed St Andrew's RC Cathedral website__
 `Sep 2015 – Apr 2016`
 __Class Representative of the 1st Year Computer Applications Game Development course__
 
-## Other Experience
-`Oct 2015 – Dec 2015` 
-__Warden, St. Ninian's Institute, Diocese of Dunkeld__
-- Taking care of the St Ninian's Institute and its guests 
-- Welcoming at the reception and showing guests to their rooms
-
-`Apr 2015 – Aug 2015` 
-__Waiter/Bartender, Drumoig Golf Hotel__
-- Welcoming people at the reception
-- Bartending 
-- Waitering
-
-`May 2013 – Aug 2013` 
-__Office Assistant, University of Wroclaw__
-- Calling vendors to set up appointments and gather information 
-- Post delivery
-- Clerk duties
-
-`Jan 2009 – Aug 2009` 
-__Younger Lifeguard, Wroclaw Water Park__
-- Taking care of visitors safety and well being 
-- Stamina and wellbeing training 
-
 
 
 
