@@ -17,7 +17,7 @@ Programmer, Mathematician, Graduate student
 ## Currently
 <p>
 <a>Studying towards MSc in Mathematics and Data Science at the University of Stirling</a>
-| <a>Studying towards MSc in Mathematics and Data Science at the University of Stirling</a>
+<a>Studying towards MSc in Mathematics and Data Science at the University of Stirling</a>
 </p>
 
 ### Specialized in
