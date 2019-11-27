@@ -42,8 +42,8 @@ __University of Abertay Dundee, United Kingdom__\
 <p>
 <a>BSc with Merit in Computer Game Applications Development, 2:1</a>
 <br>
-BSc with Merit in Computer Game Applications Development, 2:1
-[Higher Education Achievement Report](https://matzar.github.io/hear/)
+<a>[Higher Education Achievement Report](https://matzar.github.io/hear/)</a>
+<br>
 </p>
 - 3rd year modules (GPA: 2.83):
     - Graphics Programming with Shaders (C+)
