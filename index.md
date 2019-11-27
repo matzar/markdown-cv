@@ -10,13 +10,14 @@ Programmer, Mathematician, Graduate student
 <div id="webaddress">
 <a href="mailto:mat.zar@icloud.com">mat.zar@icloud.com</a>
 | <a href="https://matzar.github.io/">Personal website</a>
-| <a>Update: Dundee, 24th November 2019</a> 
+| <a>Update: Dundee, 24th November 2019</a>
 </div>
 
 
 ## Currently
-
-Studying towards MSc in Mathematics and Data Science at the University of Stirling 
+<div>
+<a>Studying towards MSc in Mathematics and Data Science at the University of Stirling</a>
+</div>
 
 ### Specialized in
 
