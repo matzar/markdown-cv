@@ -38,7 +38,7 @@ __University of Stirling, United Kingdom__
 
 `2015 - 2018`
 
-__University of Abertay Dundee, United Kingdom__\
+__University of Abertay Dundee, United Kingdom__
 <p>
 <a>BSc with Merit in Computer Game Applications Development, 2:1</a>
 <br>
