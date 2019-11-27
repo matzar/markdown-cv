@@ -18,7 +18,6 @@ Programmer, Mathematician, Graduate student
 <p>
 <a>Studying towards MSc in Mathematics and Data Science at the University of Stirling</a>
 <br>
-<a>Studying towards MSc in Mathematics and Data Science at the University of Stirling</a>
 </p>
 
 ### Specialized in
@@ -40,8 +39,12 @@ __University of Stirling, United Kingdom__
 `2015 - 2018`
 
 __University of Abertay Dundee, United Kingdom__\
-BSc with Merit in Computer Game Applications Development, 2:1\
+<p>
+<a>BSc with Merit in Computer Game Applications Development, 2:1</a>
+<br>
+BSc with Merit in Computer Game Applications Development, 2:1
 [Higher Education Achievement Report](https://matzar.github.io/hear/)
+</p>
 - 3rd year modules (GPA: 2.83):
     - Graphics Programming with Shaders (C+)
     - Gameplay Mechanics Development (C+)
