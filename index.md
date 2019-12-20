@@ -2,7 +2,7 @@
 layout: cv
 title: Mateusz Zaremba's CV
 author: Mateusz Zaremba
-date: 20 November, 2019 Dundee
+date: 20 December, 2019 Dundee
 ---
 # Mateusz Zaremba
 Programmer, Mathematician, Graduate student
@@ -32,12 +32,19 @@ Statistical analysis for data science, representing and manipulating data using 
 
 ## Education
 
-`2019 - now`
+`2019 - 2020`
 __University of Stirling, United Kingdom__
-- MSc in Mathematics and Data Science 
+- MSc in Mathematics and Data Science
+    - Representing and Manipulating Data (B)
+    - Commercial and Scientific Applications
+    - Statistics for Data Science
+    - Networks & Graph Theory
+    - Data Analytics
+    - Modelling in Financial and Medical Systems
+    - Stochastic Processes and Optimisation
+    - Dissertation Project
 
 `2015 - 2018`
-
 __University of Abertay Dundee, United Kingdom__
 <p>BSc with Merit in Computer Game Applications Development, 2:1</p>
 <a href="https://matzar.github.io/hear/">Higher Education Achievement Report</a>
@@ -74,19 +81,20 @@ __The Data Lab MSc scholarship__
 
 ## Relevant Experience
 `01.2019 – 02.2019` 
-__C++ Software Engineer Intern, First Line Software for Viastore__
+__C++ Software Engineer Intern, Viastore__
 - Learned about: 
+    - Relational and non-Relational Databases 
     - Large distributed IT systems
-    - Rapid prototyping
+    - Business use of rapid prototyping
 
 `08.2018 – 10.2018` 
 __Unreal Game Programmer Intern, Bohemia Interactive__
 - Project worked on: [Vigor](https://www.youtube.com/watch?v=tJS4gItz56s), post-apocalyptic survival game
-    - Engine: UE4 
-    - Platform: XBOX ONE
-- Key responsibilities:
-    - Gameplay development
-    - Problem solving
+- Internship responsibilities:
+    - Networked gameplay programming
+    - UI programming
+    - Prototyping
+    - Developing new solutions based on already existing ones and bug fixing
 
 `09.2017 – 06.2018` 
 __Lead Programmer, Abertay University: Professional Project__

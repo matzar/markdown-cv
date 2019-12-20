@@ -1,4 +1,4 @@
-I"<h1 id="mateusz-zaremba">Mateusz Zaremba</h1>
+I"N"<h1 id="mateusz-zaremba">Mateusz Zaremba</h1>
 <p>Programmer, Mathematician, Graduate student</p>
 
 <div id="webaddress">
@@ -23,43 +23,57 @@
 
 <h2 id="education">Education</h2>
 
-<p><code class="highlighter-rouge">2019 - now</code>
+<p><code class="highlighter-rouge">2019 - 2020</code>
 <strong>University of Stirling, United Kingdom</strong></p>
 <ul>
-  <li>MSc in Mathematics and Data Science</li>
+  <li>MSc in Mathematics and Data Science
+    <ul>
+      <li>Representing and Manipulating Data (B)</li>
+      <li>Commercial and Scientific Applications</li>
+      <li>Statistics for Data Science</li>
+      <li>Networks &amp; Graph Theory</li>
+      <li>Data Analytics</li>
+      <li>Modelling in Financial and Medical Systems</li>
+      <li>Stochastic Processes and Optimisation</li>
+      <li>Dissertation Project</li>
+    </ul>
+  </li>
 </ul>
 
-<p><code class="highlighter-rouge">2015 - 2018</code></p>
-
-<p><strong>University of Abertay Dundee, United Kingdom</strong></p>
+<p><code class="highlighter-rouge">2015 - 2018</code>
+<strong>University of Abertay Dundee, United Kingdom</strong></p>
 <p>BSc with Merit in Computer Game Applications Development, 2:1</p>
 <p><a href="https://matzar.github.io/hear/">Higher Education Achievement Report</a>
 <br /></p>
 <ul>
-  <li>3rd year modules:
+  <li>3rd year modules (GPA: 2.83):
     <ul>
-      <li>Graphics Programming with Shaders</li>
-      <li>Gameplay Mechanics Development</li>
-      <li>Network Systems for Game Development</li>
-      <li>Artificial Intelligence</li>
-      <li>Professional Team Project</li>
+      <li>Graphics Programming with Shaders (C+)</li>
+      <li>Gameplay Mechanics Development (C+)</li>
+      <li>Network Systems for Game Development (A)</li>
+      <li>Artificial Intelligence (B)</li>
+      <li>Professional Team Project: Planning and Prototyping (C+)</li>
+      <li>Professional Team Project: Development and Delivery (C+)</li>
     </ul>
   </li>
-  <li>2nd year modules:
+  <li>2nd year modules (GPA: 4.17):
     <ul>
-      <li>Data Structures and Algorithms</li>
-      <li>Graphics Programming</li>
-      <li>Game Programming and System Architectures</li>
-      <li>Mathematics for Application Development 2</li>
+      <li>Data Structures and Algorithms 1 (A)</li>
+      <li>Data Structures and Algorithms 2 (A+)</li>
+      <li>Graphics Programming (A)</li>
+      <li>Game Programming and System Architectures (A)</li>
+      <li>Film and Game Genres (A)</li>
+      <li>Mathematics for Application Development 2 (A+)</li>
     </ul>
   </li>
-  <li>1st year modules:
+  <li>1st year modules (GPA: 3.63):
     <ul>
-      <li>Computer and Graphics Architectures</li>
-      <li>Programming in C++</li>
-      <li>Narrative Theory in Interactive Game Design</li>
-      <li>Mathematics for Applications Development 1</li>
-      <li>Asset Production for Games</li>
+      <li>Computer and Graphics Architectures (A)</li>
+      <li>Programming in C++ (A)</li>
+      <li>Narrative Theory in Interactive Game Design (C+)</li>
+      <li>Mathematics for Applications Development 1 (A+)</li>
+      <li>Asset Production for Games (B+)</li>
+      <li>Games for Change (B+)</li>
     </ul>
   </li>
 </ul>
@@ -75,12 +89,13 @@
 
 <h2 id="relevant-experience">Relevant Experience</h2>
 <p><code class="highlighter-rouge">01.2019 – 02.2019</code> 
-<strong>C++ Software Engineer Intern, First Line Software for Viastore</strong></p>
+<strong>C++ Software Engineer Intern, Viastore</strong></p>
 <ul>
   <li>Learned about:
     <ul>
+      <li>Relational and non-Relational Databases</li>
       <li>Large distributed IT systems</li>
-      <li>Rapid prototyping</li>
+      <li>Business use of rapid prototyping</li>
     </ul>
   </li>
 </ul>
@@ -88,16 +103,13 @@
 <p><code class="highlighter-rouge">08.2018 – 10.2018</code> 
 <strong>Unreal Game Programmer Intern, Bohemia Interactive</strong></p>
 <ul>
-  <li>Project worked on: <a href="https://www.youtube.com/watch?v=tJS4gItz56s">Vigor</a>, post-apocalyptic survival game
+  <li>Project worked on: <a href="https://www.youtube.com/watch?v=tJS4gItz56s">Vigor</a>, post-apocalyptic survival game</li>
+  <li>Internship responsibilities:
     <ul>
-      <li>Engine: UE4</li>
-      <li>Platform: XBOX ONE</li>
-    </ul>
-  </li>
-  <li>Key responsibilities:
-    <ul>
-      <li>Gameplay development</li>
-      <li>Problem solving</li>
+      <li>Networked gameplay programming</li>
+      <li>UI programming</li>
+      <li>Prototyping</li>
+      <li>Developing new solutions based on already existing ones and bug fixing</li>
     </ul>
   </li>
 </ul>
@@ -188,6 +200,37 @@
 
 <p><code class="highlighter-rouge">Sep 2015 – Apr 2016</code>
 <strong>Class Representative of the 1st Year Computer Applications Game Development course</strong></p>
+
+<h2 id="other-experience">Other Experience</h2>
+<p><code class="highlighter-rouge">Oct 2015 – Dec 2015</code> 
+<strong>Warden, St. Ninian’s Institute, Diocese of Dunkeld</strong></p>
+<ul>
+  <li>Taking care of the St Ninian’s Institute and its guests</li>
+  <li>Welcoming at the reception and showing guests to their rooms</li>
+</ul>
+
+<p><code class="highlighter-rouge">Apr 2015 – Aug 2015</code> 
+<strong>Waiter/Bartender, Drumoig Golf Hotel</strong></p>
+<ul>
+  <li>Welcoming people at the reception</li>
+  <li>Bartending</li>
+  <li>Waitering</li>
+</ul>
+
+<p><code class="highlighter-rouge">May 2013 – Aug 2013</code> 
+<strong>Office Assistant, University of Wroclaw</strong></p>
+<ul>
+  <li>Calling vendors to set up appointments and gather information</li>
+  <li>Post delivery</li>
+  <li>Clerk duties</li>
+</ul>
+
+<p><code class="highlighter-rouge">Jan 2009 – Aug 2009</code> 
+<strong>Younger Lifeguard, Wroclaw Water Park</strong></p>
+<ul>
+  <li>Taking care of visitors safety and well being</li>
+  <li>Stamina and wellbeing training</li>
+</ul>
 
 <!-- ### Footer
 
