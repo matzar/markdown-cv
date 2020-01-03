@@ -36,7 +36,7 @@ Statistical analysis for data science, representing and manipulating data using 
 __University of Stirling, United Kingdom__
 - MSc in Mathematics and Data Science
     - Representing and Manipulating Data (B)
-    - Commercial and Scientific Applications
+    - Commercial and Scientific Applications (B)
     - Statistics for Data Science
     - Networks & Graph Theory
     - Data Analytics
