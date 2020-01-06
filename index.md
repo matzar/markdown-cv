@@ -2,7 +2,7 @@
 layout: cv
 title: Mateusz Zaremba's CV
 author: Mateusz Zaremba
-date: 20 December, 2019 Dundee
+date: 6 January, 2020 Dundee
 ---
 # Mateusz Zaremba
 Programmer, Mathematician, Graduate student
@@ -35,8 +35,8 @@ Statistical analysis for data science, representing and manipulating data using 
 `2019 - 2020`
 __University of Stirling, United Kingdom__
 - MSc in Mathematics and Data Science
-    - Representing and Manipulating Data (B)
-    - Commercial and Scientific Applications (B)
+    - Representing and Manipulating Data (Merit)
+    - Commercial and Scientific Applications (Merit)
     - Statistics for Data Science
     - Networks & Graph Theory
     - Data Analytics
@@ -47,7 +47,6 @@ __University of Stirling, United Kingdom__
 `2015 - 2018`
 __University of Abertay Dundee, United Kingdom__
 <p>BSc with Merit in Computer Game Applications Development, 2:1</p>
-<a href="https://matzar.github.io/hear/">Higher Education Achievement Report</a>
 <br>
 - 3rd year modules (GPA: 2.83):
     - Graphics Programming with Shaders (C+)
@@ -78,6 +77,8 @@ __University of Abertay Dundee, United Kingdom__
 __The Data Lab MSc scholarship__
 - Fully funded MSc place
 - Data Scientist training 
+<br>
+<br>
 
 ## Relevant Experience
 `01.2019 – 02.2019` 
