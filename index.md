@@ -161,7 +161,7 @@ __Built and managed St Andrew's RC Cathedral website__
 - [http://www.standrewscathedraldundee.com/](http://www.standrewscathedraldundee.com/)
 
 `Sep 2015-Apr 2016`
-__Class Representative of the 1st Year Computer Applications Game Development course__
+__1st Year Class Representative at Abertay University__
 
 ## Other Experience
 `Oct-Dec 2015` 
