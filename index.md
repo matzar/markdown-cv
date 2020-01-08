@@ -73,7 +73,7 @@ __University of Abertay Dundee, United Kingdom__
 
 ## Funding Awarded
 
-`2019`
+`Sep 2019 - Aug 2020`
 __The Data Lab MSc scholarship__
 - Fully funded MSc place; £6500 towards tuition fees
 - Training with Data Scientists
@@ -81,14 +81,14 @@ __The Data Lab MSc scholarship__
 <br>
 
 ## Relevant Experience
-`01.2019 – 02.2019` 
+`Jan - Feb 2019` 
 __C++ Software Engineer Intern, Viastore__
 - Learned about: 
     - Relational and non-Relational Databases 
     - Large distributed IT systems
     - Business use of rapid prototyping
 
-`08.2018 – 10.2018` 
+`Aug - Oct 2018` 
 __Unreal Game Programmer Intern, Bohemia Interactive__
 - Project worked on: [Vigor](https://www.youtube.com/watch?v=tJS4gItz56s), post-apocalyptic survival game
 - Internship responsibilities:
@@ -97,7 +97,7 @@ __Unreal Game Programmer Intern, Bohemia Interactive__
     - Prototyping
     - Developing new solutions based on already existing ones and bug fixing
 
-`09.2017 – 06.2018` 
+`Sep 2017 - Jun 2018` 
 __Lead Programmer, Abertay University: Professional Project__
 - Projects worked on: 
 - Mobile game for [Junkfish](https://www.teamjunkfish.com/) Game Company
@@ -116,7 +116,7 @@ __Lead Programmer, Abertay University: Professional Project__
 
 ## Hackathons
 
-`24.01.2018 – 26.01.2018`
+`Jan 24, 2018 - Jan 26, 2018`
 __Gameplay Programmer/Design/Team Lead, Serious Game Jam__
 - Mobile game prototype:
 - Aid for lectures and students from the University of St Andrews,
@@ -126,7 +126,7 @@ __Gameplay Programmer/Design/Team Lead, Serious Game Jam__
 - Platform: Android
 - [gameplay video](https://www.youtube.com/watch?v=G7QTE65uGhw) , [git](https://github.com/matzar/Chemistry-Game-Jam)
 
-`15.11.2017`
+`Nov 8, 2017`
 __Gameplay Programmer/Design/Team Lead, AGDS 4-hour Game Jam__
 - Brief visual novel with animations, telling a joke
 - Made in 4-hours with two artists
@@ -135,7 +135,7 @@ __Gameplay Programmer/Design/Team Lead, AGDS 4-hour Game Jam__
 - Platform: Windows
 - [gameplay video](https://www.youtube.com/watch?v=Vm5y8DxGTPA) , [git](https://github.com/matzar/ren-py)
 
-`15.08.2016 – 17.08.2016`
+`Aug 15, 2016 - Aug 17, 2016`
 __Gameplay Programmer/Design/Team Lead, Rainbow Game Jam__
 - Infinite runner chosen to be made in 48-hours with two other artists and a sound designer
 - Engine: Unity 
@@ -143,7 +143,7 @@ __Gameplay Programmer/Design/Team Lead, Rainbow Game Jam__
 - Platforms: Windows, MAC, Linux
 - [gameplay video](https://www.youtube.com/watch?v=ZmV5vOcXYbA) , [git](https://github.com/matzar/infinite-runner) , [play in browser](https://mateuszzaremba.itch.io/rainbow-dash)
 
-`29.01.2016 – 31.01.2016` 
+`Jan 29, 2016 – Jan 31, 2016` 
 __Gameplay Programmer, Global Game Jam 2016__
 - Easy pick-up game. My first Unity project and first game jam
 - Engine: Unity 
@@ -152,7 +152,7 @@ __Gameplay Programmer, Global Game Jam 2016__
 - [gameplay video](https://www.youtube.com/watch?v=qdlMIl685iU)
 
 ## Societies
-`Sep 2015 – Jul 2018`
+`Sep 2015 - Jul 2018`
 __Member of Abertay Game Development Society:__ [1st year project](https://github.com/jctwood/EGD-RhythmGame), [2nd year project](https://github.com/GeorgeRankin/space-whales)
 
 ## Volunteer Experience
@@ -160,28 +160,28 @@ __Member of Abertay Game Development Society:__ [1st year project](https://githu
 __Built and managed St Andrew's RC Cathedral website__
 - [http://www.standrewscathedraldundee.com/](http://www.standrewscathedraldundee.com/)
 
-`Sep 2015 – Apr 2016`
+`Sep 2015 - Apr 2016`
 __Class Representative of the 1st Year Computer Applications Game Development course__
 
 ## Other Experience
-`Oct 2015 – Dec 2015` 
+`Oct - Dec 2015` 
 __Warden, St. Ninian's Institute, Diocese of Dunkeld__
 - Taking care of the St Ninian's Institute and its guests 
 - Welcoming at the reception and showing guests to their rooms
 
-`Apr 2015 – Aug 2015` 
+`Apr - Aug 2015` 
 __Waiter/Bartender, Drumoig Golf Hotel__
 - Welcoming people at the reception
 - Bartending 
 - Waitering
 
-`May 2013 – Aug 2013` 
+`May - Aug 2013` 
 __Office Assistant, University of Wroclaw__
 - Calling vendors to set up appointments and gather information 
 - Post delivery
 - Clerk duties
 
-`Jan 2009 – Aug 2009` 
+`Jan - Aug 2009` 
 __Younger Lifeguard, Wroclaw Water Park__
 - Taking care of visitors safety and well being 
 - Stamina and wellbeing training 
