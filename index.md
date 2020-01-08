@@ -71,12 +71,12 @@ __University of Abertay Dundee, United Kingdom__
     - Games for Change (B+)
 
 
-## Awards
+## Funding Awarded
 
 `2019`
 __The Data Lab MSc scholarship__
-- Fully funded MSc place
-- Data Scientist training 
+- Fully funded MSc place; £6500 towards tuition fees
+- Data Science training
 <br>
 <br>
 
