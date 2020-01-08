@@ -2,7 +2,7 @@
 layout: cv
 title: Mateusz Zaremba's CV
 author: Mateusz Zaremba
-date: 6 January, 2020 Dundee
+date: 8 January, 2020 Dundee
 ---
 # Mateusz Zaremba
 Programmer, Mathematician, Graduate student
@@ -10,7 +10,7 @@ Programmer, Mathematician, Graduate student
 <div id="webaddress">
 <a href="mailto:mat.zar@icloud.com">mat.zar@icloud.com</a>
 | <a href="https://matzar.github.io/">Personal website</a>
-| <a>Update: Dundee, 24th November 2019</a>
+| <a>Update: Dundee, 8th January 2020</a>
 </div>
 
 
@@ -76,7 +76,7 @@ __University of Abertay Dundee, United Kingdom__
 `2019`
 __The Data Lab MSc scholarship__
 - Fully funded MSc place; £6500 towards tuition fees
-- Training in Data Science
+- Training with Data Scientists
 <br>
 <br>
 
