@@ -9,7 +9,7 @@ Programmer, Mathematician, Graduate student
 
 <div id="webaddress">
 <a href="mailto:mat.zar@icloud.com">mat.zar@icloud.com</a>
-| <a href="https://matzar.github.io/">Personal website</a>
+| <a href="https://matzar.github.io/">https://matzar.github.io/</a>
 | Update: Dundee, 8th January 2020
 </div>
 
