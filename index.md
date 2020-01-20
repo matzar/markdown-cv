@@ -32,7 +32,7 @@ Statistical analysis for data science, representing and manipulating data using 
 
 ## Education
 
-`2019-2020`
+`2019-2021`
 __University of Stirling, United Kingdom__
 - MSc in Mathematics and Data Science
     - Representing and Manipulating Data (Merit)
