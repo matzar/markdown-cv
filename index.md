@@ -35,9 +35,9 @@ Statistical analysis for data science, representing and manipulating data using 
 `2019-2021`
 __University of Stirling, United Kingdom__
 - MSc in Mathematics and Data Science
-    - Representing and Manipulating Data (Merit)
-    - Commercial and Scientific Applications (Merit)
-    - Statistics for Data Science
+    - Representing and Manipulating Data (Merit-64%)
+    - Commercial and Scientific Applications (Merit-62%)
+    - Statistics for Data Science (Pass-50%)
     - Networks & Graph Theory
     - Data Analytics
     - Modelling in Financial and Medical Systems
@@ -84,7 +84,7 @@ __The Data Lab MSc scholarship__
 `Jan-Feb 2019` 
 __C++ Software Engineer Intern, Viastore__
 - Learned about: 
-    - Relational and non-Relational Databases 
+    - Relational and non-Relational Databases using SQL and C++
     - Large distributed IT systems
     - Business use of rapid prototyping
 
