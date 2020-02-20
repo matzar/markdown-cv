@@ -2,7 +2,7 @@
 layout: cv
 title: Mateusz Zaremba's CV
 author: Mateusz Zaremba
-date: 20 January, 2020 Dundee
+date: 20 February, 2020 Dundee
 ---
 # Mateusz Zaremba
 Programmer, Mathematician, Graduate student
@@ -10,7 +10,7 @@ Programmer, Mathematician, Graduate student
 <div id="webaddress">
 <a href="mailto:mat.zar@icloud.com">mat.zar@icloud.com</a>
 | <a href="https://matzar.github.io/">https://matzar.github.io/</a>
-| Update: Dundee, 20th January 2020
+| Update: Dundee, 20th February 2020
 </div>
 
 
@@ -83,7 +83,7 @@ __The Data Lab MSc scholarship__
 ## Relevant Experience
 `Jan-Feb 2019` 
 __C++ Software Engineer Intern, Viastore__
-- Learned about: 
+- Learned about:
     - Relational and non-Relational Databases using SQL and C++
     - Large distributed IT systems
     - Business use of rapid prototyping
@@ -166,6 +166,8 @@ __Built and managed St Andrew's RC Cathedral website__
 
 `Sep 2015-Apr 2016`
 __1st Year Class Representative at Abertay University__
+- Listening to student feedback and liaising with lectures
+- Attended training about leadership and teamwork
 
 ## Other Experience
 `Oct-Dec 2015` 
