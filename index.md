@@ -1,10 +1,10 @@
 ---
 layout: cv
-title: Mateusz Zaremba's CV
-author: Mateusz Zaremba
+title: Mat Zaremba's CV
+author: Mat Zaremba
 date: 20 February, 2020 Dundee
 ---
-# Mateusz Zaremba
+# Mat Zaremba
 Programmer, Mathematician, Graduate student
 
 <div id="webaddress">
@@ -141,7 +141,7 @@ __Gameplay Programmer/Design/Team Lead, Rainbow Game Jam__
 - Engine: Unity 
 - Programming language: C# 
 - Platforms: Windows, MAC, Linux
-- [gameplay video](https://www.youtube.com/watch?v=ZmV5vOcXYbA) , [git](https://github.com/matzar/infinite-runner) , [play in browser](https://mateuszzaremba.itch.io/rainbow-dash)
+- [gameplay video](https://www.youtube.com/watch?v=ZmV5vOcXYbA) , [git](https://github.com/matzar/infinite-runner) , [play in browser](https://matzar.itch.io/rainbow-dash)
 
 `Jan 29-31, 2016` 
 __Gameplay Programmer, Global Game Jam 2016__
@@ -158,7 +158,7 @@ __Member of Abertay Game Development Society:__ [1st year project](https://githu
 ## Volunteer Experience
 `Jul 2019-Present`
 __Answering Questions About Mathematics and Coding on Quora__
-- [My Quora Answers](https://www.quora.com/profile/Mateusz-Zaremba-3)
+- [My Quora Answers](https://www.quora.com/profile/Mat-Zaremba)
 
 `Sep 2017-Aug 2018`
 __Built and managed St Andrew's RC Cathedral website__
