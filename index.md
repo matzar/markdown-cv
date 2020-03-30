@@ -86,10 +86,7 @@ __University of Abertay Dundee, United Kingdom__
 __The Data Lab MSc scholarship__
 - Fully funded MSc place; £6500 towards tuition fees
 - Training with Data Scientists
-<br>
-<br>
-<br>
-<br>
+<!-- <br> -->
 
 ## Relevant Experience
 `Jan-Feb 2019` 
