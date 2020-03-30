@@ -122,7 +122,7 @@ __Lead Programmer, Abertay University: Professional Project__
     - Kanban boards with GitHub Projects 
     - SCRUM (Deadlines setting, mentoring)
 
-## Hackathons
+## Game Jams
 
 `Jan 24-26, 2018`
 __Gameplay Programmer/Design/Team Lead, Serious Game Jam__
