@@ -22,12 +22,21 @@ Studying towards MSc in Mathematics and Data Science at the University of Stirli
 
 ### Specialized in
 
-C++, Python, R, Statistical Analysis, Big Data
+C++, Mathematics, Unity3D, Git with bash
 
 
-### Research interests
+### Secondary skills
 
-Statistical analysis for data science, representing and manipulating data using R and Python programming
+C#, Python, R, Statistical Analysis, Big Data, SQL
+
+### Gaming
+
+Graphics programming (SFML, DirectX 11), Box2D, PSVita
+
+
+<!-- ### Research interests
+
+Statistical analysis for data science, representing and manipulating data using R and Python programming -->
 
 
 ## Education
@@ -77,6 +86,8 @@ __University of Abertay Dundee, United Kingdom__
 __The Data Lab MSc scholarship__
 - Fully funded MSc place; £6500 towards tuition fees
 - Training with Data Scientists
+<br>
+<br>
 <br>
 <br>
 
