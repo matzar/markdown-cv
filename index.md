@@ -42,14 +42,10 @@ Statistical analysis for data science, representing and manipulating data using 
 `2019-2021`
 __University of Stirling, United Kingdom__
 - MSc in Mathematics and Data Science
-    - Representing and Manipulating Data (Merit-64%)
-    - Commercial and Scientific Applications (Merit-62%)
-    - Statistics for Data Science (Pass-50%)
+    - Representing and Manipulating Data (Merit)
+    - Commercial and Scientific Applications (Merit)
+    - Statistics for Data Science (Pass)
     - Networks & Graph Theory
-    - Data Analytics
-    - Modelling in Financial and Medical Systems
-    - Stochastic Processes and Optimisation
-    - Dissertation Project
 
 `2015-2018`
 __University of Abertay Dundee, United Kingdom__
@@ -85,8 +81,7 @@ __The Data Lab MSc scholarship__
 - Fully funded MSc place; £6500 towards tuition fees
 - Training with Data Scientists -->
 <br>
-<br>
-<br>
+<!-- <br> -->
 
 ## Relevant Experience
 `Jan-Mar 2019` 
