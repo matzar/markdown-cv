@@ -5,7 +5,7 @@ author: Mat Zaremba
 date: 20 February, 2020 Dundee
 ---
 # Mat Zaremba
-Programmer, Mathematician, Graduate student
+C++/Unity/Game Programmer, Gamer
 
 <div id="webaddress">
 <a href="mailto:mat.zar@icloud.com">mat.zar@icloud.com</a>
@@ -16,7 +16,7 @@ Programmer, Mathematician, Graduate student
 
 ## Currently
 <p>
-Studying towards MSc in Mathematics and Data Science at the University of Stirling
+On an annual leave of absence from my MSc studies; looking for a full-time employment.
 <br>
 </p>
 
@@ -24,15 +24,13 @@ Studying towards MSc in Mathematics and Data Science at the University of Stirli
 
 C++, Mathematics, Unity3D, Git with bash
 
+### Gaming skills
 
-### Secondary skills
+C#, Python, Graphics programming (SFML, DirectX 11), Box2D, PSVita, Xbox One
 
-C#, Python, R, Statistical Analysis, Big Data, SQL
+### Software
 
-### Gaming
-
-Graphics programming (SFML, DirectX 11), Box2D, PSVita
-
+MS Visual Studio, Xcode, UNIX terminal, Slack intergration, Discord bots
 
 <!-- ### Research interests
 
@@ -80,16 +78,17 @@ __University of Abertay Dundee, United Kingdom__
     - Games for Change (B+)
 
 
-## Funding Awarded
+<!-- ## Funding Awarded
 
 `Sep 2019-Aug 2021`
 __The Data Lab MSc scholarship__
 - Fully funded MSc place; £6500 towards tuition fees
-- Training with Data Scientists
-<!-- <br> -->
+- Training with Data Scientists -->
+<br>
+<br>
 
 ## Relevant Experience
-`Jan-Feb 2019` 
+`Jan-Mar 2019` 
 __C++ Software Engineer Intern, Viastore__
 - Learned about:
     - Relational and non-Relational Databases using SQL and C++
