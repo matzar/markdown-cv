@@ -34,7 +34,7 @@ MS Visual Studio, VS Code, Xcode, UNIX terminal, Slack intergration, Discord bot
 
 ### Teamwork
 
-Scrum, Trello, Kanban boards, GitHub Projects
+Scrum, Trello, Kanban boards, GitHub Projects, Jira
 
 <!-- ### Research interests
 
