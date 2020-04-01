@@ -41,11 +41,11 @@ Statistical analysis for data science, representing and manipulating data using 
 
 `2019-2020`
 __University of Stirling, United Kingdom__
-- MSc in Mathematics and Data Science
+- GradCert in Mathematics and Data Science
     - Representing and Manipulating Data (Merit)
     - Commercial and Scientific Applications (Merit)
     - Statistics for Data Science (Pass)
-    - Networks & Graph Theory
+    - Networks & Graph Theory (Pass)
 
 `2015-2018`
 __University of Abertay Dundee, United Kingdom__
