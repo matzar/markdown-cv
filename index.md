@@ -26,11 +26,15 @@ C++, Mathematics, Unity3D, Git with bash
 
 ### Gaming skills
 
-C#, Python, Graphics programming (SFML, DirectX 11), Box2D, PSVita, Xbox One
+C#, Python, Xbox One, PSVita, Box2D, Graphics programming (SFML, DirectX 11), Networking
 
 ### Software
 
 MS Visual Studio, VS Code, Xcode, UNIX terminal, Slack intergration, Discord bots
+
+### Teamwork
+
+Scrum, Trello, Kanban boards, GitHub Projects
 
 <!-- ### Research interests
 
@@ -81,7 +85,9 @@ __The Data Lab MSc scholarship__
 - Fully funded MSc place; £6500 towards tuition fees
 - Training with Data Scientists -->
 <br>
-<!-- <br> -->
+<br>
+<br>
+<br>
 
 ## Relevant Experience
 `Jan-Mar 2019` 
