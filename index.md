@@ -30,7 +30,7 @@ C#, Python, Graphics programming (SFML, DirectX 11), Box2D, PSVita, Xbox One
 
 ### Software
 
-MS Visual Studio, Xcode, UNIX terminal, Slack intergration, Discord bots
+MS Visual Studio, VS Code, Xcode, UNIX terminal, Slack intergration, Discord bots
 
 <!-- ### Research interests
 
@@ -84,6 +84,7 @@ __University of Abertay Dundee, United Kingdom__
 __The Data Lab MSc scholarship__
 - Fully funded MSc place; £6500 towards tuition fees
 - Training with Data Scientists -->
+<br>
 <br>
 <br>
 
