@@ -16,7 +16,7 @@ C++/Unity/Game Programmer, Gamer
 
 ## Currently
 <p>
-On an annual leave of absence from my MSc studies; looking for a full-time employment.
+MSc studies on hold for caring reasons; looking for a full-time employment in gaming/software sector.
 <br>
 </p>
 
