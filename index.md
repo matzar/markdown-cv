@@ -4,7 +4,7 @@ title: Mat Zaremba's CV
 author: Mat Zaremba
 date: 20 February, 2020 Dundee
 ---
-# Mat Zaremba
+# Mateusz Zaremba
 C++/Unity/Game Programmer, Gamer
 
 <div id="webaddress">
@@ -39,7 +39,7 @@ Statistical analysis for data science, representing and manipulating data using 
 
 ## Education
 
-`2019-2021`
+`2019-2020`
 __University of Stirling, United Kingdom__
 - MSc in Mathematics and Data Science
     - Representing and Manipulating Data (Merit)
