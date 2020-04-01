@@ -16,7 +16,7 @@ C++/Unity/Game Programmer, Gamer
 
 ## Currently
 <p>
-MSc studies on hold for caring reasons; looking for a full-time employment as C++/Unity programmer.
+Recently finished my graduate certificate in Mathematics and Data Science; looking for a full-time employment as C++/Unity programmer in gaming/software industry.
 <br>
 </p>
 
