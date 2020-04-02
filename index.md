@@ -2,7 +2,7 @@
 layout: cv
 title: Mat Zaremba's CV
 author: Mat Zaremba
-date: 20 February, 2020 Dundee
+date: 1st April, 2020 Dundee
 ---
 # Mateusz Zaremba
 C++/Unity/Game Programmer, Gamer
@@ -10,7 +10,7 @@ C++/Unity/Game Programmer, Gamer
 <div id="webaddress">
 <a href="mailto:mat.zar@icloud.com">mat.zar@icloud.com</a>
 | <a href="https://matzar.github.io/">https://matzar.github.io/</a>
-| Update: Dundee, 20th February 2020
+| Update: Dundee, 1st April 2020
 </div>
 
 ## Currently
