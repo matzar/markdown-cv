@@ -13,7 +13,6 @@ C++/Unity/Game Programmer, Gamer
 | Update: Dundee, 20th February 2020
 </div>
 
-
 ## Currently
 <p>
 Recently finished my graduate certificate in Mathematics and Data Science; looking for a full-time employment as C++/Unity programmer in gaming/software industry.
