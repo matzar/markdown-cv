@@ -2,7 +2,7 @@
 layout: cv
 title: Mat Zaremba's CV
 author: Mat Zaremba
-date: 1st April, 2020 Dundee
+date: 3rd August, 2020 Wroclaw, Poland
 ---
 # Mateusz Zaremba
 C++, C#, Python, TypeScript, JavaScript, SQL, HTML, CSS,<br>
@@ -11,7 +11,7 @@ Angular/Ionic, Unity
 <div id="webaddress">
 <a href="mailto:mat.zar@icloud.com">mat.zar@icloud.com</a>
 | <a href="https://matzar.github.io/">https://matzar.github.io/</a>
-| Update: Dundee, 1st April 2020
+| Update: Wroclaw, Poland, 3rd August 2021
 </div>
 
 ## Currently
