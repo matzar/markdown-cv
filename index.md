@@ -89,6 +89,9 @@ __The Data Lab MSc scholarship__
 <br>
 
 ## Relevant Experience
+`May 2020-Present` 
+__Programmer/Technical Content Producer, asensei__
+
 `Jan-Mar 2019` 
 __C++ Software Engineer Intern, Viastore__
 - Learned about:
