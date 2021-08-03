@@ -91,6 +91,14 @@ __The Data Lab MSc scholarship__
 ## Relevant Experience
 `May 2020-Present` 
 __Programmer/Technical Content Producer, asensei__
+- Building ai modules for asensei.ai smart apparel.
+- Development of connected coaching programmes for asensei app.
+- Mentoring and co-operation with interns.
+- Test Driven Development using jester.
+- Building test applications with Angular/Ionic.
+- Graphics programming with three.js in Angular/Ionic and Stencil.
+- Building web components with Stencil.
+- Development of internal tools.
 
 `Jan-Mar 2019` 
 __C++ Software Engineer Intern, Viastore__
