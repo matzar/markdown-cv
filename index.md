@@ -5,7 +5,8 @@ author: Mat Zaremba
 date: 1st April, 2020 Dundee
 ---
 # Mateusz Zaremba
-C++/Unity/Game Programmer, Gamer
+C++, C#, Python, TypeScript, JavaScript, SQL, HTML, CSS,<br>
+Angular/Ionic, Unity
 
 <div id="webaddress">
 <a href="mailto:mat.zar@icloud.com">mat.zar@icloud.com</a>
@@ -15,7 +16,7 @@ C++/Unity/Game Programmer, Gamer
 
 ## Currently
 <p>
-Recently finished my graduate certificate in Mathematics and Data Science; looking for a full-time employment as C++/Unity programmer in gaming/software industry.
+Working at a Silicon Valley starup, using a broad range of skills; from programming through content production to team managment. 
 <br>
 </p>
 
