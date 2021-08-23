@@ -118,24 +118,24 @@ BSc with Merit in [Computer Game Applications Development](https://www.abertay.a
 - Fully funded place in Mathematics and Data Science
 - £6500 towards tuition fees
 - Professional training with Data Scientists
-- Data Lab events.
+- Data Lab events
 
 ## Relevant Experience
 
 `May 2020-Present`
 **Programmer/Technical Content Producer, [asensei](https://asensei.com/)**
 
-- Building ai modules for asensei.ai smart apparel.
-- Development of connected coaching programmes for asensei app.
-- Mentoring and co-operation with interns.
-- Test Driven Development using Jest and Travis CI.
-- Pair programming with Live Share in VS Code.
-- Building test applications in Angular/Ionic.
-- Graphics programming with Three.js in Angular/Ionic and StencilJS.
-- Building web components with StencilJS and Three.js.
-- Development of internal tools.
-- Package distribution via npm and semantic release.
-- Technical documentation writing.
+- Building ai modules for asensei.ai smart apparel
+- Development of connected coaching programmes for asensei app
+- Mentoring and co-operation with interns
+- Test Driven Development using Jest and Travis CI
+- Pair programming with Live Share in VS Code
+- Building test applications in Angular/Ionic
+- Graphics programming with Three.js in Angular/Ionic and StencilJS
+- Building web components with StencilJS and Three.js
+- Development of internal tools
+- Package distribution via npm and semantic release
+- Technical documentation writing
 
 `Jan-Mar 2019`
 **Internship, C++ Software Engineer, [viastore](https://www.viastore.com/en)**
