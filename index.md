@@ -68,9 +68,9 @@ Statistical analysis for data science, representing and manipulating data using 
   - Networks & Graph Theory (Pass)
 
 `2015-2018`
-**University of Abertay Dundee, United Kingdom**
+**[University of Abertay Dundee](https://www.abertay.ac.uk/), United Kingdom**
 
-<p>BSc with Merit in Computer Game Applications Development, 2:1</p>
+<p>BSc with Merit in [Computer Game Applications Development](https://www.abertay.ac.uk/course-search/undergraduate/computer-game-applications-development/), 2:1</p>
 <br>
 - 3rd year modules (GPA: 2.83):
   - [Graphics Programming with Shaders](https://github.com/matzar/DirectX-Shaders) (C+)
