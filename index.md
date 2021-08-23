@@ -62,7 +62,7 @@ Statistical analysis for data science, representing and manipulating data using 
 - GradCert in Mathematics and Data Science
   - Representing and Manipulating Data (Merit)
   - Commercial and Scientific Applications (Merit)
-  - Statistics for Data Science (Pass)
+  - [Statistics for Data Science](https://github.com/matzar/R) (Pass)
   - Networks & Graph Theory (Pass)
 
 `2015-2018`
@@ -71,23 +71,22 @@ Statistical analysis for data science, representing and manipulating data using 
 <p>BSc with Merit in Computer Game Applications Development, 2:1</p>
 <br>
 - 3rd year modules (GPA: 2.83):
-    - Graphics Programming with Shaders (C+)
+    - [Graphics Programming with Shaders](https://github.com/matzar/DirectX-Shaders) (C+)
     - Gameplay Mechanics Development (C+)
     - [Network Systems for Game Development](https://github.com/matzar/SFML-Networking) (A)
-    <!-- - Artificial Intelligence (B) -->
-    - <a href="[example.com](https://github.com/matzar/face_emotion_recognition)" target="_blank">Artificial Intelligence (B)</a>
+    - [Artificial Intelligence](https://github.com/matzar/face_emotion_recognition) (B)
     - Professional Team Project: Planning and Prototyping (C+)
     - Professional Team Project: Development and Delivery (C+)
 - 2nd year modules (GPA: 4.17):
-    - Data Structures and Algorithms 1 (A)
-    - Data Structures and Algorithms 2 (A+)
+    - [Data Structures and Algorithms 1](https://github.com/matzar/sorting-algorithms) (A)
+    - [Data Structures and Algorithms 2](https://github.com/matzar/Mandelbrot-AMP) (A+)
     - Graphics Programming (A)
     - [Game Programming and System Architectures](https://github.com/matzar/PSVita-Game) (A)
     - Film and Game Genres (A)
     - Mathematics for Application Development 2 (A+)
 - 1st year modules (GPA: 3.63):
-    - Computer and Graphics Architectures (A)
-    - Programming in C++ (A)
+    - [Computer and Graphics Architectures](https://github.com/matzar/BattleCity-GBA) (A)
+    - [Programming in C++](https://github.com/matzar/darts-game) (A)
     - Narrative Theory in Interactive Game Design (C+)
     - Mathematics for Applications Development 1 (A+)
     - Games for Change (B+)
