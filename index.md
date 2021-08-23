@@ -77,27 +77,27 @@ Statistical analysis for data science, representing and manipulating data using 
 <p>BSc with Merit in Computer Game Applications Development, 2:1</p>
 <br>
 - 3rd year modules (GPA: 2.83):
-    - [Graphics Programming with Shaders](https://github.com/matzar/DirectX-Shaders) (C+)
-    - Gameplay Mechanics Development (C+)
-    - [Network Systems for Game Development](https://github.com/matzar/SFML-Networking) (A)
-    - [Artificial Intelligence](https://github.com/matzar/face_emotion_recognition) (B)
-    - Professional Team Project: Planning and Prototyping (C+)
-    - Professional Team Project: Development and Delivery (C+)
+  - [Graphics Programming with Shaders](https://github.com/matzar/DirectX-Shaders) (C+)
+  - Gameplay Mechanics Development (C+)
+  - [Network Systems for Game Development](https://github.com/matzar/SFML-Networking) (A)
+  - [Artificial Intelligence](https://github.com/matzar/face_emotion_recognition) (B)
+  - Professional Team Project: Planning and Prototyping (C+)
+  - Professional Team Project: Development and Delivery (C+)
 - 2nd year modules (GPA: 4.17):
-    - [Data Structures and Algorithms 1](https://github.com/matzar/sorting-algorithms) (A)
-    - [Data Structures and Algorithms 2](https://github.com/matzar/Mandelbrot-AMP) (A+)
-    - Graphics Programming (A)
-    - [Game Programming and System Architectures](https://github.com/matzar/PSVita-Game) (A)
-    - Film and Game Genres (A)
-    - Mathematics for Application Development 2 (A+)
+  - [Data Structures and Algorithms 1](https://github.com/matzar/sorting-algorithms) (A)
+  - [Data Structures and Algorithms 2](https://github.com/matzar/Mandelbrot-AMP) (A+)
+  - Graphics Programming (A)
+  - [Game Programming and System Architectures](https://github.com/matzar/PSVita-Game) (A)
+  - Film and Game Genres (A)
+  - Mathematics for Application Development 2 (A+)
 - 1st year modules (GPA: 3.63):
-    - [Computer and Graphics Architectures](https://github.com/matzar/BattleCity-GBA) (A)
-    - [Programming in C++](https://github.com/matzar/darts-game) (A) [![GitHub stars](https://img.shields.io/github/stars/matzar/BattleCity-GBA.svg?style=social&label=Star&maxAge=2592000)](https://github.com/matzar/BattleCity-GBA/stargazers)
-    - Narrative Theory in Interactive Game Design (C+)
-    - Mathematics for Applications Development 1 (A+)
-    - Games for Change (B+)
-    - Asset Production for Games (B+):
-      - <iframe frameborder="0" src="https://itch.io/embed/121052" width="552" height="167"><a href="https://matzar.itch.io/dragon-maze">Dragon Maze by matzar</a></iframe>
+  - [Computer and Graphics Architectures](https://github.com/matzar/BattleCity-GBA) (A)
+  - [Programming in C++](https://github.com/matzar/darts-game) (A) [![GitHub stars](https://img.shields.io/github/stars/matzar/BattleCity-GBA.svg?style=social&label=Star&maxAge=2592000)](https://github.com/matzar/BattleCity-GBA/stargazers)
+  - Narrative Theory in Interactive Game Design (C+)
+  - Mathematics for Applications Development 1 (A+)
+  - Games for Change (B+)
+  - Asset Production for Games (B+):
+    - <iframe frameborder="0" src="https://itch.io/embed/121052" width="552" height="167"><a href="https://matzar.itch.io/dragon-maze">Dragon Maze by matzar</a></iframe>
 
 ## Funding Awarded
 
