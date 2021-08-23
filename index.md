@@ -236,21 +236,21 @@ Statistical analysis for data science, representing and manipulating data using 
 - Welcoming at the reception and showing guests to their rooms
 
 `Apr-Aug 2015`
-**Waiter/Bartender, Drumoig Golf Hotel**
+**Waiter/Bartender, [Drumoig Golf Hotel](https://www.tripadvisor.com/Hotel_Review-g2423042-d568415-Reviews-Drumoig_Golf_Hotel-Drumoig_St_Andrews_Fife_Scotland.html)**
 
 - Welcoming people at the reception
 - Bartending
 - Waitering
 
 `May-Aug 2013`
-**Office Assistant, University of Wroclaw**
+**Office Assistant, [University of Wroclaw](https://uni.wroc.pl/en/)**
 
 - Calling vendors to set up appointments and gather information
 - Post delivery
 - Clerk duties
 
 `Jan-Aug 2009`
-**Younger Lifeguard, Wroclaw Water Park**
+**Younger Lifeguard, [Wroclaw Water Park](https://aquapark.wroc.pl/en/)**
 
 - Taking care of visitors safety and well being
 - Stamina and wellbeing training
