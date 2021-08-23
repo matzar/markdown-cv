@@ -70,8 +70,8 @@ Statistical analysis for data science, representing and manipulating data using 
 `2015-2018`
 **[University of Abertay Dundee](https://www.abertay.ac.uk/), United Kingdom**
 
-<p>BSc with Merit in [Computer Game Applications Development](https://www.abertay.ac.uk/course-search/undergraduate/computer-game-applications-development/), 2:1</p>
-<br>
+BSc with Merit in [Computer Game Applications Development](https://www.abertay.ac.uk/course-search/undergraduate/computer-game-applications-development/), 2:1
+
 - 3rd year modules (GPA: 2.83):
   - [Graphics Programming with Shaders](https://github.com/matzar/DirectX-Shaders) (C+)
   - Gameplay Mechanics Development (C+)
