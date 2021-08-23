@@ -2,57 +2,72 @@
 layout: cv
 title: Mat Zaremba's CV
 author: Mat Zaremba
-date: 3rd August, 2020 Wroclaw, Poland
+date: 23rd August, 2021 Wroclaw, Poland
 ---
+
 # Mateusz Zaremba
-C++, C#, Python, TypeScript, JavaScript, SQL, HTML, CSS,<br>
-Angular/Ionic, Unity
+
+TypeScript/JavaScript, StencilJS, C++, Mathematics, Git with bash
 
 <div id="webaddress">
 <a href="mailto:mat.zar@icloud.com">mat.zar@icloud.com</a>
 | <a href="https://matzar.github.io/">https://matzar.github.io/</a>
-| Update: Wroclaw, Poland, 3rd August 2021
+| Update: Wroclaw, Poland, 23rd August 2021
 </div>
 
 ## Currently
+
 <p>
-Working at a Silicon Valley starup, using a broad range of skills; from programming through content production to team managment. 
-<br>
+Working at a Silicon Valley starup, using a broad range of skills; from graphics programming, scripting, tools development and team managment to content production.
 </p>
+<br>
 
 ### Specialized in
 
-C++, Mathematics, Unity3D, Git with bash
+TypeScript/JavaScript, StencilJS, C++, Mathematics, Git with bash
+
+### Web skills
+
+JavaScript, TypeScript, JSON, StencilJS, Angular/Ionic, HTML5, CSS3, npm, semantic release
 
 ### Gaming skills
 
-C#, Python, Xbox One, PSVita, Box2D, Graphics programming (SFML, DirectX 11), Networking
+C#, Unity3D, UE4, Python, Ren'Py, Xbox One, PSVita, Box2D, Graphics programming (SFML, DirectX 11), Networking
 
-### Software
+### Data skills
 
-MS Visual Studio, VS Code, Xcode, UNIX terminal, Slack intergration, Discord bots
+Python, R, ggplot2, SQL, Statistics
+
+### Testing skills
+
+Jest, Mocha, Travis
+
+### Tools
+
+VS Code, MS Visual Studio, UNIX terminal, XCode
 
 ### Teamwork
 
-Scrum, Trello, Kanban boards, GitHub Projects, Jira, Crucible
+Notion, JIRA, Confluence, Slack, MS Teams, Pair programming with Live Share in VS Code
 
 <!-- ### Research interests
 
 Statistical analysis for data science, representing and manipulating data using R and Python programming -->
 
-
 ## Education
 
 `2019-2020`
-__University of Stirling, United Kingdom__
+**University of Stirling, United Kingdom**
+
 - GradCert in Mathematics and Data Science
-    - Representing and Manipulating Data (Merit)
-    - Commercial and Scientific Applications (Merit)
-    - Statistics for Data Science (Pass)
-    - Networks & Graph Theory (Pass)
+  - Representing and Manipulating Data (Merit)
+  - Commercial and Scientific Applications (Merit)
+  - Statistics for Data Science (Pass)
+  - Networks & Graph Theory (Pass)
 
 `2015-2018`
-__University of Abertay Dundee, United Kingdom__
+**University of Abertay Dundee, United Kingdom**
+
 <p>BSc with Merit in Computer Game Applications Development, 2:1</p>
 <br>
 - 3rd year modules (GPA: 2.83):
@@ -77,145 +92,171 @@ __University of Abertay Dundee, United Kingdom__
     - Asset Production for Games (B+)
     - Games for Change (B+)
 
+## Funding Awarded
 
-<!-- ## Funding Awarded
+`Sep 2019-Dec 2019`
+**The Data Lab scholarship**
 
-`Sep 2019-Aug 2021`
-__The Data Lab MSc scholarship__
-- Fully funded MSc place; £6500 towards tuition fees
-- Training with Data Scientists -->
-<br>
-<br>
-<br>
-<br>
+- Fully funded GradCert place; £6500 towards tuition fees
+- Professional training with Data Scientists
 
 ## Relevant Experience
-`May 2020-Present` 
-__Programmer/Technical Content Producer, asensei__
+
+`May 2020-Present`
+**Programmer/Technical Content Producer, asensei**
+
 - Building ai modules for asensei.ai smart apparel.
 - Development of connected coaching programmes for asensei app.
 - Mentoring and co-operation with interns.
-- Test Driven Development using jester.
+- Test Driven Development using Jest and Travis.
+- Pair programming with Live Share in VS Code.
 - Building test applications with Angular/Ionic.
 - Graphics programming with three.js in Angular/Ionic and Stencil.
 - Building web components with Stencil.
 - Development of internal tools.
+- Package distribution via npm with semantic release.
+- Technical documentation writing.
 
-`Jan-Mar 2019` 
-__C++ Software Engineer Intern, Viastore__
+`Jan-Mar 2019`
+**C++ Software Engineer Intern, Viastore**
+
 - Learned about:
-    - Relational and non-Relational Databases using SQL and C++
-    - Large distributed IT systems
-    - Business use of rapid prototyping
+  - Relational and non-Relational Databases using SQL and C++
+  - Large distributed IT systems
+  - Business use of rapid prototyping
 
-`Aug-Oct 2018` 
-__Unreal Game Programmer Intern, Bohemia Interactive__
+`Aug-Oct 2018`
+**Unreal Game Programmer Intern, Bohemia Interactive**
+
 - Project worked on: [Vigor](https://www.youtube.com/watch?v=tJS4gItz56s), post-apocalyptic survival game
 - Internship responsibilities:
-    - Networked gameplay programming
-    - UI programming
-    - Prototyping
-    - Developing new solutions based on already existing ones and bug fixing
+  - Networked gameplay programming
+  - UI programming
+  - Prototyping
+  - Developing new solutions based on already existing ones and bug fixing
 
-`Sep 2017-Jun 2018` 
-__Lead Programmer, Abertay University: Professional Project__
-- Projects worked on: 
+`Sep 2017-Jun 2018`
+**Lead Programmer, Abertay University: Professional Project**
+
+- Projects worked on:
 - Mobile game for [Junkfish](https://www.teamjunkfish.com/) Game Company
 - Retro platformer for [Timex](https://www.timex.com/)
-    - Engine: Unity
-    - Programming language: C#
-    - Platforms: Android (Junk Fish), Windows (Timex)
-    - [git](https://github.com/RetrospectAbertay/Lit)
+  - Engine: Unity
+  - Programming language: C#
+  - Platforms: Android (Junk Fish), Windows (Timex)
+  - [git](https://github.com/RetrospectAbertay/Lit)
 - Key responsibilities:
-    - Prototyping
-    - Game programming
-    - Source control maintenance: merging, pull requests, .gitignore
-- Team management: 
-    - Kanban boards with GitHub Projects 
-    - SCRUM (Deadlines setting, mentoring)
+  - Prototyping
+  - Game programming
+  - Source control maintenance: merging, pull requests, .gitignore
+- Team management:
+  - Kanban boards with GitHub Projects
+  - SCRUM (Deadlines setting, mentoring)
+
+## Small side projects
+
+- VS Code extension to accompany nand2tetris course published on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang)
+  <br>
+  [![Version](https://img.shields.io/visual-studio-marketplace/v/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang) [![Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang)
+  [![Installs](https://img.shields.io/visual-studio-marketplace/i/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang)
+- [Non-strict format, time to seconds converter distibuted via npm](https://www.npmjs.com/package/time-to-seconds)
+  <br>
+  [![Build Status](https://travis-ci.com/matzar/time-to-seconds.svg?branch=master)](https://travis-ci.com/github/matzar/time-to-seconds)
+  [![NPM Version](https://img.shields.io/npm/v/time-to-seconds)](https://www.npmjs.com/package/time-to-seconds)
+  [![NPM Downloads](https://img.shields.io/npm/dt/time-to-seconds)](https://www.npmjs.com/package/time-to-seconds?minimal=true)
+  [![NPM Downloads](https://img.shields.io/npm/dw/time-to-seconds)](https://www.npmjs.com/package/time-to-seconds?minimal=true)
+  [![install size](https://packagephobia.com/badge?p=time-to-seconds)](https://packagephobia.com/result?p=time-to-seconds)
+- [Reviewing official .gitignore for Unity](https://github.com/github/gitignore/pull/3068#event-5172644566).
+- Answering Maths questions on Quora
+  - [What does "as a function on time" mean?](https://www.quora.com/What-does-%E2%80%9Cas-a-function-of-time%E2%80%9D-mean)
+  - [What is f(x)?](https://www.quora.com/What-is-f-x)
 
 ## Game Jams
 
 `Jan 24-26, 2018`
-__Gameplay Programmer/Design/Team Lead, Serious Game Jam__
+**Gameplay Programmer/Design/Team Lead, Serious Game Jam**
+
 - Mobile game prototype:
 - Aid for lectures and students from the University of St Andrews,
 - with preparation and explanation of their practical exercises
-- Engine: Unity 
+- Engine: Unity
 - Programming language: C#
 - Platform: Android
 - [git](https://github.com/matzar/Chemistry-Game-Jam)
 
 `Nov 8, 2017`
-__Gameplay Programmer/Design/Team Lead, AGDS 4-hour Game Jam__
+**Gameplay Programmer/Design/Team Lead, AGDS 4-hour Game Jam**
+
 - Brief visual novel with animations, telling a joke
 - Made in 4-hours with two artists
-- Engine: Ren’Py 
+- Engine: Ren’Py
 - Programming language: Python
 - Platform: Windows
 - [git](https://github.com/matzar/ren-py)
 
 `Aug 15-17, 2016`
-__Gameplay Programmer/Design/Team Lead, Rainbow Game Jam__
+**Gameplay Programmer/Design/Team Lead, Rainbow Game Jam**
+
 - Infinite runner chosen to be made in 48-hours with two other artists and a sound designer
-- Engine: Unity 
-- Programming language: C# 
+- Engine: Unity
+- Programming language: C#
 - Platforms: Windows, MAC, Linux
 - [git](https://github.com/matzar/infinite-runner) , [play in browser](https://matzar.itch.io/rainbow-dash)
 
-`Jan 29-31, 2016` 
-__Gameplay Programmer, Global Game Jam 2016__
+`Jan 29-31, 2016`
+**Gameplay Programmer, Global Game Jam 2016**
+
 - Easy pick-up game. My first Unity project and first game jam
-- Engine: Unity 
-- Programming language: C# 
+- Engine: Unity
+- Programming language: C#
 - Platforms: Windows, MAC, Linux
 
 ## Societies
+
 `Sep 2015-Jul 2018`
-__Member of Abertay Game Development Society:__ [1st year project](https://github.com/jctwood/EGD-RhythmGame), [2nd year project](https://github.com/GeorgeRankin/space-whales)
+**Member of Abertay Game Development Society:** [1st year project](https://github.com/jctwood/EGD-RhythmGame), [2nd year project](https://github.com/GeorgeRankin/space-whales)
 
 ## Volunteer Experience
-`Jul 2019-Present`
-__Answering Questions About Mathematics and Coding on Quora__
-- [My Quora Answers](https://www.quora.com/profile/Mat-Zaremba)
 
 `Sep 2017-Aug 2018`
-__Built and managed St Andrew's RC Cathedral website__
+**Built and managed St Andrew's RC Cathedral website**
+
 - [http://www.standrewscathedraldundee.com/](http://www.standrewscathedraldundee.com/)
 
 `Sep 2015-Apr 2016`
-__1st Year Class Representative at Abertay University__
+**1st Year Class Representative at Abertay University**
+
 - Listening to student feedback and liaising with lectures
 - Attended training about leadership and teamwork
 
 ## Other Experience
-`Oct-Dec 2015` 
-__Warden, St. Ninian's Institute, Diocese of Dunkeld__
-- Taking care of the St Ninian's Institute and its guests 
+
+`Oct-Dec 2015`
+**Warden, St. Ninian's Institute, Diocese of Dunkeld**
+
+- Taking care of the St Ninian's Institute and its guests
 - Welcoming at the reception and showing guests to their rooms
 
-`Apr-Aug 2015` 
-__Waiter/Bartender, Drumoig Golf Hotel__
+`Apr-Aug 2015`
+**Waiter/Bartender, Drumoig Golf Hotel**
+
 - Welcoming people at the reception
-- Bartending 
+- Bartending
 - Waitering
 
-`May-Aug 2013` 
-__Office Assistant, University of Wroclaw__
-- Calling vendors to set up appointments and gather information 
+`May-Aug 2013`
+**Office Assistant, University of Wroclaw**
+
+- Calling vendors to set up appointments and gather information
 - Post delivery
 - Clerk duties
 
-`Jan-Aug 2009` 
-__Younger Lifeguard, Wroclaw Water Park__
-- Taking care of visitors safety and well being 
-- Stamina and wellbeing training 
+`Jan-Aug 2009`
+**Younger Lifeguard, Wroclaw Water Park**
 
-
-
+- Taking care of visitors safety and well being
+- Stamina and wellbeing training
 
 <!-- ### Footer
 
-Last updated: Nov 2019 -->
-
-
+Last updated: Aug 2021 -->
