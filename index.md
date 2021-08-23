@@ -11,8 +11,10 @@ TypeScript/JavaScript, StencilJS, C++, Mathematics, Git with bash
 
 <div id="webaddress">
 <a href="mailto:mat.zar@icloud.com">mat.zar@icloud.com</a>
-| <a href="https://matzar.github.io/">https://matzar.github.io/</a>
+| <a href="https://matzar.github.io/">https://matzar.github.io/</a> [![Mat's website](https://img.shields.io/website-up-down-green-red/http/matzar.github.io)](http://matzar.github.io/)
+
 | Update: Wroclaw, Poland, 23rd August 2021
+
 </div>
 
 ## Currently
