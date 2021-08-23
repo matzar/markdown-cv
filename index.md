@@ -98,7 +98,7 @@ Statistical analysis for data science, representing and manipulating data using 
 ## Funding Awarded
 
 `Sep 2019-Dec 2019`
-**The Data Lab scholarship**
+**[The Data Lab](https://www.thedatalab.com/) scholarship**
 
 - Fully funded GradCert place; £6500 towards tuition fees
 - Professional training with Data Scientists
