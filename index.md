@@ -7,11 +7,13 @@ date: 23rd August, 2021 Wroclaw, Poland
 
 # Mateusz Zaremba
 
+[![Mat's website](https://img.shields.io/website-up-down-green-red/http/matzar.github.io)](http://matzar.github.io/) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+
 TypeScript/JavaScript, StencilJS, C++, Mathematics, Git with bash
 
 <div id="webaddress">
 <a href="mailto:mat.zar@icloud.com">mat.zar@icloud.com</a>
-| <a href="https://matzar.github.io/">https://matzar.github.io/</a> [![Mat's website](https://img.shields.io/website-up-down-green-red/http/matzar.github.io)](http://matzar.github.io/)
+| <a href="https://matzar.github.io/">https://matzar.github.io/</a>
 
 | Update: Wroclaw, Poland, 23rd August 2021
 
@@ -88,7 +90,8 @@ Statistical analysis for data science, representing and manipulating data using 
     - Mathematics for Application Development 2 (A+)
 - 1st year modules (GPA: 3.63):
     - [Computer and Graphics Architectures](https://github.com/matzar/BattleCity-GBA) (A)
-    - [Programming in C++](https://github.com/matzar/darts-game) (A)
+    - [Programming in C++](https://github.com/matzar/darts-game) (A) [![GitHub stars](https://img.shields.io/github/stars/matzar/BattleCity-GBA.svg?style=social&label=Star&maxAge=2592000)](https://github.com/matzar/BattleCity-GBA/stargazers)
+
     - Narrative Theory in Interactive Game Design (C+)
     - Mathematics for Applications Development 1 (A+)
     - Games for Change (B+)
