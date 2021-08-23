@@ -119,9 +119,9 @@ BSc with Merit in [Computer Game Applications Development](https://www.abertay.a
 - Mentoring and co-operation with interns.
 - Test Driven Development using Jest and Travis CI.
 - Pair programming with Live Share in VS Code.
-- Building test applications with Angular/Ionic.
-- Graphics programming with three.js in Angular/Ionic and StencilJS.
-- Building web components with StencilJS.
+- Building test applications in Angular/Ionic.
+- Graphics programming with Three.js in Angular/Ionic and StencilJS.
+- Building web components with StencilJS and Three.js.
 - Development of internal tools.
 - Package distribution via npm and semantic release.
 - Technical documentation writing.
