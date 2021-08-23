@@ -88,7 +88,7 @@ Statistical analysis for data science, representing and manipulating data using 
   - Mathematics for Application Development 2 (A+)
 - 1st year modules (GPA: 3.63):
   - [Computer and Graphics Architectures](https://github.com/matzar/BattleCity-GBA) (A) [![GitHub stars](https://img.shields.io/github/stars/matzar/BattleCity-GBA.svg?style=social&label=Star&maxAge=2592000)](https://github.com/matzar/BattleCity-GBA/stargazers)
-  - [Programming in C++](https://github.com/matzar/darts-game) (A)
+  - [Programming in C++](https://github.com/matzar/darts-game) (A) [![GitHub stars](https://img.shields.io/github/stars/matzar/darts-game.svg?style=social&label=Star&maxAge=2592000)](https://github.com/matzar/darts-game/stargazers)
   - Narrative Theory in Interactive Game Design (C+)
   - Mathematics for Applications Development 1 (A+)
   - Games for Change (B+)
