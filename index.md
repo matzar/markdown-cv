@@ -62,9 +62,9 @@ Statistical analysis for data science, representing and manipulating data using 
 **[University of Stirling](https://www.stir.ac.uk/), United Kingdom**
 
 - GradCert in [Mathematics and Data Science](https://www.stir.ac.uk/courses/pg-taught/mathematics-and-data-science/)
-  - Representing and Manipulating Data (Merit)
+  - [Representing and Manipulating Data](https://github.com/matzar/representing-and-manipulating-data) (Merit)
   - Commercial and Scientific Applications (Merit)
-  - [Statistics for Data Science](https://github.com/matzar/R) (Pass)
+  - [Statistics for Data Science](https://github.com/matzar/R/blob/master/Statistics/StudentGoals.pdf) (Pass)
   - Networks & Graph Theory (Pass)
 
 `2015-2018`
