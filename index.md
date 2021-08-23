@@ -59,9 +59,9 @@ Statistical analysis for data science, representing and manipulating data using 
 ## Education
 
 `2019-2020`
-**University of Stirling, United Kingdom**
+**[University of Stirling](https://www.stir.ac.uk/), United Kingdom**
 
-- GradCert in Mathematics and Data Science
+- GradCert in [Mathematics and Data Science](https://www.stir.ac.uk/courses/pg-taught/mathematics-and-data-science/)
   - Representing and Manipulating Data (Merit)
   - Commercial and Scientific Applications (Merit)
   - [Statistics for Data Science](https://github.com/matzar/R) (Pass)
