@@ -183,7 +183,9 @@ BSc with Merit in [Computer Game Applications Development](https://www.abertay.a
 - [PR'ed pink theme](https://github.com/Xerios/LazyTheme/pull/1) for [Xerios'](https://github.com/Xerios) UE4 [LazyTheme](https://github.com/Xerios/LazyTheme) with assets prepared by [Justin Meisse](https://jmeisse.artstation.com):
   <br>
   [Pink LazyTheme](https://github.com/Xerios/LazyTheme/tree/pink)
-- [PR review for Unity's official .gitignore](https://github.com/github/gitignore/pull/3068#event-5172644566)
+- PR reviewing of Unity's official .gitignore:
+  - [Include Library/*.asset files for Unity3D #3068](https://github.com/github/gitignore/pull/3068)
+  - [[Unity] Adding VS Code and flexibility #2850](https://github.com/github/gitignore/pull/2850)
 - Answering maths questions on Quora:
   - [What does "as a function on time" mean?](https://www.quora.com/What-does-%E2%80%9Cas-a-function-of-time%E2%80%9D-mean)
   - [What is f(x)?](https://www.quora.com/What-is-f-x)
