@@ -17,6 +17,8 @@ TypeScript/JavaScript, [StencilJS](https://stenciljs.com/), C++, Mathematics, Gi
 | Update: Wroclaw, Poland, 23rd August 2021
 </div>
 
+<br>
+
 [![Mat's github trophy](https://github-profile-trophy.vercel.app/?username=matzar&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
