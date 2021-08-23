@@ -106,7 +106,7 @@ Statistical analysis for data science, representing and manipulating data using 
 ## Relevant Experience
 
 `May 2020-Present`
-**Programmer/Technical Content Producer, asensei**
+**Programmer/Technical Content Producer, [asensei](https://asensei.com/)**
 
 - Building ai modules for asensei.ai smart apparel.
 - Development of connected coaching programmes for asensei app.
@@ -121,7 +121,7 @@ Statistical analysis for data science, representing and manipulating data using 
 - Technical documentation writing.
 
 `Jan-Mar 2019`
-**C++ Software Engineer Intern, Viastore**
+**Internship, C++ Software Engineer, [viastore](https://www.viastore.com/en)**
 
 - Learned about:
   - Relational and non-Relational Databases using SQL and C++
@@ -129,7 +129,7 @@ Statistical analysis for data science, representing and manipulating data using 
   - Business use of rapid prototyping
 
 `Aug-Oct 2018`
-**Unreal Game Programmer Intern, Bohemia Interactive**
+**Internship, Unreal Game Programmer, [Bohemia Interactive](https://www.bohemia.net/)**
 
 - Project worked on: [Vigor](https://www.youtube.com/watch?v=tJS4gItz56s), post-apocalyptic survival game
 - Internship responsibilities:
