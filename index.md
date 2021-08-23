@@ -201,7 +201,9 @@ Statistical analysis for data science, representing and manipulating data using 
 - Engine: Unity
 - Programming language: C#
 - Platforms: Windows, MAC, Linux
-- [git](https://github.com/matzar/infinite-runner) , [play in browser](https://matzar.itch.io/rainbow-dash)
+- [git](https://github.com/matzar/infinite-runner)
+  <br>
+  <iframe frameborder="0" src="https://itch.io/embed/83599" width="552" height="167"><a href="https://matzar.itch.io/rainbow-dash">Rainbow Dash by matzar</a></iframe>
 
 `Jan 29-31, 2016`
 **Gameplay Programmer, Global Game Jam 2016**
