@@ -81,7 +81,7 @@ Statistical analysis for data science, representing and manipulating data using 
     - Data Structures and Algorithms 1 (A)
     - Data Structures and Algorithms 2 (A+)
     - Graphics Programming (A)
-    - Game Programming and System Architectures (A)
+    - [Game Programming and System Architectures](https://github.com/matzar/PSVita-Game) (A)
     - Film and Game Genres (A)
     - Mathematics for Application Development 2 (A+)
 - 1st year modules (GPA: 3.63):
@@ -89,8 +89,9 @@ Statistical analysis for data science, representing and manipulating data using 
     - Programming in C++ (A)
     - Narrative Theory in Interactive Game Design (C+)
     - Mathematics for Applications Development 1 (A+)
-    - Asset Production for Games (B+)
     - Games for Change (B+)
+    - Asset Production for Games (B+)
+    - <iframe frameborder="0" src="https://itch.io/embed/121052" width="552" height="167"><a href="https://matzar.itch.io/dragon-maze">Dragon Maze by matzar</a></iframe>
 
 ## Funding Awarded
 
