@@ -25,8 +25,6 @@ TypeScript/JavaScript, [StencilJS](https://stenciljs.com/), C++, Mathematics, Gi
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matzar&theme=prussian&hide_border=true&background=FFFFFF)](https://git.io/streak-stats)
 
-<br>
-
 
 ## Currently
 
