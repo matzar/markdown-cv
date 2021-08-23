@@ -73,8 +73,9 @@ Statistical analysis for data science, representing and manipulating data using 
 - 3rd year modules (GPA: 2.83):
     - Graphics Programming with Shaders (C+)
     - Gameplay Mechanics Development (C+)
-    - Network Systems for Game Development (A)
-    - Artificial Intelligence (B)
+    - [Network Systems for Game Development](https://github.com/matzar/SFML-Networking) (A)
+    <!-- - Artificial Intelligence (B) -->
+    - <a href="[example.com](https://github.com/matzar/face_emotion_recognition)" target="_blank">Artificial Intelligence (B)</a>
     - Professional Team Project: Planning and Prototyping (C+)
     - Professional Team Project: Development and Delivery (C+)
 - 2nd year modules (GPA: 4.17):
