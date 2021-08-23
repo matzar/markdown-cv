@@ -170,7 +170,7 @@ BSc with Merit in [Computer Game Applications Development](https://www.abertay.a
 - VS Code extension to accompany nand2tetris course published on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang)
 - [![Version](https://img.shields.io/visual-studio-marketplace/v/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang) [![Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang) [![Installs](https://img.shields.io/visual-studio-marketplace/i/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang)
 - [Reviewing official .gitignore for Unity](https://github.com/github/gitignore/pull/3068#event-5172644566).
-- Answering Maths questions on Quora
+- Answering maths questions on Quora
   - [What does "as a function on time" mean?](https://www.quora.com/What-does-%E2%80%9Cas-a-function-of-time%E2%80%9D-mean)
   - [What is f(x)?](https://www.quora.com/What-is-f-x)
 
