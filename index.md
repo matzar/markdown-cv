@@ -38,7 +38,7 @@ C#, Unity3D, UE4, Python, Ren'Py, Xbox One, PSVita, Box2D, Graphics programming 
 
 ### Data skills
 
-Python, R, ggplot2, SQL, Statistics
+Python, R, ggplot2, Gephi, SQL, Statistics
 
 ### Testing skills
 
