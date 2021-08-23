@@ -112,7 +112,7 @@ BSc with Merit in [Computer Game Applications Development](https://www.abertay.a
 
 ## Funding Awarded
 
-`Sep 2019-Dec 2019`
+`Sep 2019-Mar 2020`
 **[The Data Lab](https://www.thedatalab.com/) scholarship**
 
 - Fully funded GradCert place; £6500 towards tuition fees
