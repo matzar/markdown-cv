@@ -144,7 +144,7 @@ Statistical analysis for data science, representing and manipulating data using 
   - Engine: Unity
   - Programming language: C#
   - Platforms: Android (Junk Fish), Windows (Timex)
-  - [git](https://github.com/RetrospectAbertay/Lit)
+  - [GitHub repository](https://github.com/RetrospectAbertay/Lit)
 - Key responsibilities:
   - Prototyping
   - Game programming
@@ -182,7 +182,7 @@ Statistical analysis for data science, representing and manipulating data using 
 - Engine: Unity
 - Programming language: C#
 - Platform: Android
-- [git](https://github.com/matzar/Chemistry-Game-Jam)
+- [GitHub repository](https://github.com/matzar/Chemistry-Game-Jam)
 
 `Nov 8, 2017`
 **Gameplay Programmer/Design/Team Lead, AGDS 4-hour Game Jam**
@@ -192,7 +192,7 @@ Statistical analysis for data science, representing and manipulating data using 
 - Engine: Ren’Py
 - Programming language: Python
 - Platform: Windows
-- [git](https://github.com/matzar/ren-py)
+- [GitHub repository](https://github.com/matzar/ren-py)
 
 `Aug 15-17, 2016`
 **Gameplay Programmer/Design/Team Lead, Rainbow Game Jam**
@@ -201,7 +201,8 @@ Statistical analysis for data science, representing and manipulating data using 
 - Engine: Unity
 - Programming language: C#
 - Platforms: Windows, MAC, Linux
-- [git](https://github.com/matzar/infinite-runner)
+- [GitHub repository](https://github.com/matzar/infinite-runner)
+  <br>
   <br>
   <iframe frameborder="0" src="https://itch.io/embed/83599" width="552" height="167"><a href="https://matzar.itch.io/rainbow-dash">Rainbow Dash by matzar</a></iframe>
 
