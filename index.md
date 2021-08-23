@@ -64,7 +64,9 @@ Statistical analysis for data science, representing and manipulating data using 
 - GradCert in [Mathematics and Data Science](https://www.stir.ac.uk/courses/pg-taught/mathematics-and-data-science/)
   - [Representing and Manipulating Data](https://github.com/matzar/representing-and-manipulating-data) (Merit)
   - Commercial and Scientific Applications (Merit)
-  - [Statistics for Data Science](https://github.com/matzar/R/blob/master/Statistics/StudentGoals.pdf) (Pass)
+  - Statistics for Data Science (Pass)
+    - [Statistical Data Analysis of Student Goals - Statistical Analysis](https://github.com/matzar/statistics-for-data-science/blob/master/Statistics/Mateusz%20Zaremba%20-%20Student%20Goals%20-%20Report.pdf)
+    - [Barack Obama's Retweet Network - Graph Analysis](https://github.com/matzar/statistics-for-data-science/blob/master/Networks/pdf/Mateusz-Zaremba--MATPDM2--Markdown.pdf)
   - Networks & Graph Theory (Pass)
 
 `2015-2018`
