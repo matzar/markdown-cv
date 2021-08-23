@@ -47,7 +47,7 @@ C#, [Unity3D](https://unity.com), [UE4](https://www.unrealengine.com/en-US/), Py
 
 ### Data skills
 
-Python, R, [ggplot2](https://ggplot2.tidyverse.org), [Gephi](https://gephi.org), SQL, Statistics
+Python, R, [ggplot2](https://ggplot2.tidyverse.org), [Gephi](https://gephi.org), SQL, Statistics, LaTeX
 
 ### Testing skills
 
