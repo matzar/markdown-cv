@@ -91,8 +91,7 @@ Statistical analysis for data science, representing and manipulating data using 
     - Narrative Theory in Interactive Game Design (C+)
     - Mathematics for Applications Development 1 (A+)
     - Games for Change (B+)
-    - Asset Production for Games (B+)
-      - Project:
+    - Asset Production for Games (B+):
       - <iframe frameborder="0" src="https://itch.io/embed/121052" width="552" height="167"><a href="https://matzar.itch.io/dragon-maze">Dragon Maze by matzar</a></iframe>
 
 ## Funding Awarded
