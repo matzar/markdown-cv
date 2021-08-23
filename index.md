@@ -110,13 +110,14 @@ BSc with Merit in [Computer Game Applications Development](https://www.abertay.a
   - Asset Production for Games (B+):
     - <iframe frameborder="0" src="https://itch.io/embed/121052" width="552" height="167"><a href="https://matzar.itch.io/dragon-maze">Dragon Maze by matzar</a></iframe>
 
-<!-- ## Funding Awarded
+## Funding Awarded
 
-`Sep 2019-Dec 2019`
+`Sep 2019-present`
 **[The Data Lab](https://www.thedatalab.com/) scholarship**
 
-- Fully funded GradCert place; £6500 towards tuition fees
-- Professional training with Data Scientists -->
+- Fully funded MSc place; £6500 towards tuition fees
+- Professional training with Data Scientists
+- Data Lab events.
 
 ## Relevant Experience
 
