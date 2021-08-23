@@ -30,7 +30,7 @@ TypeScript/JavaScript, StencilJS, C++, Mathematics, Git with bash
 
 ### Web skills
 
-JavaScript, TypeScript, JSON, StencilJS, Angular/Ionic, HTML5, CSS3, npm, semantic release
+JavaScript, TypeScript, JSON, StencilJS, Three.js, Angular/Ionic, HTML5, CSS3, npm, semantic release
 
 ### Gaming skills
 
