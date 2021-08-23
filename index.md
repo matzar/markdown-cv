@@ -188,6 +188,7 @@ BSc with Merit in [Computer Game Applications Development](https://www.abertay.a
 - Answering maths questions on Quora:
   - [What does "as a function on time" mean?](https://www.quora.com/What-does-%E2%80%9Cas-a-function-of-time%E2%80%9D-mean)
   - [What is f(x)?](https://www.quora.com/What-is-f-x)
+  - [What does f(x) = x mean?](https://www.quora.com/What-does-f-x-x-mean-1)
 
 ## Game Jams
 
