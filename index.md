@@ -26,23 +26,23 @@ Working at a Silicon Valley starup, using a broad range of skills; from graphics
 
 ### Specialized in
 
-TypeScript/JavaScript, StencilJS, C++, Mathematics, Git with bash
+TypeScript/JavaScript, [StencilJS](https://stenciljs.com/), C++, Mathematics, [Git](https://git-scm.com/downloads) with bash
 
 ### Web skills
 
-JavaScript, TypeScript, JSON, StencilJS, Three.js, Angular/Ionic, HTML5, CSS3, npm, semantic release
+JavaScript, TypeScript, JSON, [StencilJS](https://stenciljs.com/), [Three.js](https://threejs.org), [Angular](https://angular.io)/[Ionic](https://ionicframework.com), HTML5, CSS3, npm, semantic release
 
 ### Gaming skills
 
-C#, Unity3D, UE4, Python, Ren'Py, Xbox One, PSVita, Box2D, Graphics programming (SFML, DirectX 11), Networking
+C#, [Unity3D](https://unity.com), [UE4](https://www.unrealengine.com/en-US/), Python, [Ren'Py](https://www.renpy.org), Xbox One, PSVita, [Box2D](https://box2d.org), Graphics programming (SFML, DirectX 11), Networking
 
 ### Data skills
 
-Python, R, ggplot2, Gephi, SQL, Statistics
+Python, R, [ggplot2](https://ggplot2.tidyverse.org), [Gephi](https://gephi.org), SQL, Statistics
 
 ### Testing skills
 
-Jest, Mocha, Travis
+[Jest](https://jestjs.io), [Mocha](https://mochajs.org), [Travis CI](https://travis-ci.com)
 
 ### Tools
 
@@ -117,7 +117,7 @@ BSc with Merit in [Computer Game Applications Development](https://www.abertay.a
 - Building ai modules for asensei.ai smart apparel.
 - Development of connected coaching programmes for asensei app.
 - Mentoring and co-operation with interns.
-- Test Driven Development using Jest and Travis.
+- Test Driven Development using Jest and Travis CI.
 - Pair programming with Live Share in VS Code.
 - Building test applications with Angular/Ionic.
 - Graphics programming with three.js in Angular/Ionic and StencilJS.
@@ -138,11 +138,12 @@ BSc with Merit in [Computer Game Applications Development](https://www.abertay.a
 **Internship, Unreal Game Programmer, [Bohemia Interactive](https://www.bohemia.net/)**
 
 - Project worked on: [Vigor](https://www.youtube.com/watch?v=tJS4gItz56s), post-apocalyptic survival game
-- Internship responsibilities:
+- Responsibilities:
   - Networked gameplay programming
   - UI programming
   - Prototyping
-  - Developing new solutions based on already existing ones and bug fixing
+  - Bug fixing
+  - Developing new solutions based on already existing ones 
 
 `Sep 2017-Jun 2018`
 **Lead Programmer, Abertay University: Professional Project**
@@ -154,15 +155,15 @@ BSc with Merit in [Computer Game Applications Development](https://www.abertay.a
   - Programming language: C#
   - Platforms: Android (Junk Fish), Windows (Timex)
   - [GitHub repository](https://github.com/RetrospectAbertay/Lit)
-- Key responsibilities:
+- Responsibilities:
+  - Gameplay programming
   - Prototyping
-  - Game programming
   - Source control maintenance: merging, pull requests, .gitignore
 - Team management:
   - Kanban boards with GitHub Projects
-  - SCRUM (Deadlines setting, mentoring)
+  - SCRUM (Deadlines setting, task assignment, mentoring)
 
-## Small side projects
+## Side projects
 
 - [Non-strict format, time to seconds converter distibuted via npm](https://www.npmjs.com/package/time-to-seconds)
 - [![Build Status](https://travis-ci.com/matzar/time-to-seconds.svg?branch=master)](https://travis-ci.com/github/matzar/time-to-seconds) [![NPM Version](https://img.shields.io/npm/v/time-to-seconds)](https://www.npmjs.com/package/time-to-seconds) [![NPM Downloads](https://img.shields.io/npm/dt/time-to-seconds)](https://www.npmjs.com/package/time-to-seconds?minimal=true) [![NPM Downloads](https://img.shields.io/npm/dw/time-to-seconds)](https://www.npmjs.com/package/time-to-seconds?minimal=true) [![install size](https://packagephobia.com/badge?p=time-to-seconds)](https://packagephobia.com/result?p=time-to-seconds)
