@@ -63,12 +63,15 @@ Statistical analysis for data science, representing and manipulating data using 
 
 - GradCert in [Mathematics and Data Science](https://www.stir.ac.uk/courses/pg-taught/mathematics-and-data-science/)
   - Representing and Manipulating Data (Merit):
-    - [Around the World in 80 Days by Jules Verne, book analysis with Python](https://github.com/matzar/representing-and-manipulating-data/blob/master/Assignment/Mateusz%20Zaremba.ipynb)
+    <br>
+    [Around the World in 80 Days by Jules Verne, book analysis with Python](https://github.com/matzar/representing-and-manipulating-data/blob/master/Assignment/Mateusz%20Zaremba.ipynb)
   - Commercial and Scientific Applications (Merit)
   - Statistics for Data Science (Pass):
-    - [Statistical Data Analysis of Student Goals](https://github.com/matzar/statistics-for-data-science/blob/master/Statistics/Mateusz%20Zaremba%20-%20Student%20Goals%20-%20Report.pdf)
+    <br>
+    [Statistical Data Analysis of Student Goals](https://github.com/matzar/statistics-for-data-science/blob/master/Statistics/Mateusz%20Zaremba%20-%20Student%20Goals%20-%20Report.pdf)
   - Networks & Graph Theory (Pass):
-    - [Barack Obama's Retweet Network](https://github.com/matzar/statistics-for-data-science/blob/master/Networks/pdf/Mateusz-Zaremba--MATPDM2--Markdown.pdf)
+    <br>
+    [Barack Obama's Retweet Network](https://github.com/matzar/statistics-for-data-science/blob/master/Networks/pdf/Mateusz-Zaremba--MATPDM2--Markdown.pdf)
 
 `2015-2018`
 **[University of Abertay Dundee](https://www.abertay.ac.uk/), United Kingdom**
