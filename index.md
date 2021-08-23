@@ -114,10 +114,10 @@ BSc with Merit in [Computer Game Applications Development](https://www.abertay.a
 - Test Driven Development using Jest and Travis.
 - Pair programming with Live Share in VS Code.
 - Building test applications with Angular/Ionic.
-- Graphics programming with three.js in Angular/Ionic and Stencil.
-- Building web components with Stencil.
+- Graphics programming with three.js in Angular/Ionic and StencilJS.
+- Building web components with StencilJS.
 - Development of internal tools.
-- Package distribution via npm with semantic release.
+- Package distribution via npm and semantic release.
 - Technical documentation writing.
 
 `Jan-Mar 2019`
