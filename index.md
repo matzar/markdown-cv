@@ -7,7 +7,7 @@ date: 23rd August, 2021 Wroclaw, Poland
 
 # Mateusz Zaremba
 
-C++, Mathematics, TypeScript/JavaScript, [StencilJS](https://stenciljs.com/), Git with bash
+C++, Mathematics, TypeScript/JavaScript, Git with bash
 
 [![Website matzar.github.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://matzar.github.io/) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
@@ -28,13 +28,13 @@ C++, Mathematics, TypeScript/JavaScript, [StencilJS](https://stenciljs.com/), Gi
 ## Currently
 
 <p>
-Coming from a games background, now working at a Silicon Valley starup, as a software developer using a broad range of skills; from graphics programming, scripting, tools development to content production and team managment.
+Coming from a games background, now working at a Silicon Valley starup, as a software engineer using a broad range of skills; from graphics programming, scripting, tools development to content production and team managment.
 </p>
 <br>
 
 ### Specialized in
 
-TypeScript/JavaScript, [StencilJS](https://stenciljs.com/), C++, Mathematics, [Git](https://git-scm.com/downloads) with bash
+C++, Mathematics, TypeScript/JavaScript, [Git](https://git-scm.com/downloads) with bash
 
 ### Web skills
 
