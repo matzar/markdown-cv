@@ -34,23 +34,23 @@ Coming from a games background, now working at a Silicon Valley starup, as a sof
 
 ### Specialized in
 
-C++, Mathematics, TypeScript/JavaScript, [Git](https://git-scm.com/downloads) with bash
+C++, Mathematics, TypeScript/JavaScript, Git with bash
 
 ### Web skills
 
-JavaScript, TypeScript, JSON, [StencilJS](https://stenciljs.com/), [Three.js](https://threejs.org), [Angular](https://angular.io)/[Ionic](https://ionicframework.com), HTML5, CSS3, npm, semantic release
+JavaScript, TypeScript, JSON, StencilJS, Three.js, Angular/Ionic, HTML5, CSS3, npm, semantic release
 
 ### Gaming skills
 
-C#, [Unity3D](https://unity.com), [UE4](https://www.unrealengine.com/en-US/), Python, [Ren'Py](https://www.renpy.org), Xbox One, PSVita, [Box2D](https://box2d.org), Graphics programming (SFML, DirectX 11), Networking
+C#, Unity3D, UE4, Python, Ren'Py, Xbox One, PSVita, Box2D, Graphics programming (SFML, DirectX 11), Networking
 
 ### Data skills
 
-Python, R, [ggplot2](https://ggplot2.tidyverse.org), [Gephi](https://gephi.org), SQL, Statistics, LaTeX
+Python, R, ggplot2, Gephi, SQL, Statistics, LaTeX
 
 ### Testing skills
 
-[Jest](https://jestjs.io), [Mocha](https://mochajs.org), [Travis CI](https://travis-ci.com)
+Jest, Mocha, Travis CI
 
 ### Tools
 
@@ -58,7 +58,7 @@ VS Code, MS Visual Studio, UNIX terminal, XCode
 
 ### Teamwork
 
-[Notion](https://www.notion.so), [Jira](https://www.atlassian.com/software/jira), [Confluence](https://www.atlassian.com/software/confluence), [Slack](https://slack.com/intl/en-pl/), [MS Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software), [Pair programming](https://en.wikipedia.org/wiki/Pair_programming) with [Live Share in VS Code](https://code.visualstudio.com/learn/collaboration/live-share)
+Notion, Jira, Confluence, Slack, MS Teams, Pair programming with Live Share using VS Code
 
 <!-- ### Research interests
 
@@ -69,7 +69,7 @@ Statistical analysis for data science, representing and manipulating data using 
 `2019-2020`
 **[University of Stirling](https://www.stir.ac.uk/), United Kingdom**
 
-- GradCert in [Mathematics and Data Science](https://www.stir.ac.uk/courses/pg-taught/mathematics-and-data-science/)
+- GradCert in Mathematics and Data Science
   - Representing and Manipulating Data (Merit):
     <br>
     [Around the World in 80 Days by Jules Verne, book analysis with Python](https://github.com/matzar/representing-and-manipulating-data/blob/master/Assignment/Mateusz%20Zaremba.ipynb)
@@ -84,7 +84,7 @@ Statistical analysis for data science, representing and manipulating data using 
 `2015-2018`
 **[University of Abertay Dundee](https://www.abertay.ac.uk/), United Kingdom**
 
-BSc with Merit in [Computer Game Applications Development](https://www.abertay.ac.uk/course-search/undergraduate/computer-game-applications-development/), 2:1
+BSc with Merit in Computer Game Applications Development, 2:1
 
 - 3rd year modules (GPA: 2.83):
   - [Graphics Programming with Shaders](https://github.com/matzar/DirectX-Shaders) (C+)
@@ -112,7 +112,7 @@ BSc with Merit in [Computer Game Applications Development](https://www.abertay.a
 ## Funding Awarded
 
 `Sep 2019-Mar 2020`
-**[The Data Lab](https://www.thedatalab.com/) scholarship**
+**The Data Lab scholarship**
 
 - Fully funded place in Mathematics and Data Science
 - £6500 towards tuition fees
@@ -164,7 +164,7 @@ BSc with Merit in [Computer Game Applications Development](https://www.abertay.a
   - Engine: Unity
   - Programming language: C#
   - Platforms: Android (Junk Fish), Windows (Timex)
-  - [GitHub repository](https://github.com/RetrospectAbertay/Lit)
+  - [GitHub](https://github.com/RetrospectAbertay/Lit)
 - Responsibilities:
   - Gameplay programming
   - Prototyping
@@ -200,7 +200,7 @@ BSc with Merit in [Computer Game Applications Development](https://www.abertay.a
 - Engine: Unity
 - Programming language: C#
 - Platform: Android
-- [GitHub repository](https://github.com/matzar/Chemistry-Game-Jam)
+- [GitHub](https://github.com/matzar/Chemistry-Game-Jam)
 
 `Nov 8, 2017`
 **Gameplay Programmer/Design/Team Lead, AGDS 4-hour Game Jam**
@@ -210,7 +210,7 @@ BSc with Merit in [Computer Game Applications Development](https://www.abertay.a
 - Engine: Ren’Py
 - Programming language: Python
 - Platform: Windows
-- [GitHub repository](https://github.com/matzar/ren-py)
+- [GitHub](https://github.com/matzar/ren-py)
 - <iframe frameborder="0" src="https://itch.io/embed/192517" width="552" height="167"><a href="https://matzar.itch.io/knock-knock">Knock Knock by matzar</a></iframe>
 
 `Aug 15-17, 2016`
@@ -220,7 +220,7 @@ BSc with Merit in [Computer Game Applications Development](https://www.abertay.a
 - Engine: Unity
 - Programming language: C#
 - Platforms: Windows, MAC, Linux
-- [GitHub repository](https://github.com/matzar/infinite-runner)
+- [GitHub](https://github.com/matzar/infinite-runner)
 - <iframe frameborder="0" src="https://itch.io/embed/83599" width="552" height="167"><a href="https://matzar.itch.io/rainbow-dash">Rainbow Dash by matzar</a></iframe>
 
 `Jan 29-31, 2016`
