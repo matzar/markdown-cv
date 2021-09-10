@@ -23,8 +23,7 @@ TypeScript/JavaScript, [StencilJS](https://stenciljs.com/), C++, Mathematics, Gi
 
 <br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matzar&theme=prussian&hide_border=true&background=FFFFFF)](https://git.io/streak-stats)
-
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matzar&theme=prussian&hide_border=true&background=FFFFFF)](https://git.io/streak-stats) -->
 
 ## Currently
 
@@ -154,7 +153,7 @@ BSc with Merit in [Computer Game Applications Development](https://www.abertay.a
   - UI programming
   - Prototyping
   - Bug fixing
-  - Developing new solutions based on already existing ones 
+  - Developing new solutions based on already existing ones
 
 `Sep 2017-Jun 2018`
 **Lead Programmer, Abertay University: Professional Project**
@@ -184,7 +183,7 @@ BSc with Merit in [Computer Game Applications Development](https://www.abertay.a
   - [Pink LazyTheme](https://github.com/Xerios/LazyTheme/tree/pink)
 - PR reviewing of Unity's official .gitignore:
   - [[Unity] Adding VS Code and flexibility #2850](https://github.com/github/gitignore/pull/2850)
-  - [Include Library/*.asset files for Unity3D #3068](https://github.com/github/gitignore/pull/3068)
+  - [Include Library/\*.asset files for Unity3D #3068](https://github.com/github/gitignore/pull/3068)
 - Answering maths questions on Quora:
   - [What does "as a function on time" mean?](https://www.quora.com/What-does-%E2%80%9Cas-a-function-of-time%E2%80%9D-mean)
   - [What is f(x)?](https://www.quora.com/What-is-f-x)
