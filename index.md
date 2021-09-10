@@ -28,7 +28,7 @@ TypeScript/JavaScript, [StencilJS](https://stenciljs.com/), C++, Mathematics, Gi
 ## Currently
 
 <p>
-Working at a Silicon Valley starup, using a broad range of skills; from graphics programming, scripting, tools development and team managment to content production.
+Coming from a games background, now working at a Silicon Valley starup, as a software developer using a broad range of skills; from graphics programming, scripting, tools development to content production and team managment.
 </p>
 <br>
 
