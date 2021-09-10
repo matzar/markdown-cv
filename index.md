@@ -7,7 +7,7 @@ date: 23rd August, 2021 Wroclaw, Poland
 
 # Mateusz Zaremba
 
-TypeScript/JavaScript, [StencilJS](https://stenciljs.com/), C++, Mathematics, Git with bash
+C++, Mathematics, TypeScript/JavaScript, [StencilJS](https://stenciljs.com/), Git with bash
 
 [![Website matzar.github.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://matzar.github.io/) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
