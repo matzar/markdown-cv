@@ -1,7 +1,7 @@
 ---
 layout: cv
-title: Mat Zaremba's CV
-author: Mat Zaremba
+title: Mateusz Zaremba's CV
+author: Mateusz Zaremba
 date: 10th September, 2021 Wroclaw, Poland
 ---
 
