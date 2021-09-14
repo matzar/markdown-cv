@@ -28,7 +28,8 @@ C++, Mathematics, TypeScript/JavaScript, Git with bash
 ## Currently
 
 <p>
-Coming from a games background, now working at a Silicon Valley starup, as a software engineer using a broad range of skills; from graphics programming, scripting, tools development to content production and team managment.
+Coming from a games background, now working at a Silicon Valley starup; as a software engineer I have developed a content building tool which on avergae has saved 6 months in developemnt.
+On a day to day basis I'm using a broad range of skills, from graphics programming, scripting, tools development to content production and team managment. Currently I'm developing tools using in StencilJS and TypeScript.
 </p>
 <br>
 
