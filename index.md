@@ -29,7 +29,7 @@ C++, Mathematics, TypeScript/JavaScript, Git with bash
 
 <p>
 Coming from a games background, now working at a Silicon Valley starup; as a software engineer I have developed a content building tool which has already saved 6 to 8 months in developemnt.
-My day to day tasks range from graphics programming, scripting, tools development to content production and team managment. Currently I am developing tools using StencilJS and TypeScript.
+My day to day tasks range from graphics programming, scripting, tools development to content production and team managment. Currently I am developing tools using StencilJS and TypeScript and doing open source tools development in free time. 
 </p>
 <br>
 
