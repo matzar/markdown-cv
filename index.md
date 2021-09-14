@@ -182,7 +182,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
 - [![Version](https://img.shields.io/visual-studio-marketplace/v/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang) [![Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang) [![Installs](https://img.shields.io/visual-studio-marketplace/i/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang)
 - [PR'ed pink theme](https://github.com/Xerios/LazyTheme/pull/1) for [Xerios'](https://github.com/Xerios) UE4 [LazyTheme](https://github.com/Xerios/LazyTheme) with assets prepared by [Justin Meisse](https://jmeisse.artstation.com):
   - [Pink LazyTheme](https://github.com/Xerios/LazyTheme/tree/pink)
-- PR reviewing of Unity's official .gitignore:
+- Reviewing Unity's official .gitignore PRs:
   - [[Unity] Adding VS Code and flexibility #2850](https://github.com/github/gitignore/pull/2850)
   - [Include Library/\*.asset files for Unity3D #3068](https://github.com/github/gitignore/pull/3068)
 
