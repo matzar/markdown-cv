@@ -235,7 +235,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
 ## Societies
 
 `Sep 2015-Jul 2018`
-**Member of Abertay Game Development Society:**, Dundee, United Kingdom
+**Member of Abertay Game Development Society**, Dundee, United Kingdom
 
 - [2nd year project](https://github.com/GeorgeRankin/space-whales)
 - [1st year project](https://github.com/jctwood/EGD-RhythmGame)
