@@ -123,7 +123,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
 ## Relevant Experience
 
 `May 2020-Present`
-**Programmer/Technical Content Producer, [asensei](https://asensei.com/)**, UK Remote in Wroclaw, Poland
+**Programmer/Technical Content Producer, [asensei](https://asensei.com/)**, Edinburgh, United Kingdom | Remote in Wroclaw, Poland
 
 - Building ai modules for asensei.ai smart apparel
 - Development of connected coaching programmes for asensei app
