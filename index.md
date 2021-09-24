@@ -41,6 +41,10 @@ C++, Mathematics, TypeScript/JavaScript, Git with bash
 
 JavaScript, TypeScript, JSON, StencilJS, Three.js, Angular/Ionic, HTML5, CSS3, npm, ts-node, semantic release
 
+### Scripting skills
+
+bash, npm commander, git bash aliases and functions
+
 ### Gaming skills
 
 C#, Unity3D, UE4, Python, Ren'Py, Xbox One, PSVita, Box2D, Graphics programming (SFML, DirectX 11), Networking
