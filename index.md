@@ -37,23 +37,23 @@ My day to day tasks range from graphics programming, scripting, tools developmen
 
 C++, Mathematics, TypeScript/JavaScript, Git with bash
 
-### Web skills
+### Web
 
 JavaScript, TypeScript, JSON, StencilJS, Three.js, Angular/Ionic, HTML5, CSS3, npm, ts-node, semantic release
 
-### Scripting skills
+### Scripting
 
 bash, git bash aliases and functions, npm commander, TypeScript with Node.js file system and JSON
 
-### Gaming skills
+### Gaming
 
 C#, Unity3D, UE4, Python, Ren'Py, Xbox One, PSVita, Box2D, Graphics programming (SFML, DirectX 11), Networking
 
-### Data skills
+### Data
 
 Python, R, ggplot2, Gephi, SQL, Statistics, LaTeX
 
-### Testing skills
+### Testing
 
 Jest, Mocha, Travis CI
 
