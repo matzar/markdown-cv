@@ -2,7 +2,7 @@
 layout: cv
 title: Mateusz Zaremba's CV
 author: Mateusz Zaremba
-date: 14th September, 2021 Wroclaw, Poland
+date: 24th September, 2021 Wroclaw, Poland
 ---
 
 # Mateusz Zaremba
@@ -14,7 +14,7 @@ C++, Mathematics, TypeScript/JavaScript, Git with bash
 <div id="webaddress">
 <a href="mailto:mat.zar@icloud.com">mat.zar@icloud.com</a>
 | <a href="https://matzar.github.io/">https://matzar.github.io/</a>
-| Update: Wroclaw, Poland, 14th September 2021
+| Update: Wroclaw, Poland, 24th September 2021
 </div>
 
 <br>
