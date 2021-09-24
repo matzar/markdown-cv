@@ -39,7 +39,7 @@ C++, Mathematics, TypeScript/JavaScript, Git with bash
 
 ### Web skills
 
-JavaScript, TypeScript, JSON, StencilJS, Three.js, Angular/Ionic, HTML5, CSS3, npm, semantic release
+JavaScript, TypeScript, JSON, StencilJS, Three.js, Angular/Ionic, HTML5, CSS3, npm, ts-node, semantic release
 
 ### Gaming skills
 
@@ -132,10 +132,10 @@ BSc with Merit in Computer Game Applications Development, 2:1
 - Pair programming with Live Share in VS Code
 - Building test applications in Angular/Ionic
 - Graphics programming with Three.js in Angular/Ionic and StencilJS
-- Building web components with StencilJS and Three.js
-- Development of internal tools
-- Package distribution via npm and semantic release
-- Technical documentation writing
+- Building web components in StencilJS with Three.js and quaternion math
+- Development of internal tools with TypeScript, JSON and Node.js file system
+- Package distribution via npm with semantic release
+- Technical documentation writing with Notion, Confluence.
 
 `Jan-Mar 2019`
 **Internship, C++ Software Engineer, [viastore](https://www.viastore.com/en)**, Prague, Czechia
