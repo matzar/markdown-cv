@@ -43,7 +43,7 @@ JavaScript, TypeScript, JSON, StencilJS, Three.js, Angular/Ionic, HTML5, CSS3, n
 
 ### Scripting skills
 
-bash, npm commander, git bash aliases and functions
+bash, git bash aliases and functions, npm commander, TypeScript with Node.js file system and JSON
 
 ### Gaming skills
 
