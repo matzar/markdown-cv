@@ -72,7 +72,7 @@ Statistical analysis for data science, representing and manipulating data using 
 ## Education 🎓
 
 `2019-2020`
-**[University of Stirling](https://www.stir.ac.uk/)**, Stirling, United Kingdom
+**[University of Stirling](https://www.stir.ac.uk/)**, [Stirling, United Kingdom](https://duckduckgo.com/?t=ffab&q=Stirling&atb=v220-1&ia=web&iaxm=maps&strict_bbox=0&bbox=56.76740571082104%2C-4.854477200000005%2C55.736907205793685%2C-3.797899199999975&metatoken=0)
 
 - GradCert in Mathematics and Data Science
   - Representing and Manipulating Data (Merit):
@@ -117,7 +117,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
 ## Funding Awarded 💷
 
 `Sep 2019-Mar 2020`
-**The Data Lab scholarship**, Stirling, United Kingdom
+**The Data Lab scholarship**, [Stirling, United Kingdom](https://duckduckgo.com/?t=ffab&q=Stirling&atb=v220-1&ia=web&iaxm=maps&strict_bbox=0&bbox=56.76740571082104%2C-4.854477200000005%2C55.736907205793685%2C-3.797899199999975&metatoken=0)
 
 - Fully funded place in Mathematics and Data Science
 - £6500 towards tuition fees
@@ -127,7 +127,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
 ## Relevant Experience 👨‍💻
 
 `May 2020-Present`
-**Programmer/Technical Content Producer, 🏢 [asensei](https://asensei.com/)**, 📍[Edinburgh, United Kingdom](https://duckduckgo.com/?q=Edinburgh&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=56.60267156887076%2C-3.0980411999999973%2C56.344904946670795%2C-2.832205899999977&metatoken=1) | [San Francisco, CA](https://duckduckgo.com/?q=San+Francisco%2C+CA&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=56.60267156887076%2C-3.0980411999999973%2C56.344904946670795%2C-2.832205899999977&metatoken=2) | Remote in [Wroclaw, Poland](https://duckduckgo.com/?q=wroc%C5%82aw+poland&t=ffab&atb=v220-1&ia=maps&iaxm=maps)
+**Programmer/Technical Content Producer, 🚀 [asensei](https://asensei.com/)**, 📍[Edinburgh, United Kingdom](https://duckduckgo.com/?q=Edinburgh&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=56.60267156887076%2C-3.0980411999999973%2C56.344904946670795%2C-2.832205899999977&metatoken=1) | [San Francisco, CA](https://duckduckgo.com/?q=San+Francisco%2C+CA&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=56.60267156887076%2C-3.0980411999999973%2C56.344904946670795%2C-2.832205899999977&metatoken=2) | Remote in [Wroclaw, Poland](https://duckduckgo.com/?q=wroc%C5%82aw+poland&t=ffab&atb=v220-1&ia=maps&iaxm=maps)
 
 - TDD with [Jest](https://jestjs.io/)/[Mocha](https://mochajs.org/)
 - CI/CD with [GitHub actions](https://github.com/features/actions), [Travis CI](https://www.travis-ci.com/); stages: [Jest](https://jestjs.io/)/[Mocha](https://mochajs.org/), [Codecov](https://about.codecov.io/), [dependabot](https://github.com/dependabot), [semantic-release](https://semantic-release.gitbook.io/semantic-release/) to [npm](https://www.npmjs.com/)
@@ -162,7 +162,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
   - Developing new solutions based on already existing ones
 
 `Sep 2017-Jun 2018`
-**Lead Programmer, Abertay University: Professional Project**, 📍[Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
+**Lead Programmer, 🎓 Abertay University: Professional Project**, 📍[Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
 
 - Projects worked on:
 - Mobile game for [Junkfish](https://www.teamjunkfish.com/) Game Company
