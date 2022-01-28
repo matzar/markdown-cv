@@ -7,7 +7,7 @@ date: 24th September, 2021 Wroclaw, Poland
 
 # Mateusz Zaremba 🙋‍♂️
 
-C++, Mathematics, TypeScript/JavaScript, Git with bash
+TypeScript/JavaScript, C++, Mathematics, git bash
 
 [![Website matzar.github.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://matzar.github.io/) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
