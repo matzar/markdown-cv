@@ -87,7 +87,7 @@ Statistical analysis for data science, representing and manipulating data using 
     [Barack Obama's Retweet Network](https://github.com/matzar/statistics-for-data-science/blob/master/Networks/pdf/Mateusz-Zaremba--MATPDM2--Markdown.pdf)
 
 `2015-2018`
-**[University of Abertay Dundee](https://www.abertay.ac.uk/)**, Dundee, United Kingdom
+**[University of Abertay Dundee](https://www.abertay.ac.uk/)**, [Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
 
 BSc with Merit in Computer Game Applications Development, 2:1
 
@@ -127,7 +127,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
 ## Relevant Experience
 
 `May 2020-Present`
-**Programmer/Technical Content Producer, [asensei](https://asensei.com/)**, Edinburgh, United Kingdom | Remote in Wroclaw, Poland
+**Programmer/Technical Content Producer, [asensei](https://asensei.com/)**, Edinburgh, United Kingdom | Remote in [Wroclaw, Poland](https://duckduckgo.com/?q=wroc%C5%82aw+poland&t=ffab&atb=v220-1&ia=maps&iaxm=maps)
 
 - TDD with [Jest](https://jestjs.io/)/[Mocha](https://mochajs.org/)
 - CI/CD with [GitHub actions](https://github.com/features/actions), [Travis CI](https://www.travis-ci.com/); stages: [Jest](https://jestjs.io/)/[Mocha](https://mochajs.org/), [Codecov](https://about.codecov.io/), [dependabot](https://github.com/dependabot), [semantic-release](https://semantic-release.gitbook.io/semantic-release/) to [npm](https://www.npmjs.com/)
@@ -143,7 +143,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
 - Onboarding and mentoring of new team members
 
 `Jan-Mar 2019`
-**Internship, C++ Software Engineer, [viastore](https://www.viastore.com/en)**, Prague, Czechia
+**Internship, C++ Software Engineer, [viastore](https://www.viastore.com/en)**, [Prague, Czechia](https://duckduckgo.com/?t=ffab&q=prague+czechia&atb=v220-1&ia=maps&iaxm=maps)
 
 - Learned about:
   - Relational and non-Relational Databases using SQL and C++
@@ -151,7 +151,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
   - Business use of rapid prototyping
 
 `Aug-Oct 2018`
-**Internship, Unreal Game Programmer, [Bohemia Interactive](https://www.bohemia.net/)**, Brno, Czechia
+**Internship, Unreal Game Programmer, [Bohemia Interactive](https://www.bohemia.net/)**, [Prague, Czechia](https://duckduckgo.com/?t=ffab&q=prague+czechia&atb=v220-1&ia=maps&iaxm=maps)
 
 - Project worked on: [Vigor](https://www.youtube.com/watch?v=tJS4gItz56s), post-apocalyptic survival game
 - Responsibilities:
@@ -162,7 +162,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
   - Developing new solutions based on already existing ones
 
 `Sep 2017-Jun 2018`
-**Lead Programmer, Abertay University: Professional Project**, Dundee, United Kingdom
+**Lead Programmer, Abertay University: Professional Project**, [Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
 
 - Projects worked on:
 - Mobile game for [Junkfish](https://www.teamjunkfish.com/) Game Company
@@ -207,7 +207,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
 ## Game Jams
 
 `Jan 24-26, 2018`
-**Gameplay Programmer/Design/Team Lead, Serious Game Jam**, Dundee, United Kingdom
+**Gameplay Programmer/Design/Team Lead, Serious Game Jam**, [Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
 
 - Mobile game prototype:
 - Aid for lectures and students from the University of St Andrews,
@@ -218,7 +218,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
 - [GitHub](https://github.com/matzar/Chemistry-Game-Jam)
 
 `Nov 8, 2017`
-**Gameplay Programmer/Design/Team Lead, AGDS 4-hour Game Jam**, Dundee, United Kingdom
+**Gameplay Programmer/Design/Team Lead, AGDS 4-hour Game Jam**, [Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
 
 - Brief visual novel with animations, telling a joke
 - Made in 4-hours with two artists
@@ -229,7 +229,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
 - <iframe frameborder="0" src="https://itch.io/embed/192517" width="552" height="167"><a href="https://matzar.itch.io/knock-knock">Knock Knock by matzar</a></iframe>
 
 `Aug 15-17, 2016`
-**Gameplay Programmer/Design/Team Lead, Rainbow Game Jam**, Dundee, United Kingdom
+**Gameplay Programmer/Design/Team Lead, Rainbow Game Jam**, [Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
 
 - Infinite runner chosen to be made in 48-hours with two other artists and a sound designer
 - Engine: Unity
@@ -239,7 +239,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
 - <iframe frameborder="0" src="https://itch.io/embed/83599" width="552" height="167"><a href="https://matzar.itch.io/rainbow-dash">Rainbow Dash by matzar</a></iframe>
 
 `Jan 29-31, 2016`
-**Gameplay Programmer, Global Game Jam 2016**, Dundee, United Kingdom
+**Gameplay Programmer, Global Game Jam 2016**, [Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
 
 - Easy pick-up game. My first Unity project and first game jam
 - Engine: Unity
@@ -249,7 +249,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
 ## Societies
 
 `Sep 2015-Jul 2018`
-**Member of Abertay Game Development Society**, Dundee, United Kingdom
+**Member of Abertay Game Development Society**, [Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
 
 - [2nd year project](https://github.com/GeorgeRankin/space-whales)
 - [1st year project](https://github.com/jctwood/EGD-RhythmGame)
@@ -257,12 +257,12 @@ BSc with Merit in Computer Game Applications Development, 2:1
 ## Volunteer Experience
 
 `Sep 2017-Aug 2018`
-**Built and managed St Andrew's RC Cathedral website**, Dundee, United Kingdom
+**Built and managed St Andrew's RC Cathedral website**, [Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
 
 - [http://www.standrewscathedraldundee.com/](http://www.standrewscathedraldundee.com/)
 
 `Sep 2015-Apr 2016`
-**1st Year Class Representative at Abertay University**, Dundee, United Kingdom
+**1st Year Class Representative at Abertay University**, [Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
 
 - Listening to student feedback and liaising with lectures
 - Attended training about leadership and teamwork
@@ -270,7 +270,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
 ## Other Experience
 
 `Oct-Dec 2015`
-**Warden, St. Ninian's Institute, Diocese of Dunkeld**, Dundee, United Kingdom
+**Warden, St. Ninian's Institute, Diocese of Dunkeld**, [Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
 
 - Taking care of the St Ninian's Institute and its guests
 - Welcoming at the reception and showing guests to their rooms
@@ -283,14 +283,14 @@ BSc with Merit in Computer Game Applications Development, 2:1
 - Waitering
 
 `May-Aug 2013`
-**Office Assistant, [University of Wroclaw](https://uni.wroc.pl/en/)**, Wroclaw, Poland
+**Office Assistant, [University of Wroclaw](https://uni.wroc.pl/en/)**, [Wroclaw, Poland](https://duckduckgo.com/?q=wroc%C5%82aw+poland&t=ffab&atb=v220-1&ia=maps&iaxm=maps)
 
 - Calling vendors to set up appointments and gather information
 - Post delivery
 - Clerk duties
 
 `Jan-Aug 2009`
-**Younger Lifeguard, [Wroclaw Water Park](https://aquapark.wroc.pl/en/)**, Wroclaw, Poland
+**Younger Lifeguard, [Wroclaw Water Park](https://aquapark.wroc.pl/en/)**, [Wroclaw, Poland](https://duckduckgo.com/?q=wroc%C5%82aw+poland&t=ffab&atb=v220-1&ia=maps&iaxm=maps)
 
 - Taking care of visitors safety and well being
 - Stamina and wellbeing training
