@@ -39,23 +39,23 @@ C++, Mathematics, TypeScript/JavaScript, Git with bash
 
 ### Web
 
-JavaScript, TypeScript, JSON, StencilJS, Three.js, Angular/Ionic, HTML5, CSS3, npm, ts-node, semantic release
+JavaScript, TypeScript, JSON, [StencilJS](https://stenciljs.com/), [Three.js](https://threejs.org/), [Angular](https://angular.io/)/[Ionic](https://ionicframework.com/), HTML5, CSS3, [npm](https://www.npmjs.com/), [ts-node](https://www.npmjs.com/package/ts-node), [semantic-release](https://semantic-release.gitbook.io/semantic-release/)
 
 ### Scripting
 
-bash, git bash aliases and functions, npm commander, TypeScript with Node.js file system and JSON
+bash, git bash aliases and functions, TypeScript with [Node.js file system](https://nodejs.org/api/fs.html) and JSON
 
 ### Gaming
 
-C#, Unity3D, UE4, Python, Ren'Py, Xbox One, PSVita, Box2D, Graphics programming (SFML, DirectX 11), Networking
+C#, Unity3D, UE4, Python, [Ren'Py](https://www.renpy.org/), Xbox One, PSVita, Box2D, Graphics programming (SFML, DirectX 11), Networking
 
 ### Data
 
-Python, R, ggplot2, Gephi, SQL, Statistics, LaTeX
+Python, R, [ggplot2](https://ggplot2.tidyverse.org/), [Gephi](https://gephi.org/), SQL, Statistics, LaTeX
 
 ### Testing
 
-Jest, Mocha, Travis CI
+[Jest](https://jestjs.io/), [Mocha](https://mochajs.org/), [Travis CI](https://www.travis-ci.com/)
 
 ### Tools
 
@@ -63,7 +63,7 @@ VS Code, MS Visual Studio, UNIX terminal, XCode
 
 ### Teamwork
 
-Notion, Jira, Confluence, Slack, MS Teams, Pair programming with Live Share using VS Code
+[Notion](https://www.notion.so/), Jira, Confluence, Slack, MS Teams, Pair programming with Live Share using VS Code
 
 <!-- ### Research interests
 
@@ -129,17 +129,18 @@ BSc with Merit in Computer Game Applications Development, 2:1
 `May 2020-Present`
 **Programmer/Technical Content Producer, [asensei](https://asensei.com/)**, Edinburgh, United Kingdom | Remote in Wroclaw, Poland
 
-- Building ai modules for asensei.ai smart apparel
-- Development of connected coaching programmes for asensei app
-- Mentoring and co-operation with interns
-- Test Driven Development using Jest and Travis CI
+- TDD with [Jest](https://jestjs.io/)/[Mocha](https://mochajs.org/)
+- CI/CD with [GitHub actions](https://github.com/features/actions), [Travis CI](https://www.travis-ci.com/); stages: [Jest](https://jestjs.io/)/[Mocha](https://mochajs.org/), [Codecov](https://about.codecov.io/), [dependabot](https://github.com/dependabot), [semantic-release](https://semantic-release.gitbook.io/semantic-release/) to [npm](https://www.npmjs.com/)
+- Building applications in [Angular](https://angular.io/)/[Ionic](https://ionicframework.com/)
+- Graphics programming with [Three.js](https://threejs.org/) in [Angular](https://angular.io/)/[Ionic](https://ionicframework.com/) and [StencilJS](https://stenciljs.com/)
+- Building web components in [StencilJS](https://stenciljs.com/) with [Three.js](https://threejs.org/) and quaternion math
+- Development of internal tools with TypeScript, JSON and [Node.js file system](https://nodejs.org/api/fs.html)
+- Package distribution via [npm](https://www.npmjs.com/) with [semantic-release](https://semantic-release.gitbook.io/semantic-release/) using [Travis CI](https://www.travis-ci.com/)
+- Building internal VS Code extensions to provide snippets and highlighting for the internal tools; high-tunning in settings.json
+- bash/zsh functions/aliases to improve workflow (processing of multiple files, encapsulation and input simplification of commonly used commands)
+- Technical/implementation documentation writing with [Notion](https://www.notion.so/), Confluence
 - Pair programming with Live Share in VS Code
-- Building test applications in Angular/Ionic
-- Graphics programming with Three.js in Angular/Ionic and StencilJS
-- Building web components in StencilJS with Three.js and quaternion math
-- Development of internal tools with TypeScript, JSON and Node.js file system
-- Package distribution via npm with semantic release
-- Technical documentation writing with Notion, Confluence.
+- Onboarding and mentoring of new team members
 
 `Jan-Mar 2019`
 **Internship, C++ Software Engineer, [viastore](https://www.viastore.com/en)**, Prague, Czechia
