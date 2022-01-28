@@ -5,7 +5,7 @@ author: Mateusz Zaremba
 date: 24th September, 2021 Wroclaw, Poland
 ---
 
-# Mateusz Zaremba
+# Mateusz Zaremba 🙋‍♂️
 
 C++, Mathematics, TypeScript/JavaScript, Git with bash
 
@@ -25,7 +25,7 @@ C++, Mathematics, TypeScript/JavaScript, Git with bash
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matzar&theme=prussian&hide_border=true&background=FFFFFF)](https://git.io/streak-stats) -->
 
-## Currently
+## Currently 📆
 
 <p>
 Coming from a games background, now working at a Silicon Valley starup; as a software engineer I have developed a content building tool which has already saved 6 to 8 months in developemnt.
@@ -33,35 +33,35 @@ My day to day tasks range from graphics programming, scripting, tools developmen
 </p>
 <br>
 
-### Specialized in
+### Specialized in 👨‍🎓
 
 C++, Mathematics, TypeScript/JavaScript, Git with bash
 
-### Web
+### Web 🌐
 
 JavaScript, TypeScript, JSON, [StencilJS](https://stenciljs.com/), [Three.js](https://threejs.org/), [Angular](https://angular.io/)/[Ionic](https://ionicframework.com/), HTML5, CSS3, [npm](https://www.npmjs.com/), [ts-node](https://www.npmjs.com/package/ts-node), [semantic-release](https://semantic-release.gitbook.io/semantic-release/)
 
-### Scripting
+### Scripting 📜
 
 bash, git bash aliases and functions, TypeScript with [Node.js file system](https://nodejs.org/api/fs.html) and JSON
 
-### Gaming
+### Gaming 🎮
 
 C#, Unity3D, UE4, Python, [Ren'Py](https://www.renpy.org/), Xbox One, PSVita, Box2D, Graphics programming (SFML, DirectX 11), Networking
 
-### Data
+### Data 📊
 
 Python, R, [ggplot2](https://ggplot2.tidyverse.org/), [Gephi](https://gephi.org/), SQL, Statistics, LaTeX
 
-### Testing
+### Testing 🧪
 
 [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/), [Travis CI](https://www.travis-ci.com/)
 
-### Tools
+### Tools 🔧
 
 VS Code, MS Visual Studio, UNIX terminal, XCode
 
-### Teamwork
+### Teamwork 🤝
 
 [Notion](https://www.notion.so/), Jira, Confluence, Slack, MS Teams, Pair programming with Live Share using VS Code
 
@@ -69,7 +69,7 @@ VS Code, MS Visual Studio, UNIX terminal, XCode
 
 Statistical analysis for data science, representing and manipulating data using R and Python programming -->
 
-## Education
+## Education 🎓
 
 `2019-2020`
 **[University of Stirling](https://www.stir.ac.uk/)**, Stirling, United Kingdom
@@ -87,7 +87,7 @@ Statistical analysis for data science, representing and manipulating data using 
     [Barack Obama's Retweet Network](https://github.com/matzar/statistics-for-data-science/blob/master/Networks/pdf/Mateusz-Zaremba--MATPDM2--Markdown.pdf)
 
 `2015-2018`
-**[University of Abertay Dundee](https://www.abertay.ac.uk/)**, [Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
+**[University of Abertay Dundee](https://www.abertay.ac.uk/)**, 📍[Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
 
 BSc with Merit in Computer Game Applications Development, 2:1
 
@@ -114,7 +114,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
   - Asset Production for Games (B+):
     - <iframe frameborder="0" src="https://itch.io/embed/121052" width="552" height="167"><a href="https://matzar.itch.io/dragon-maze">Dragon Maze by matzar</a></iframe>
 
-## Funding Awarded
+## Funding Awarded 💷
 
 `Sep 2019-Mar 2020`
 **The Data Lab scholarship**, Stirling, United Kingdom
@@ -124,10 +124,10 @@ BSc with Merit in Computer Game Applications Development, 2:1
 - Professional training with Data Scientists
 - Data Lab events
 
-## Relevant Experience
+## Relevant Experience 👨‍💻
 
 `May 2020-Present`
-**Programmer/Technical Content Producer, [asensei](https://asensei.com/)**, Edinburgh, United Kingdom | Remote in [Wroclaw, Poland](https://duckduckgo.com/?q=wroc%C5%82aw+poland&t=ffab&atb=v220-1&ia=maps&iaxm=maps)
+**Programmer/Technical Content Producer, 🏢 [asensei](https://asensei.com/)**, 📍[Edinburgh, United Kingdom](https://duckduckgo.com/?q=Edinburgh&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=56.60267156887076%2C-3.0980411999999973%2C56.344904946670795%2C-2.832205899999977&metatoken=1) | [San Francisco, CA](https://duckduckgo.com/?q=San+Francisco%2C+CA&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=56.60267156887076%2C-3.0980411999999973%2C56.344904946670795%2C-2.832205899999977&metatoken=2) | Remote in [Wroclaw, Poland](https://duckduckgo.com/?q=wroc%C5%82aw+poland&t=ffab&atb=v220-1&ia=maps&iaxm=maps)
 
 - TDD with [Jest](https://jestjs.io/)/[Mocha](https://mochajs.org/)
 - CI/CD with [GitHub actions](https://github.com/features/actions), [Travis CI](https://www.travis-ci.com/); stages: [Jest](https://jestjs.io/)/[Mocha](https://mochajs.org/), [Codecov](https://about.codecov.io/), [dependabot](https://github.com/dependabot), [semantic-release](https://semantic-release.gitbook.io/semantic-release/) to [npm](https://www.npmjs.com/)
@@ -143,7 +143,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
 - Onboarding and mentoring of new team members
 
 `Jan-Mar 2019`
-**Internship, C++ Software Engineer, [viastore](https://www.viastore.com/en)**, [Prague, Czechia](https://duckduckgo.com/?t=ffab&q=prague+czechia&atb=v220-1&ia=maps&iaxm=maps)
+**Internship, C++ Software Engineer, 🏢 [viastore](https://www.viastore.com/en)**, 📍[Prague, Czechia](https://duckduckgo.com/?t=ffab&q=prague+czechia&atb=v220-1&ia=maps&iaxm=maps)
 
 - Learned about:
   - Relational and non-Relational Databases using SQL and C++
@@ -151,7 +151,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
   - Business use of rapid prototyping
 
 `Aug-Oct 2018`
-**Internship, Unreal Game Programmer, [Bohemia Interactive](https://www.bohemia.net/)**, [Prague, Czechia](https://duckduckgo.com/?t=ffab&q=prague+czechia&atb=v220-1&ia=maps&iaxm=maps)
+**Internship, Unreal Game Programmer, 🏢 [Bohemia Interactive](https://www.bohemia.net/)**, 📍[Prague, Czechia](https://duckduckgo.com/?t=ffab&q=prague+czechia&atb=v220-1&ia=maps&iaxm=maps)
 
 - Project worked on: [Vigor](https://www.youtube.com/watch?v=tJS4gItz56s), post-apocalyptic survival game
 - Responsibilities:
@@ -162,7 +162,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
   - Developing new solutions based on already existing ones
 
 `Sep 2017-Jun 2018`
-**Lead Programmer, Abertay University: Professional Project**, [Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
+**Lead Programmer, Abertay University: Professional Project**, 📍[Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
 
 - Projects worked on:
 - Mobile game for [Junkfish](https://www.teamjunkfish.com/) Game Company
@@ -179,7 +179,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
   - Kanban boards with GitHub Projects
   - SCRUM (Deadlines setting, task assignment, mentoring)
 
-## Open Source
+## Open Source ✅
 
 - [![Build Status](https://travis-ci.com/matzar/time-to-seconds.svg?branch=master)](https://travis-ci.com/github/matzar/time-to-seconds) [![NPM Version](https://img.shields.io/npm/v/time-to-seconds)](https://www.npmjs.com/package/time-to-seconds) [![NPM Downloads](https://img.shields.io/npm/dt/time-to-seconds)](https://www.npmjs.com/package/time-to-seconds?minimal=true) [![NPM Downloads](https://img.shields.io/npm/dw/time-to-seconds)](https://www.npmjs.com/package/time-to-seconds?minimal=true) [![install size](https://packagephobia.com/badge?p=time-to-seconds)](https://packagephobia.com/result?p=time-to-seconds)
 - [Non-strict format, time to seconds converter distibuted via npm](https://www.npmjs.com/package/time-to-seconds)
@@ -197,17 +197,17 @@ BSc with Merit in Computer Game Applications Development, 2:1
   - [[Unity] Adding VS Code and flexibility #2850](https://github.com/github/gitignore/pull/2850)
   - [Include Library/\*.asset files for Unity3D #3068](https://github.com/github/gitignore/pull/3068)
 
-## Social
+## Social 🌐
 
 - Answering math questions on Quora:
   - [What does "as a function on time" mean?](https://www.quora.com/What-does-%E2%80%9Cas-a-function-of-time%E2%80%9D-mean)
   - [What is f(x)?](https://www.quora.com/What-is-f-x)
   - [What does f(x) = x mean?](https://www.quora.com/What-does-f-x-x-mean-1)
 
-## Game Jams
+## Game Jams 👾
 
 `Jan 24-26, 2018`
-**Gameplay Programmer/Design/Team Lead, Serious Game Jam**, [Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
+**Gameplay Programmer/Design/Team Lead, Serious Game Jam**, 📍[Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
 
 - Mobile game prototype:
 - Aid for lectures and students from the University of St Andrews,
@@ -218,7 +218,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
 - [GitHub](https://github.com/matzar/Chemistry-Game-Jam)
 
 `Nov 8, 2017`
-**Gameplay Programmer/Design/Team Lead, AGDS 4-hour Game Jam**, [Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
+**Gameplay Programmer/Design/Team Lead, AGDS 4-hour Game Jam**, 📍[Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
 
 - Brief visual novel with animations, telling a joke
 - Made in 4-hours with two artists
@@ -229,7 +229,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
 - <iframe frameborder="0" src="https://itch.io/embed/192517" width="552" height="167"><a href="https://matzar.itch.io/knock-knock">Knock Knock by matzar</a></iframe>
 
 `Aug 15-17, 2016`
-**Gameplay Programmer/Design/Team Lead, Rainbow Game Jam**, [Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
+**Gameplay Programmer/Design/Team Lead, Rainbow Game Jam**, 📍[Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
 
 - Infinite runner chosen to be made in 48-hours with two other artists and a sound designer
 - Engine: Unity
@@ -239,58 +239,58 @@ BSc with Merit in Computer Game Applications Development, 2:1
 - <iframe frameborder="0" src="https://itch.io/embed/83599" width="552" height="167"><a href="https://matzar.itch.io/rainbow-dash">Rainbow Dash by matzar</a></iframe>
 
 `Jan 29-31, 2016`
-**Gameplay Programmer, Global Game Jam 2016**, [Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
+**Gameplay Programmer, Global Game Jam 2016**, 📍[Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
 
 - Easy pick-up game. My first Unity project and first game jam
 - Engine: Unity
 - Programming language: C#
 - Platforms: Windows, MAC, Linux
 
-## Societies
+## Societies 👥
 
 `Sep 2015-Jul 2018`
-**Member of Abertay Game Development Society**, [Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
+**Member of Abertay Game Development Society**, 📍[Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
 
 - [2nd year project](https://github.com/GeorgeRankin/space-whales)
 - [1st year project](https://github.com/jctwood/EGD-RhythmGame)
 
-## Volunteer Experience
+## Volunteer Experience ✋
 
 `Sep 2017-Aug 2018`
-**Built and managed St Andrew's RC Cathedral website**, [Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
+**Built and managed St Andrew's RC Cathedral website**, 📍[Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
 
 - [http://www.standrewscathedraldundee.com/](http://www.standrewscathedraldundee.com/)
 
 `Sep 2015-Apr 2016`
-**1st Year Class Representative at Abertay University**, [Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
+**1st Year Class Representative at Abertay University**, 📍[Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
 
 - Listening to student feedback and liaising with lectures
 - Attended training about leadership and teamwork
 
-## Other Experience
+## Other Experience 🃏
 
 `Oct-Dec 2015`
-**Warden, St. Ninian's Institute, Diocese of Dunkeld**, [Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
+**Warden, ♱ St. Ninian's Institute, Diocese of Dunkeld**, 📍[Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
 
 - Taking care of the St Ninian's Institute and its guests
 - Welcoming at the reception and showing guests to their rooms
 
 `Apr-Aug 2015`
-**Waiter/Bartender, [Drumoig Golf Hotel](https://www.tripadvisor.com/Hotel_Review-g2423042-d568415-Reviews-Drumoig_Golf_Hotel-Drumoig_St_Andrews_Fife_Scotland.html)**, Drumoig, United Kingdom
+**Waiter/Bartender, ⛳️ [Drumoig Golf Hotel](https://www.tripadvisor.com/Hotel_Review-g2423042-d568415-Reviews-Drumoig_Golf_Hotel-Drumoig_St_Andrews_Fife_Scotland.html)**, 📍[Drumoig, United Kingdom](https://duckduckgo.com/?t=ffab&q=Drumoig+Golf+Hotel&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=50.520360862075705%2C14.047522459960902%2C49.62129494252906%2C14.845404540039027&metatoken=0)
 
 - Welcoming people at the reception
 - Bartending
 - Waitering
 
 `May-Aug 2013`
-**Office Assistant, [University of Wroclaw](https://uni.wroc.pl/en/)**, [Wroclaw, Poland](https://duckduckgo.com/?q=wroc%C5%82aw+poland&t=ffab&atb=v220-1&ia=maps&iaxm=maps)
+**Office Assistant, 🎓 [University of Wroclaw](https://uni.wroc.pl/en/)**, 📍[Wroclaw, Poland](https://duckduckgo.com/?q=wroc%C5%82aw+poland&t=ffab&atb=v220-1&ia=maps&iaxm=maps)
 
 - Calling vendors to set up appointments and gather information
 - Post delivery
 - Clerk duties
 
 `Jan-Aug 2009`
-**Younger Lifeguard, [Wroclaw Water Park](https://aquapark.wroc.pl/en/)**, [Wroclaw, Poland](https://duckduckgo.com/?q=wroc%C5%82aw+poland&t=ffab&atb=v220-1&ia=maps&iaxm=maps)
+**Junior Lifeguard, 🏖 [Wroclaw Water Park](https://aquapark.wroc.pl/en/)**, 📍[Wroclaw, Poland](https://duckduckgo.com/?q=wroc%C5%82aw+poland&t=ffab&atb=v220-1&ia=maps&iaxm=maps)
 
 - Taking care of visitors safety and well being
 - Stamina and wellbeing training
