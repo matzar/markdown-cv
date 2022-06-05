@@ -61,7 +61,7 @@ VS Code, MS Visual Studio, UNIX terminal, XCode
 
 ### Teamwork 🤝
 
-[Notion](https://www.notion.so/), Jira, Confluence, Slack, MS Teams, Pair programming with Live Share using VS Code
+[Notion](https://www.notion.so/), [Jira](https://www.atlassian.com/software/jira), [Confluence](https://www.atlassian.com/software/confluence), [Slack](https://slack.com/intl/en-gb/), [MS Teams](https://www.microsoft.com/en-gb/microsoft-teams/log-in), [Pair programming with Live Share using VS Code](https://code.visualstudio.com/learn/collaboration/live-share)
 
 <!-- ### Research interests
 
