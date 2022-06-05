@@ -39,7 +39,7 @@ Angular, Stencil, TypeScript/JavaScript, Mathematics, C++, git bash
 
 ### Web 🌐
 
-[Angular](https://angular.io/), [Ionic](https://ionicframework.com/), [StencilJS](https://stenciljs.com/), [Three.js](https://threejs.org/), HTML5, CSS3, JavaScript, TypeScript, JSON, [npm](https://www.npmjs.com/), [ts-node](https://www.npmjs.com/package/ts-node), [semantic-release](https://semantic-release.gitbook.io/semantic-release/), [SQL](https://www.dataquest.io/blog/sql-commands/), [MongoDB](https://www.mongodb.com)
+[Angular](https://angular.io/), [Ionic](https://ionicframework.com/), [StencilJS](https://stenciljs.com/), [Three.js](https://threejs.org/), HTML5, CSS3, JavaScript, TypeScript, JSON, [npm](https://www.npmjs.com/), [ts-node](https://www.npmjs.com/package/ts-node), [semantic-release](https://semantic-release.gitbook.io/semantic-release/), [SQL](https://www.dataquest.io/blog/sql-commands/), [MongoDB](https://www.mongodb.com), [docker images](https://docs.docker.com/engine/reference/commandline/images/); secure building of docker images with private npm packages.
 
 ### Scripting 📜
 
