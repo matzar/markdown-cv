@@ -47,7 +47,7 @@ Angular, Stencil, TypeScript/JavaScript, Mathematics, C++, git bash
 
 ### Gaming 🎮
 
-C#, Unity3D, UE4, Python, [Ren'Py](https://www.renpy.org/), Xbox One, PSVita, Box2D, Graphics programming (SFML, DirectX 11), Networking
+C#, [Unity3D](https://unity.com), [UE4](https://www.unrealengine.com/en-US), [Python 3](https://www.python.org), [Ren'Py](https://www.renpy.org/), Xbox One, PSVita, [Box2D](https://box2d.org), Graphics programming ([SFML](https://www.sfml-dev.org), DirectX 11), Networking with [SFML](https://www.sfml-dev.org)
 
 ### Data 📊
 
