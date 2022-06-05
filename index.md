@@ -27,10 +27,8 @@ Angular, Stencil, TypeScript/JavaScript, Mathematics, C++, git bash
 
 ## Currently 📆
 
-<p>
 Working at a Silicon Valley starup as a software engineer I develop tools in [Angular 13](https://angular.io) and web components in [StencilJS](https://stenciljs.com/) using [TypeScript](https://www.typescriptlang.org), graphics programming with [threejs](https://threejs.org); take care of CI/CD pipeline; I mentor interns and new employees and lead tool development. One of my proudest achievements is a content building tool which has saved 6 to 8 months in developemnt and continiues to save effort and time. 
 I also PR to [ionic-framework](https://github.com/ionic-team/ionic-framework/pull/24767), [stencil](https://github.com/ionic-team/stencil/pull/3139) and [npm](https://github.com/npm/documentation/pull/103). 
-</p>
 <br>
 
 ### Specialized in 👨‍🎓
@@ -55,7 +53,7 @@ Data visualization with ggplot 2 and R ((Project)(https://github.com/matzar/R/bl
 
 ### Testing 🧪
 
-[Unit testing in Angular with Jasmine and Karma](https://medium.com/swlh/angular-unit-testing-jasmine-karma-step-by-step-e3376d110ab4), e2e/BDD testing in Angular with [Playwright](https://github.com/microsoft/playwright) and Docker, [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/), [Travis CI](https://www.travis-ci.com/)
+[Unit testing in Angular with Jasmine and Karma](https://medium.com/swlh/angular-unit-testing-jasmine-karma-step-by-step-e3376d110ab4), e2e/BDD testing in Angular with [Playwright](https://github.com/microsoft/playwright) and [Docker](https://www.docker.com), [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/), [Travis CI](https://www.travis-ci.com/), running tests on CI (Travis/GitHub Actions) with Jasmine/Karma and Playwright
 
 ### Tools 🔧
 
