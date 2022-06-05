@@ -114,7 +114,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
 
 ## Funding Awarded 💷
 
-`Sep 2019-Mar 2020`
+`2019-2020`
 **The Data Lab scholarship**, [Stirling, United Kingdom](https://duckduckgo.com/?t=ffab&q=Stirling&atb=v220-1&ia=web&iaxm=maps&strict_bbox=0&bbox=56.76740571082104%2C-4.854477200000005%2C55.736907205793685%2C-3.797899199999975&metatoken=0)
 
 - Fully funded place in Mathematics and Data Science
