@@ -2,12 +2,12 @@
 layout: cv
 title: Mateusz Zaremba's CV
 author: Mateusz Zaremba
-date: 24th September, 2021 Wroclaw, Poland
+date: 5th June, 2022 Dundee, United Kingdom
 ---
 
 # Mateusz Zaremba 🙋‍♂️
 
-TypeScript/JavaScript, C++, Mathematics, git bash
+Angular, Stencil, TypeScript/JavaScript, Mathematics, C++, git bash
 
 [![Website matzar.github.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://matzar.github.io/) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
