@@ -43,7 +43,7 @@ Angular, Stencil, TypeScript/JavaScript, Mathematics, C++, git bash
 
 ### Scripting 📜
 
-bash script to execute a command on all the files in the folder/put the new files into their own folder, git bash aliases and functions in `.bash_profile` and `.zshrc` ([full list of my git bash aliases and functions I use everyday](https://gist.github.com/matzar/6f3f4f9689bed278ca9e576ab181596f)), scripting with TypeScript and JSON using [Node.js file system](https://nodejs.org/api/fs.html)
+ git bash aliases and functions in `.bash_profile` and `.zshrc` ([full list of my git bash aliases and functions I use everyday](https://gist.github.com/matzar/6f3f4f9689bed278ca9e576ab181596f)), bash script to execute a command on all the files in the folder/put the new files into their own folder, scripting with TypeScript and JSON using [Node.js file system](https://nodejs.org/api/fs.html)
 
 ### Gaming 🎮
 
