@@ -51,7 +51,7 @@ C#, [Unity3D](https://unity.com), [UE4](https://www.unrealengine.com/en-US), [Py
 
 ### Data 📊
 
-Data visualization with [ggplot 2 and R](https://r-graph-gallery.com/ggplot2-package.html), [pandas and NumPy](https://github.com/matzar/Python/blob/master/Assignment/Assignment.py), [Gephi](https://gephi.org/), SQL, Statistics, [LaTeX](https://www.latex-project.org)
+Data visualization with ggplot 2 and R ((Project)(https://github.com/matzar/R/blob/master/Statistics/submission/DataManipulation.R)), pandas and NumPy ((Project)(https://github.com/matzar/Python/blob/master/Assignment/Assignment.py)), [Gephi](https://gephi.org/), SQL, Statistics, [LaTeX](https://www.latex-project.org)
 
 ### Testing 🧪
 
