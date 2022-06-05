@@ -125,7 +125,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
 ## Relevant Experience 👨‍💻
 
 `May 2020-Present`
-**Programmer/Technical Content Producer, 🚀 [asensei](https://asensei.com/)**, 📍[Edinburgh, United Kingdom](https://duckduckgo.com/?q=Edinburgh&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=56.60267156887076%2C-3.0980411999999973%2C56.344904946670795%2C-2.832205899999977&metatoken=1) | [San Francisco, CA](https://duckduckgo.com/?q=San+Francisco%2C+CA&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=56.60267156887076%2C-3.0980411999999973%2C56.344904946670795%2C-2.832205899999977&metatoken=2) | Remote in [Wroclaw, Poland](https://duckduckgo.com/?q=wroc%C5%82aw+poland&t=ffab&atb=v220-1&ia=maps&iaxm=maps)
+**Software Engineer, 🚀 [asensei](https://asensei.com/)**, 📍[Edinburgh, United Kingdom](https://duckduckgo.com/?q=Edinburgh&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=56.60267156887076%2C-3.0980411999999973%2C56.344904946670795%2C-2.832205899999977&metatoken=1) | [San Francisco, CA](https://duckduckgo.com/?q=San+Francisco%2C+CA&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=56.60267156887076%2C-3.0980411999999973%2C56.344904946670795%2C-2.832205899999977&metatoken=2) | Remote in [Wroclaw, Poland](https://duckduckgo.com/?q=wroc%C5%82aw+poland&t=ffab&atb=v220-1&ia=maps&iaxm=maps)
 
 - TDD with [Jest](https://jestjs.io/)/[Mocha](https://mochajs.org/)
 - CI/CD with [GitHub actions](https://github.com/features/actions), [Travis CI](https://www.travis-ci.com/); stages: [Jest](https://jestjs.io/)/[Mocha](https://mochajs.org/), [Codecov](https://about.codecov.io/), [dependabot](https://github.com/dependabot), [semantic-release](https://semantic-release.gitbook.io/semantic-release/) to [npm](https://www.npmjs.com/)
