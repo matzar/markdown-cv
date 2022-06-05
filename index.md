@@ -55,7 +55,7 @@ Data visualization with ggplot 2 and R ((Project)(https://github.com/matzar/R/bl
 
 ### Testing 🧪
 
-[Jest](https://jestjs.io/), [Mocha](https://mochajs.org/), [Travis CI](https://www.travis-ci.com/)
+[Unit testing in Angular with Jasmine and Karma](https://medium.com/swlh/angular-unit-testing-jasmine-karma-step-by-step-e3376d110ab4), e2e/BDD testing in Angular with [Playwright](https://github.com/microsoft/playwright) and Docker, [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/), [Travis CI](https://www.travis-ci.com/)
 
 ### Tools 🔧
 
