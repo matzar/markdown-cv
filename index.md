@@ -27,7 +27,9 @@ Angular, Stencil, TypeScript/JavaScript, Mathematics, C++, git bash
 
 ## Currently 📆
 
-Working at a Silicon Valley starup as a software engineer I develop tools in [Angular 13](https://angular.io) and web components in [StencilJS](https://stenciljs.com/) using [TypeScript](https://www.typescriptlang.org), graphics programming with [threejs](https://threejs.org); take care of CI/CD pipeline; I mentor interns and new employees and lead tool development. One of my proudest achievements is a content building tool which has saved 6 to 8 months in developemnt and continiues to save effort and time. 
+Working at a Silicon Valley starup as a software engineer I develop tools in [Angular 13](https://angular.io) and web components in [StencilJS](https://stenciljs.com/) using [TypeScript](https://www.typescriptlang.org) and graphics programming with [threejs](https://threejs.org). I take care of CI/CD pipeline, mentor interns and new employees and lead the tool development team. I 
+have created a content building tool which has saved 8 to 10 months in developemnt to date. 
+
 I also PR to [ionic-framework](https://github.com/ionic-team/ionic-framework/pull/24767), [stencil](https://github.com/ionic-team/stencil/pull/3139) and [npm](https://github.com/npm/documentation/pull/103). 
 <br>
 
