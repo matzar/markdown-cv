@@ -41,7 +41,7 @@ Angular, Stencil, TypeScript/JavaScript, Mathematics, C++, git bash
 
 ### Scripting 📜
 
- git bash aliases and functions in `.bash_profile` and `.zshrc` ([full list of my git bash aliases and functions I use everyday](https://gist.github.com/matzar/6f3f4f9689bed278ca9e576ab181596f)), bash script to execute a command on all the files in the folder/put the new files into their own folder, scripting with TypeScript and JSON using [Node.js file system](https://nodejs.org/api/fs.html)
+ git bash/zsh aliases and functions ([full list I use everyday](https://gist.github.com/matzar/6f3f4f9689bed278ca9e576ab181596f)), bash script to execute a command on all the files in the folder/put the new files into their own folder, scripting with TypeScript and JSON using [Node.js file system](https://nodejs.org/api/fs.html)
 
 ### Gaming 🎮
 
@@ -49,7 +49,7 @@ C#, [Unity3D](https://unity.com), [UE4](https://www.unrealengine.com/en-US), [Py
 
 ### Data 📊
 
-Data visualization with ggplot 2 and R ((Project)(https://github.com/matzar/R/blob/master/Statistics/submission/DataManipulation.R)), pandas and NumPy ((Project)(https://github.com/matzar/Python/blob/master/Assignment/Assignment.py)), [Gephi](https://gephi.org/), SQL, Statistics, [LaTeX](https://www.latex-project.org)
+Data visualization with ggplot 2 and R ([Project](https://github.com/matzar/R/blob/master/Statistics/submission/DataManipulation.R)), pandas and NumPy ([Project](https://github.com/matzar/Python/blob/master/Assignment/Assignment.py)), [Gephi](https://gephi.org/), SQL, Statistics, [LaTeX](https://www.latex-project.org)
 
 ### Testing 🧪
 
