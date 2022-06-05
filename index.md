@@ -14,7 +14,7 @@ Angular, Stencil, TypeScript/JavaScript, Mathematics, C++, git bash
 <div id="webaddress">
 <a href="mailto:mat.zar@icloud.com">mat.zar@icloud.com</a>
 | <a href="https://matzar.github.io/">https://matzar.github.io/</a>
-| Update: Wroclaw, Poland, 24th September 2021
+| Update: Dundee, United Kingdom, 5th June 2022
 </div>
 
 <br>
@@ -28,8 +28,8 @@ Angular, Stencil, TypeScript/JavaScript, Mathematics, C++, git bash
 ## Currently 📆
 
 <p>
-Coming from a games background, now working at a Silicon Valley starup; as a software engineer I have developed a content building tool which has already saved 6 to 8 months in developemnt.
-My day to day tasks range from graphics programming, scripting, tools development to content production and team managment. Currently I am developing tools using StencilJS and TypeScript and doing open source tools development in free time. 
+Working at a Silicon Valley starup as a software engineer I develop tools in [Angular 13](https://angular.io) and web components in [StencilJS](https://stenciljs.com/) using [TypeScript](https://www.typescriptlang.org), graphics programming with [threejs](https://threejs.org); take care of CI/CD pipeline; I mentor interns and new employees and lead tool development. One of my proudest achievements is a content building tool which has saved 6 to 8 months in developemnt and continiues to save effort and time. 
+I also PR to [ionic-framework](https://github.com/ionic-team/ionic-framework/pull/24767), [stencil](https://github.com/ionic-team/stencil/pull/3139) and [npm](https://github.com/npm/documentation/pull/103). 
 </p>
 <br>
 
