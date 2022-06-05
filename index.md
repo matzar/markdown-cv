@@ -35,15 +35,15 @@ I also PR to [ionic-framework](https://github.com/ionic-team/ionic-framework/pul
 
 ### Specialized in 👨‍🎓
 
-C++, Mathematics, TypeScript/JavaScript, Git with bash
+Angular, Stencil, TypeScript/JavaScript, Mathematics, C++, git bash
 
 ### Web 🌐
 
-JavaScript, TypeScript, JSON, [StencilJS](https://stenciljs.com/), [Three.js](https://threejs.org/), [Angular](https://angular.io/)/[Ionic](https://ionicframework.com/), HTML5, CSS3, [npm](https://www.npmjs.com/), [ts-node](https://www.npmjs.com/package/ts-node), [semantic-release](https://semantic-release.gitbook.io/semantic-release/)
+[Angular](https://angular.io/), [Ionic](https://ionicframework.com/), [StencilJS](https://stenciljs.com/), [Three.js](https://threejs.org/), HTML5, CSS3, JavaScript, TypeScript, JSON, [npm](https://www.npmjs.com/), [ts-node](https://www.npmjs.com/package/ts-node), [semantic-release](https://semantic-release.gitbook.io/semantic-release/), [SQL](https://www.dataquest.io/blog/sql-commands/), [MongoDB](https://www.mongodb.com)
 
 ### Scripting 📜
 
-bash, git bash aliases and functions, TypeScript with [Node.js file system](https://nodejs.org/api/fs.html) and JSON
+bash script to execute a command on all the files in the folder/put the new files into their own folder, git bash aliases and functions in `.bash_profile` and `.zshrc` ([full list of my git bash aliases and functions I use everyday](https://gist.github.com/matzar/6f3f4f9689bed278ca9e576ab181596f)), scripting with TypeScript and JSON using [Node.js file system](https://nodejs.org/api/fs.html)
 
 ### Gaming 🎮
 
