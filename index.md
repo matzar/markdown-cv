@@ -72,7 +72,7 @@ Statistical analysis for data science, representing and manipulating data using 
 ## Education 🎓
 
 `2019-2020`
-**[University of Stirling](https://www.stir.ac.uk/)**, [Stirling, United Kingdom](https://duckduckgo.com/?t=ffab&q=Stirling&atb=v220-1&ia=web&iaxm=maps&strict_bbox=0&bbox=56.76740571082104%2C-4.854477200000005%2C55.736907205793685%2C-3.797899199999975&metatoken=0)
+**[University of Stirling](https://www.stir.ac.uk/)**, 📍[Stirling, United Kingdom](https://duckduckgo.com/?t=ffab&q=Stirling&atb=v220-1&ia=web&iaxm=maps&strict_bbox=0&bbox=56.76740571082104%2C-4.854477200000005%2C55.736907205793685%2C-3.797899199999975&metatoken=0)
 
 - GradCert in Mathematics and Data Science
   - Representing and Manipulating Data (Merit):
@@ -117,7 +117,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
 ## Funding Awarded 💷
 
 `2019-2020`
-**The Data Lab scholarship**, [Stirling, United Kingdom](https://duckduckgo.com/?t=ffab&q=Stirling&atb=v220-1&ia=web&iaxm=maps&strict_bbox=0&bbox=56.76740571082104%2C-4.854477200000005%2C55.736907205793685%2C-3.797899199999975&metatoken=0)
+**The Data Lab scholarship**, 📍[Stirling, United Kingdom](https://duckduckgo.com/?t=ffab&q=Stirling&atb=v220-1&ia=web&iaxm=maps&strict_bbox=0&bbox=56.76740571082104%2C-4.854477200000005%2C55.736907205793685%2C-3.797899199999975&metatoken=0)
 
 - Fully funded place in Mathematics and Data Science
 - £6500 towards tuition fees
