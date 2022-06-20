@@ -63,8 +63,8 @@ Working at a Silicon Valley starup as a software engineer I develop tools in [An
 
 ## PRs 🔀
 
-- Documentation update for the [infinite-scroll component](https://ionicframework.com/docs/api/infinite-scroll): [ionic-framework PR](https://github.com/ionic-team/ionic-framework/pull/24767)
-- fix typo in the decscription of `globalStyle`: [Stencil PR](https://github.com/ionic-team/stencil/pull/3139)
+- Documentation update for the [infinite-scroll component](https://ionicframework.com/docs/api/infinite-scroll): [ionic-framework PR](https://github.com/ionic-team/ionic-framework/pull/24767) ![GitHub commit merge status](https://img.shields.io/github/commit-status/ionic-team/ionic-framework/main/1c3b3791d0709c44bccc9ca77ed3657723cadb48)
+- fix typo in the decscription of `globalStyle`: [Stencil PR](https://github.com/ionic-team/stencil/pull/3139) ![GitHub commit merge status](https://img.shields.io/github/commit-status/ionic-team/stencil/main/7085aee6f5fb36f6f3ceb35ca48c297873e59b76)
 - Documentation update for building Docker Images with private npm packages: [npm PR](https://github.com/npm/documentation/pull/103).
 - [Pink theme](https://github.com/Xerios/LazyTheme/pull/1) for [Xerios'](https://github.com/Xerios) UE4 [LazyTheme](https://github.com/Xerios/LazyTheme) with assets prepared by [Justin Meisse](https://jmeisse.artstation.com):
   - [Pink LazyTheme](https://github.com/Xerios/LazyTheme/tree/pink)
