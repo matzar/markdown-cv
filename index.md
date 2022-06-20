@@ -32,13 +32,44 @@ Working at a Silicon Valley starup as a software engineer I develop tools in [An
 I also PR to [ionic-framework](https://github.com/ionic-team/ionic-framework/pull/24767), [stencil](https://github.com/ionic-team/stencil/pull/3139) and [npm](https://github.com/npm/documentation/pull/103).
 <br>
 
-### Professional accomplishments
+## Professional accomplishments
 
-At my current position at asensei I have created:
+- At my current position at [asensei](https://asensei.com/) I have created:
+  - a custom web component in [StencilJS](https://stenciljs.com/) which integrates [Three.js](https://threejs.org/) graphics programming, [quaternion](http://www.euclideanspace.com/maths/algebra/realNormedAlgebra/quaternions/code/index.htm) math, [RxJS](https://rxjs.dev/), in-house libraries and ships automatically as an npm package using [semantic release](https://semantic-release.gitbook.io/semantic-release/).
+  - a content buidling tool - written in Angular/Ionic - which uses my aformentioned custom web component for 3D graphics.
+  - a new version of the in-house markup language along with a content building tool - written in TypeScript and Node.js file system - which has saved 10 to 12 months in developemnt.
+  - VS Code extension that adds intelli-sense for the in-house markup language.
 
-- a custom web component in [StencilJS](https://stenciljs.com/) which integrates [Three.js](https://threejs.org/) graphics programming, [quaternion](http://www.euclideanspace.com/maths/algebra/realNormedAlgebra/quaternions/code/index.htm) math, [RxJS](https://rxjs.dev/), in-house libraries and ships automatically as an npm package using [semantic release](https://semantic-release.gitbook.io/semantic-release/).
-- a content buidling tool - written in Angular/Ionic - which uses my aformentioned custom web component for 3D graphics.
-- a content building script - written in TypeScript and Node.js file system - which has saved 10 to 12 months in developemnt.
+## Open Source ✅
+
+- [![Build Status](https://travis-ci.com/matzar/time-to-seconds.svg?branch=master)](https://travis-ci.com/github/matzar/time-to-seconds)
+  [![codecov](https://codecov.io/gh/matzar/time-to-seconds/branch/master/graph/badge.svg?token=EUYZLw2SLo)](https://codecov.io/gh/matzar/time-to-seconds)
+  [![CodeFactor](https://www.codefactor.io/repository/github/matzar/time-to-seconds/badge)](https://www.codefactor.io/repository/github/matzar/time-to-seconds)
+  [![NPM Version](https://img.shields.io/npm/v/time-to-seconds)](https://www.npmjs.com/package/time-to-seconds)
+  [![NPM Downloads](https://img.shields.io/npm/dt/time-to-seconds)](https://www.npmjs.com/package/time-to-seconds?minimal=true)
+  [![NPM Downloads](https://img.shields.io/npm/dw/time-to-seconds)](https://www.npmjs.com/package/time-to-seconds?minimal=true)
+  [![install size](https://packagephobia.com/badge?p=time-to-seconds)](https://packagephobia.com/result?p=time-to-seconds)
+  [![NPM](https://img.shields.io/npm/l/time-to-seconds)](https://tldrlegal.com/license/mit-license)
+  ![npms.io (maintenance)](https://img.shields.io/npms-io/maintenance-score/time-to-seconds)
+  ![npms.io (quality)](https://img.shields.io/npms-io/quality-score/time-to-seconds)
+  ![npms.io (popularity)](https://img.shields.io/npms-io/popularity-score/time-to-seconds)
+  ![npms.io (final)](https://img.shields.io/npms-io/final-score/time-to-seconds)
+  ![Snyk Vulnerabilities for npm package](https://img.shields.io/snyk/vulnerabilities/npm/time-to-seconds)
+  [![semantic-release: angular](https://img.shields.io/badge/semantic--release-angular-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
+- [Non-strict format, time to seconds converter distibuted via npm](https://www.npmjs.com/package/time-to-seconds)
+
+<br>
+
+- [![Version](https://img.shields.io/visual-studio-marketplace/v/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang) [![Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang) [![Installs](https://img.shields.io/visual-studio-marketplace/i/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang)
+- VS Code extension to accompany nand2tetris course published on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang)
+
+<br>
+
+- [PR'ed pink theme](https://github.com/Xerios/LazyTheme/pull/1) for [Xerios'](https://github.com/Xerios) UE4 [LazyTheme](https://github.com/Xerios/LazyTheme) with assets prepared by [Justin Meisse](https://jmeisse.artstation.com):
+  - [Pink LazyTheme](https://github.com/Xerios/LazyTheme/tree/pink)
+- Reviewing Unity's official .gitignore PRs:
+  - [[Unity] Adding VS Code and flexibility #2850](https://github.com/github/gitignore/pull/2850)
+  - [Include Library/\*.asset files for Unity3D #3068](https://github.com/github/gitignore/pull/3068)
 
 ### Specialized in 👨‍🎓
 
@@ -197,37 +228,6 @@ Details:
 - Team management:
   - Kanban boards with GitHub Projects
   - SCRUM (Deadlines setting, task assignment, mentoring)
-
-## Open Source ✅
-
-- [![Build Status](https://travis-ci.com/matzar/time-to-seconds.svg?branch=master)](https://travis-ci.com/github/matzar/time-to-seconds)
-  [![codecov](https://codecov.io/gh/matzar/time-to-seconds/branch/master/graph/badge.svg?token=EUYZLw2SLo)](https://codecov.io/gh/matzar/time-to-seconds)
-  [![CodeFactor](https://www.codefactor.io/repository/github/matzar/time-to-seconds/badge)](https://www.codefactor.io/repository/github/matzar/time-to-seconds)
-  [![NPM Version](https://img.shields.io/npm/v/time-to-seconds)](https://www.npmjs.com/package/time-to-seconds)
-  [![NPM Downloads](https://img.shields.io/npm/dt/time-to-seconds)](https://www.npmjs.com/package/time-to-seconds?minimal=true)
-  [![NPM Downloads](https://img.shields.io/npm/dw/time-to-seconds)](https://www.npmjs.com/package/time-to-seconds?minimal=true)
-  [![install size](https://packagephobia.com/badge?p=time-to-seconds)](https://packagephobia.com/result?p=time-to-seconds)
-  [![NPM](https://img.shields.io/npm/l/time-to-seconds)](https://tldrlegal.com/license/mit-license)
-  ![npms.io (maintenance)](https://img.shields.io/npms-io/maintenance-score/time-to-seconds)
-  ![npms.io (quality)](https://img.shields.io/npms-io/quality-score/time-to-seconds)
-  ![npms.io (popularity)](https://img.shields.io/npms-io/popularity-score/time-to-seconds)
-  ![npms.io (final)](https://img.shields.io/npms-io/final-score/time-to-seconds)
-  ![Snyk Vulnerabilities for npm package](https://img.shields.io/snyk/vulnerabilities/npm/time-to-seconds)
-  [![semantic-release: angular](https://img.shields.io/badge/semantic--release-angular-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
-- [Non-strict format, time to seconds converter distibuted via npm](https://www.npmjs.com/package/time-to-seconds)
-
-<br>
-
-- [![Version](https://img.shields.io/visual-studio-marketplace/v/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang) [![Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang) [![Installs](https://img.shields.io/visual-studio-marketplace/i/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang)
-- VS Code extension to accompany nand2tetris course published on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang)
-
-<br>
-
-- [PR'ed pink theme](https://github.com/Xerios/LazyTheme/pull/1) for [Xerios'](https://github.com/Xerios) UE4 [LazyTheme](https://github.com/Xerios/LazyTheme) with assets prepared by [Justin Meisse](https://jmeisse.artstation.com):
-  - [Pink LazyTheme](https://github.com/Xerios/LazyTheme/tree/pink)
-- Reviewing Unity's official .gitignore PRs:
-  - [[Unity] Adding VS Code and flexibility #2850](https://github.com/github/gitignore/pull/2850)
-  - [Include Library/\*.asset files for Unity3D #3068](https://github.com/github/gitignore/pull/3068)
 
 ## Social 🌐
 
