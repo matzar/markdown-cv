@@ -46,7 +46,7 @@ Angular, Ionic, Stencil, TypeScript/JavaScript, RxJS, Linear Algebra, Quaternion
 
 ### Web 🌐
 
-[Angular](https://angular.io/), [Ionic](https://ionicframework.com/), [StencilJS](https://stenciljs.com/), [Three.js](https://threejs.org/), HTML5, CSS3, JavaScript, TypeScript, JSON, [npm](https://www.npmjs.com/), [ts-node](https://www.npmjs.com/package/ts-node), [semantic-release](https://semantic-release.gitbook.io/semantic-release/), [SQL](https://www.dataquest.io/blog/sql-commands/), [MongoDB](https://www.mongodb.com), [docker images](https://docs.docker.com/engine/reference/commandline/images/); secure building of docker images with private npm packages.
+[Angular](https://angular.io/), [Ionic](https://ionicframework.com/), [StencilJS](https://stenciljs.com/), [Three.js](https://threejs.org/), [HTML5](https://html.com/html5/), [CSS3](https://css3.com/), [JavaScript](https://www.javascript.com/), [TypeScript](https://www.typescriptlang.org/), [JSON](https://www.json.org/json-en.html), [npm](https://www.npmjs.com/), [ts-node](https://www.npmjs.com/package/ts-node), [semantic-release](https://semantic-release.gitbook.io/semantic-release/), [SQL](https://www.dataquest.io/blog/sql-commands/), [MongoDB](https://www.mongodb.com), [docker images](https://docs.docker.com/engine/reference/commandline/images/); secure building of docker images with private npm packages.
 
 ### Scripting 📜
 
