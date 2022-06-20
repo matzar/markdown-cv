@@ -32,7 +32,7 @@ Working at [asensei](https://asensei.com/), a Silicon Valley starup as a softwar
 
 ## Specialized in 👨‍🎓
 
-[Angular](https://angular.io/), [Ionic](https://ionicframework.com/), [StencilJS](https://stenciljs.com/), [TypeScript](https://www.typescriptlang.org)/[JavaScript](https://www.javascript.com/), [RxJS](https://rxjs.dev/), [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra), [Quaternions](http://www.euclideanspace.com/maths/algebra/realNormedAlgebra/quaternions/code/index.htm), [C++](https://cplusplus.com/doc/), [git bash](https://www.git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Bash)
+[Angular](https://angular.io/), [Ionic](https://ionicframework.com/), [StencilJS](https://stenciljs.com/), [TypeScript](https://www.typescriptlang.org)/[JavaScript](https://www.javascript.com/), [RxJS](https://rxjs.dev/), [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra), [Quaternions](http://www.euclideanspace.com/maths/algebra/realNormedAlgebra/quaternions/code/index.htm), [C++](https://en.cppreference.com/w/cpp), [git bash](https://www.git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Bash)
 
 ## Professional accomplishments 🎖
 
