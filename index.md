@@ -37,7 +37,7 @@ Angular, Ionic, Stencil, TypeScript/JavaScript, RxJS, Linear Algebra, Quaternion
 ## Professional accomplishments 🎖
 
 - At my current position at [asensei](https://asensei.com/) I have created:
-  - a custom web component in [StencilJS](https://stenciljs.com/) which integrates [Three.js](https://threejs.org/) graphics programming, [quaternion](http://www.euclideanspace.com/maths/algebra/realNormedAlgebra/quaternions/code/index.htm) math, [RxJS](https://rxjs.dev/), in-house libraries and ships automatically as an npm package using [semantic release](https://semantic-release.gitbook.io/semantic-release/).
+  - a custom web component in [StencilJS](https://stenciljs.com/) which integrates [Three.js](https://threejs.org/) graphics programming, [quaternion](http://www.euclideanspace.com/maths/algebra/realNormedAlgebra/quaternions/code/index.htm) math, [RxJS](https://rxjs.dev/), in-house libraries and ships automatically as an [npm](https://www.npmjs.com/) package using [semantic release](https://semantic-release.gitbook.io/semantic-release/).
   - a content buidling tool - written in Angular/Ionic - which uses my aformentioned custom web component for 3D graphics.
   - a new version of the in-house markup language along with a content building tool - written in TypeScript and Node.js file system - which has saved 10 to 12 months in developemnt.
   - VS Code extension that adds intelli-sense for the in-house markup language.
