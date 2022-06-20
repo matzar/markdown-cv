@@ -28,11 +28,9 @@ Angular, Stencil, TypeScript/JavaScript, Mathematics, C++, git bash
 ## Currently 📆
 
 Working at a Silicon Valley starup as a software engineer I develop tools in [Angular 13](https://angular.io) and web components in [StencilJS](https://stenciljs.com/) using [TypeScript](https://www.typescriptlang.org) and graphics programming with [threejs](https://threejs.org). I take care of CI/CD pipeline, mentor interns and new employees and lead the tool development team.
-
-I also PR to [ionic-framework](https://github.com/ionic-team/ionic-framework/pull/24767), [stencil](https://github.com/ionic-team/stencil/pull/3139) and [npm](https://github.com/npm/documentation/pull/103).
 <br>
 
-## Professional accomplishments
+## Professional accomplishments 🎖
 
 - At my current position at [asensei](https://asensei.com/) I have created:
   - a custom web component in [StencilJS](https://stenciljs.com/) which integrates [Three.js](https://threejs.org/) graphics programming, [quaternion](http://www.euclideanspace.com/maths/algebra/realNormedAlgebra/quaternions/code/index.htm) math, [RxJS](https://rxjs.dev/), in-house libraries and ships automatically as an npm package using [semantic release](https://semantic-release.gitbook.io/semantic-release/).
@@ -63,9 +61,12 @@ I also PR to [ionic-framework](https://github.com/ionic-team/ionic-framework/pul
 - [![Version](https://img.shields.io/visual-studio-marketplace/v/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang) [![Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang) [![Installs](https://img.shields.io/visual-studio-marketplace/i/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang)
 - VS Code extension to accompany nand2tetris course published on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang)
 
-<br>
+## PRs 🔀
 
-- [PR'ed pink theme](https://github.com/Xerios/LazyTheme/pull/1) for [Xerios'](https://github.com/Xerios) UE4 [LazyTheme](https://github.com/Xerios/LazyTheme) with assets prepared by [Justin Meisse](https://jmeisse.artstation.com):
+- Documentation update for the [infinite-scroll component](https://ionicframework.com/docs/api/infinite-scroll): [ionic-framework PR](https://github.com/ionic-team/ionic-framework/pull/24767)
+- fix typo in the decscription of `globalStyle`: [Stencil PR](https://github.com/ionic-team/stencil/pull/3139)
+- Documentation update for building Docker Images with private npm packages: [npm PR](https://github.com/npm/documentation/pull/103).
+- [Pink theme](https://github.com/Xerios/LazyTheme/pull/1) for [Xerios'](https://github.com/Xerios) UE4 [LazyTheme](https://github.com/Xerios/LazyTheme) with assets prepared by [Justin Meisse](https://jmeisse.artstation.com):
   - [Pink LazyTheme](https://github.com/Xerios/LazyTheme/tree/pink)
 - Reviewing Unity's official .gitignore PRs:
   - [[Unity] Adding VS Code and flexibility #2850](https://github.com/github/gitignore/pull/2850)
