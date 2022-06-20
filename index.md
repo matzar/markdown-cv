@@ -27,7 +27,7 @@ Angular, Stencil, TypeScript/JavaScript, Mathematics, C++, git bash
 
 ## Currently 📆
 
-Working at a Silicon Valley starup as a software engineer I develop tools in [Angular 14](https://angular.io) and web components in [StencilJS](https://stenciljs.com/) using [TypeScript](https://www.typescriptlang.org) and graphics programming with [threejs](https://threejs.org). I take care of CI/CD pipeline, mentor interns and new employees and lead the tool development team.
+Working at a Silicon Valley starup as a software engineer I develop tools in [Angular 14](https://angular.io) and web components in [StencilJS](https://stenciljs.com/) using [TypeScript](https://www.typescriptlang.org) and graphics programming with [Three.js](https://threejs.org). I take care of CI/CD pipeline, mentor interns and new employees and lead the tool development team.
 <br>
 
 ## Specialized in 👨‍🎓
