@@ -34,9 +34,9 @@ Working at [asensei](https://asensei.com/), a Silicon Valley starup as a softwar
 
 [Angular](https://angular.io/), [Ionic](https://ionicframework.com/), [StencilJS](https://stenciljs.com/), [TypeScript](https://www.typescriptlang.org)/[JavaScript](https://www.javascript.com/), [RxJS](https://rxjs.dev/), [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra), [Quaternions](http://www.euclideanspace.com/maths/algebra/realNormedAlgebra/quaternions/code/index.htm), [C++](https://en.cppreference.com/w/cpp), [git bash](https://www.git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Bash)
 
-## Professional accomplishments 🎖
+## Professional accomplishments 💪
 
-- At my current position at [asensei](https://asensei.com/) I have created:
+- During my time at [asensei](https://asensei.com/) I have created:
   - a custom web component in [StencilJS](https://stenciljs.com/) which integrates [Three.js](https://threejs.org/) graphics programming, [quaternion](http://www.euclideanspace.com/maths/algebra/realNormedAlgebra/quaternions/code/index.htm) math, [RxJS](https://rxjs.dev/), in-house libraries and ships automatically as an [npm](https://www.npmjs.com/) package using [semantic release](https://semantic-release.gitbook.io/semantic-release/).
   - a content buidling tool - written in [Angular](https://angular.io/)/[Ionic](https://ionicframework.com/) - which uses my aformentioned custom web component for 3D graphics.
   - a new version of the in-house markup language along with a content building tool - written in TypeScript and Node.js file system - which has saved 10 to 12 months in developemnt.
