@@ -82,6 +82,13 @@ Working at [asensei](https://asensei.com/), a Silicon Valley starup as a softwar
   - [What does "as a function on time" mean?](https://www.quora.com/What-does-%E2%80%9Cas-a-function-of-time%E2%80%9D-mean)
   - [What is f(x)?](https://www.quora.com/What-is-f-x)
   - [What does f(x) = x mean?](https://www.quora.com/What-does-f-x-x-mean-1)
+- Answering and asking questions on [StackExchange](https://stackexchange.com/users/9055313/matzar).
+- My profiles on:
+  - [Stack Overflow](https://stackoverflow.com/users/6743883/matzar)
+  - [Game Developemnt](https://gamedev.stackexchange.com/users/100369/matzar)
+  - [Mathematics](https://math.stackexchange.com/users/678465/matzar)
+  - [Super User](https://superuser.com/users/1042855/matzar)
+  - [Mathematica](https://mathematica.stackexchange.com/users/84916/matzar)
 
 ### Web 🌐
 
