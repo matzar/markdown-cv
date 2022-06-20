@@ -27,8 +27,12 @@ Angular, Stencil, TypeScript/JavaScript, Mathematics, C++, git bash
 
 ## Currently 📆
 
-Working at a Silicon Valley starup as a software engineer I develop tools in [Angular 13](https://angular.io) and web components in [StencilJS](https://stenciljs.com/) using [TypeScript](https://www.typescriptlang.org) and graphics programming with [threejs](https://threejs.org). I take care of CI/CD pipeline, mentor interns and new employees and lead the tool development team.
+Working at a Silicon Valley starup as a software engineer I develop tools in [Angular 14](https://angular.io) and web components in [StencilJS](https://stenciljs.com/) using [TypeScript](https://www.typescriptlang.org) and graphics programming with [threejs](https://threejs.org). I take care of CI/CD pipeline, mentor interns and new employees and lead the tool development team.
 <br>
+
+## Specialized in 👨‍🎓
+
+Angular, Ionic, Stencil, TypeScript/JavaScript, RxJS, Linear Algebra, Quaternions, C++, git bash
 
 ## Professional accomplishments 🎖
 
@@ -71,10 +75,6 @@ Working at a Silicon Valley starup as a software engineer I develop tools in [An
 - Reviewing Unity's official .gitignore PRs:
   - [[Unity] Adding VS Code and flexibility #2850](https://github.com/github/gitignore/pull/2850)
   - [Include Library/\*.asset files for Unity3D #3068](https://github.com/github/gitignore/pull/3068)
-
-### Specialized in 👨‍🎓
-
-Angular, Ionic, Stencil, TypeScript/JavaScript, RxJS, Linear Algebra, Quaternions, C++, git bash
 
 ### Web 🌐
 
