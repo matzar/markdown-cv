@@ -2,7 +2,7 @@
 layout: cv
 title: Mateusz Zaremba's CV
 author: Mateusz Zaremba
-date: 5th June, 2022 Dundee, United Kingdom
+date: 20th June, 2022 Dundee, United Kingdom
 ---
 
 # Mateusz Zaremba 🙋‍♂️
@@ -14,7 +14,7 @@ Angular, Stencil, TypeScript/JavaScript, Mathematics, C++, git bash
 <div id="webaddress">
 <a href="mailto:mat.zar@icloud.com">mat.zar@icloud.com</a>
 | <a href="https://matzar.github.io/">https://matzar.github.io/</a>
-| Update: Dundee, United Kingdom, 5th June 2022
+| Update: Dundee, United Kingdom, 20th June 2022
 </div>
 
 <br>
