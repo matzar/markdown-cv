@@ -76,6 +76,13 @@ Working at [asensei](https://asensei.com/), a Silicon Valley starup as a softwar
   - [[Unity] Adding VS Code and flexibility #2850](https://github.com/github/gitignore/pull/2850)
   - [Include Library/\*.asset files for Unity3D #3068](https://github.com/github/gitignore/pull/3068)
 
+## Social 𝐐
+
+- Answering math questions on [Quora](https://www.quora.com/profile/Mat-Zaremba):
+  - [What does "as a function on time" mean?](https://www.quora.com/What-does-%E2%80%9Cas-a-function-of-time%E2%80%9D-mean)
+  - [What is f(x)?](https://www.quora.com/What-is-f-x)
+  - [What does f(x) = x mean?](https://www.quora.com/What-does-f-x-x-mean-1)
+
 ### Web 🌐
 
 [Angular](https://angular.io/), [Ionic](https://ionicframework.com/), [StencilJS](https://stenciljs.com/), [Three.js](https://threejs.org/), [HTML5](https://html.com/html5/), [CSS3](https://css3.com/), [JavaScript](https://www.javascript.com/), [TypeScript](https://www.typescriptlang.org/), [JSON](https://www.json.org/json-en.html), [npm](https://www.npmjs.com/), [ts-node](https://www.npmjs.com/package/ts-node), [semantic-release](https://semantic-release.gitbook.io/semantic-release/), [SQL](https://www.dataquest.io/blog/sql-commands/), [MongoDB](https://www.mongodb.com), [docker images](https://docs.docker.com/engine/reference/commandline/images/); secure building of docker images with private npm packages.
@@ -229,13 +236,6 @@ Details:
 - Team management:
   - Kanban boards with GitHub Projects
   - SCRUM (Deadlines setting, task assignment, mentoring)
-
-## Social 🌐
-
-- Answering math questions on Quora:
-  - [What does "as a function on time" mean?](https://www.quora.com/What-does-%E2%80%9Cas-a-function-of-time%E2%80%9D-mean)
-  - [What is f(x)?](https://www.quora.com/What-is-f-x)
-  - [What does f(x) = x mean?](https://www.quora.com/What-does-f-x-x-mean-1)
 
 ## Game Jams 👾
 
