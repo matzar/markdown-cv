@@ -73,7 +73,7 @@ Working at [asensei](https://asensei.com/), a Silicon Valley starup as a softwar
 - Documentation update for building Docker Images with private npm packages: [npm PR](https://github.com/npm/documentation/pull/103) ![GitHub commit merge status](https://img.shields.io/github/commit-status/npm/documentation/main/07ff10fdd306a1c203e18a6822c3ca85f2071a82)
 - [Pink theme](https://github.com/Xerios/LazyTheme/pull/1) for [Xerios'](https://github.com/Xerios) UE4 [LazyTheme](https://github.com/Xerios/LazyTheme) with assets prepared by [Justin Meisse](https://jmeisse.artstation.com):
   - [Pink LazyTheme](https://github.com/Xerios/LazyTheme/tree/pink) ![GitHub commit merge status](https://img.shields.io/github/commit-status/Xerios/LazyTheme/Xerios:pink/443929b1770ddf0f6f0e1e301b5fabd1d7068f9c)
-- Reviewing Unity's official .gitignore PRs:
+- Reviewing PRs to Unity's official .gitignore:
   - [[Unity] Adding VS Code and flexibility #2850](https://github.com/github/gitignore/pull/2850)
   - [Include Library/\*.asset files for Unity3D #3068](https://github.com/github/gitignore/pull/3068)
 
