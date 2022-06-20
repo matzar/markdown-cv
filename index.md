@@ -27,15 +27,22 @@ Angular, Stencil, TypeScript/JavaScript, Mathematics, C++, git bash
 
 ## Currently 📆
 
-Working at a Silicon Valley starup as a software engineer I develop tools in [Angular 13](https://angular.io) and web components in [StencilJS](https://stenciljs.com/) using [TypeScript](https://www.typescriptlang.org) and graphics programming with [threejs](https://threejs.org). I take care of CI/CD pipeline, mentor interns and new employees and lead the tool development team. I 
-have created a content building tool which has saved 8 to 10 months in developemnt to date. 
+Working at a Silicon Valley starup as a software engineer I develop tools in [Angular 13](https://angular.io) and web components in [StencilJS](https://stenciljs.com/) using [TypeScript](https://www.typescriptlang.org) and graphics programming with [threejs](https://threejs.org). I take care of CI/CD pipeline, mentor interns and new employees and lead the tool development team.
 
-I also PR to [ionic-framework](https://github.com/ionic-team/ionic-framework/pull/24767), [stencil](https://github.com/ionic-team/stencil/pull/3139) and [npm](https://github.com/npm/documentation/pull/103). 
+I also PR to [ionic-framework](https://github.com/ionic-team/ionic-framework/pull/24767), [stencil](https://github.com/ionic-team/stencil/pull/3139) and [npm](https://github.com/npm/documentation/pull/103).
 <br>
+
+### Professional accomplishments
+
+At my current position at asensei I have created:
+
+- a custom web component in [StencilJS](https://stenciljs.com/) which integrates [Three.js](https://threejs.org/) graphics programming, [quaternion](http://www.euclideanspace.com/maths/algebra/realNormedAlgebra/quaternions/code/index.htm) math, [RxJS](https://rxjs.dev/), in-house libraries and ships automatically as an npm package using [semantic release](https://semantic-release.gitbook.io/semantic-release/).
+- a content buidling tool - written in Angular/Ionic - which uses my aformentioned custom web component for 3D graphics.
+- a content building script - written in TypeScript and Node.js file system - which has saved 10 to 12 months in developemnt.
 
 ### Specialized in 👨‍🎓
 
-Angular, Stencil, TypeScript/JavaScript, Mathematics, C++, git bash
+Angular, Ionic, Stencil, TypeScript/JavaScript, RxJS, Linear Algebra, Quaternions, C++, git bash
 
 ### Web 🌐
 
@@ -43,7 +50,7 @@ Angular, Stencil, TypeScript/JavaScript, Mathematics, C++, git bash
 
 ### Scripting 📜
 
- git bash/zsh aliases and functions ([full list I use everyday](https://gist.github.com/matzar/6f3f4f9689bed278ca9e576ab181596f)), bash script to execute a command on all the files in the folder/put the new files into their own folder, scripting with TypeScript and JSON using [Node.js file system](https://nodejs.org/api/fs.html)
+git bash/zsh aliases and functions ([full list I use everyday](https://gist.github.com/matzar/6f3f4f9689bed278ca9e576ab181596f)), bash script to execute a command on all the files in the folder/put the new files into their own folder, scripting with TypeScript and JSON using [Node.js file system](https://nodejs.org/api/fs.html)
 
 ### Gaming 🎮
 
@@ -55,7 +62,7 @@ Data visualization with ggplot 2 and R ([Project](https://github.com/matzar/R/bl
 
 ### Testing 🧪
 
-[Unit testing in Angular with Jasmine and Karma](https://medium.com/swlh/angular-unit-testing-jasmine-karma-step-by-step-e3376d110ab4), e2e/BDD testing in Angular with [Playwright](https://github.com/microsoft/playwright) and [Docker](https://www.docker.com), [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/), [Travis CI](https://www.travis-ci.com/), running Jasmine/Karma and Playwright tests on CI (Travis/GitHub Actions) 
+[Unit testing in Angular with Jasmine and Karma](https://medium.com/swlh/angular-unit-testing-jasmine-karma-step-by-step-e3376d110ab4), e2e/BDD testing in Angular with [Playwright](https://github.com/microsoft/playwright) and [Docker](https://www.docker.com), [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/), [Travis CI](https://www.travis-ci.com/), running Jasmine/Karma and Playwright tests on CI (Travis/GitHub Actions)
 
 ### Tools 🔧
 
@@ -130,6 +137,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
 **Software Engineer, 🚀 [asensei](https://asensei.com/)**, 📍[Edinburgh, United Kingdom](https://duckduckgo.com/?q=Edinburgh&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=56.60267156887076%2C-3.0980411999999973%2C56.344904946670795%2C-2.832205899999977&metatoken=1) | [San Francisco, CA](https://duckduckgo.com/?q=San+Francisco%2C+CA&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=56.60267156887076%2C-3.0980411999999973%2C56.344904946670795%2C-2.832205899999977&metatoken=2) | Remote in [Dundee, United Kingdom](https://duckduckgo.com/?q=dundee+uk&t=vivaldi&ia=web&iax=about&iaxm=about)
 
 Overview:
+
 - Tools development in Angular with Ionic, Bootstrap and custom web components built with Stencil
 - Test Driven Development (TDD):
   - Unit testing with Jasmine and Karma
@@ -140,6 +148,7 @@ Overview:
     - Stencil web components
 
 Details:
+
 - CI/CD with [GitHub actions](https://github.com/features/actions), [Travis CI](https://www.travis-ci.com/); stages: [Jest](https://jestjs.io/)/[Mocha](https://mochajs.org/), [Codecov](https://about.codecov.io/), [dependabot](https://github.com/dependabot), [semantic-release](https://semantic-release.gitbook.io/semantic-release/) to [npm](https://www.npmjs.com/)
 - Building applications in [Angular](https://angular.io/)/[Ionic](https://ionicframework.com/)
 - Graphics programming with [Three.js](https://threejs.org/) in [Angular](https://angular.io/)/[Ionic](https://ionicframework.com/) and [StencilJS](https://stenciljs.com/)
