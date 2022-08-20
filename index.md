@@ -7,7 +7,7 @@ date: 20th June, 2022 Dundee, United Kingdom
 
 # Mateusz Zaremba 🙋‍♂️
 
-Angular, Stencil, TypeScript/JavaScript, Mathematics, C++, git bash
+Software Engineer
 
 [![Website matzar.github.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://matzar.github.io/) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
