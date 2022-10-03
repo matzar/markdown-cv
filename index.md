@@ -68,7 +68,7 @@ Working at [asensei](https://asensei.com/), a Silicon Valley starup as a softwar
 
 ## PRs 🔀
 
-- Documentation update for the [infinite-scroll component](https://ionicframework.com/docs/api/infinite-scroll): [ionic-framework PR](https://github.com/ionic-team/ionic-framework/pull/24767) [![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/state/ionic-team/ionic-framework/24767)](https://github.com/ionic-team/ionic-framework/pull/24767)
+- [![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/state/ionic-team/ionic-framework/24767)](https://github.com/ionic-team/ionic-framework/pull/24767) Documentation update for the [infinite-scroll component](https://ionicframework.com/docs/api/infinite-scroll)
 - fix typo in the decscription of `globalStyle`: [Stencil PR](https://github.com/ionic-team/stencil/pull/3139) ![GitHub commit merge status](https://img.shields.io/github/commit-status/ionic-team/stencil/main/7085aee6f5fb36f6f3ceb35ca48c297873e59b76)
 - Remove build warnings in Stencil example project - [audio-player](https://github.com/a-giuliano/audio-player): [Stencil PR](https://github.com/a-giuliano/audio-player/pull/1) ![GitHub commit merge status](https://img.shields.io/github/commit-status/a-giuliano/audio-player/master/bdcdcc054b3ba9a886e4ab58af0486bbe69e6827)
 - Documentation update for building Docker Images with private npm packages: [npm PR](https://github.com/npm/documentation/pull/208) ![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/state/npm/documentation/208) ![GitHub commit merge status](https://img.shields.io/github/commit-status/npm/documentation/main/9a3f519e1e6b5f1f6f91a2abbf76b6fa36fce32c)
