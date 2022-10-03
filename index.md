@@ -75,8 +75,8 @@ Working at [asensei](https://asensei.com/), a Silicon Valley starup as a softwar
 - [![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/state/victorvoid/space-jekyll-template/43)](https://github.com/victorvoid/space-jekyll-template/pull/43) Replace Google+ with Discord in [space-jekyll-template](https://github.com/victorvoid/space-jekyll-template)
 - [![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/state/Xerios/LazyTheme/1)](https://github.com/Xerios/LazyTheme/pull/1) [Pink theme](https://github.com/Xerios/LazyTheme/tree/pink) for [Xerios'](https://github.com/Xerios) UE4 [LazyTheme](https://github.com/Xerios/LazyTheme) with assets prepared by [Justin Meisse](https://jmeisse.artstation.com)
 - Reviewing PRs to Unity's official .gitignore:
-  - [[Unity] Adding VS Code and flexibility #2850](https://github.com/github/gitignore/pull/2850)
-  - [Include Library/\*.asset files for Unity3D #3068](https://github.com/github/gitignore/pull/3068)
+  - [![GitHub issue/pull request detail](https://img.shields.io/github/issues/detail/title/github/gitignore/2850)](https://github.com/github/gitignore/pull/2850)
+  - [![GitHub issue/pull request detail](https://img.shields.io/github/issues/detail/title/github/gitignore/3068)](https://github.com/github/gitignore/pull/3068)
 
 ## Social 𝐐
 
