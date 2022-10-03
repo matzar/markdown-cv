@@ -58,17 +58,17 @@ Working at [asensei](https://asensei.com/), a Silicon Valley starup as a softwar
   ![npms.io (popularity)](https://img.shields.io/npms-io/popularity-score/time-to-seconds)
   ![npms.io (final)](https://img.shields.io/npms-io/final-score/time-to-seconds)
   ![Snyk Vulnerabilities for npm package](https://img.shields.io/snyk/vulnerabilities/npm/time-to-seconds)
-  [![semantic-release: angular](https://img.shields.io/badge/semantic--release-angular-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
-- [Non-strict format, time to seconds converter distibuted via npm](https://www.npmjs.com/package/time-to-seconds)
+  [![semantic-release: angular](https://img.shields.io/badge/semantic--release-angular-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release) <br/>
+  [Non-strict format, time to seconds converter distibuted via npm](https://www.npmjs.com/package/time-to-seconds)
 
 <br>
 
-- [![Version](https://img.shields.io/visual-studio-marketplace/v/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang) [![Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang) [![Installs](https://img.shields.io/visual-studio-marketplace/i/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang)
-- VS Code extension to accompany nand2tetris course published on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang)
+- [![Version](https://img.shields.io/visual-studio-marketplace/v/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang) [![Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang) [![Installs](https://img.shields.io/visual-studio-marketplace/i/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang) <br/>
+  VS Code extension to accompany nand2tetris course published on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang)
 
 ## PRs 🔀
 
-- [![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/state/ionic-team/ionic-framework/24767)](https://github.com/ionic-team/ionic-framework/pull/24767) Documentation update for the [infinite-scroll component](https://ionicframework.com/docs/api/infinite-scroll)
+- [![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/state/ionic-team/ionic-framework/24767)](https://github.com/ionic-team/ionic-framework/pull/24767) ![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/title/ionic-team/ionic-framework/24767) ![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/author/ionic-team/ionic-framework/24767) ![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/label/ionic-team/ionic-framework/24767) ![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/comments/ionic-team/ionic-framework/24767) ![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/age/ionic-team/ionic-framework/24767) ![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/last-update/ionic-team/ionic-framework/24767) <br/> Documentation update for the [infinite-scroll component](https://ionicframework.com/docs/api/infinite-scroll)
 - [![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/state/ionic-team/stencil/3139)](https://github.com/ionic-team/stencil/pull/3139) Fixed typo in the decscription of `globalStyle`
 - [![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/state/a-giuliano/audio-player/1)](https://github.com/a-giuliano/audio-player/pull/1) Remove build warnings in Stencil example project - [audio-player](https://github.com/a-giuliano/audio-player)
 - [![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/state/npm/documentation/208)](https://github.com/npm/documentation/pull/208) Documentation update for building Docker Images with private npm packages
