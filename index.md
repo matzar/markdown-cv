@@ -77,6 +77,8 @@ Working at [asensei](https://asensei.com/), a Silicon Valley starup as a softwar
 
 ## Social 𝐐
 
+- Medium articles:
+  - [Optimize Your Angular Application Deployment with Multi-Stage Dockerfiles in an Nx Workspace](https://medium.com/@mat.zar./optimize-your-angular-application-deployment-with-multi-stage-dockerfiles-in-an-nx-workspace-8e2ae581d7fa)
 - Answering math questions on [Quora](https://www.quora.com/profile/Mat-Zaremba):
   - [What does "as a function on time" mean?](https://www.quora.com/What-does-%E2%80%9Cas-a-function-of-time%E2%80%9D-mean)
   - [What is f(x)?](https://www.quora.com/What-is-f-x)
