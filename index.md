@@ -2,7 +2,7 @@
 layout: cv
 title: Mateusz Zaremba's CV
 author: Mateusz Zaremba
-date: 20th June, 2022 Dundee, United Kingdom
+date: 25th April, 2023 Dundee, United Kingdom
 ---
 
 # Mateusz Zaremba 🙋‍♂️
@@ -38,9 +38,11 @@ Working at [asensei](https://asensei.com/), a Silicon Valley starup as a softwar
 
 - During my time at [asensei](https://asensei.com/) I have created:
   - a custom web component in [StencilJS](https://stenciljs.com/) which integrates [Three.js](https://threejs.org/) graphics programming, [quaternion](http://www.euclideanspace.com/maths/algebra/realNormedAlgebra/quaternions/code/index.htm) math, [RxJS](https://rxjs.dev/), in-house libraries and ships automatically as an [npm](https://www.npmjs.com/) package using [semantic release](https://semantic-release.gitbook.io/semantic-release/).
-  - a content buidling tool - written in [Angular](https://angular.io/)/[Ionic](https://ionicframework.com/) - which uses my aformentioned custom web component for 3D graphics.
+  - a content buidling tool - written in [Angular](https://angular.io/)/[Ionic](https://ionicframework.com/) - which uses my aformentioned custom web component for 3D graphics used by 2 full-time employess on a daily basis.
+  - Angular Ionic fitness app with a custom design to easily quickly load exercises from a remote, with video, image and file streaming from dropbox.
   - a new version of the in-house markup language along with a content building tool - written in TypeScript and Node.js file system - which has saved 10 to 12 months in developemnt.
   - VS Code extension that adds intelli-sense for the in-house markup language.
+  - Moved projects to Nx workspace, created GitHub re-usable workflows to, ie. build and publish Docker images for Angular apps, run tests, linting, etc.
   - Improved the workflow of the team with bash aliases and functions ([some of the git bash aliases and functions I use everyday](https://gist.github.com/matzar/3a8e8b4d28429d62420689a894583247)).
 
 ## Open Source ✅
