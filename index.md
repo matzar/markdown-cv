@@ -47,7 +47,7 @@ Working at [asensei](https://asensei.com/), a Silicon Valley starup as a softwar
 
 ## Open Source ✅
 
-- [Non-strict format, time to seconds converter distibuted via npm](https://www.npmjs.com/package/time-to-seconds) <br> [![Build Status](https://travis-ci.com/matzar/time-to-seconds.svg?branch=master)](https://travis-ci.com/github/matzar/time-to-seconds)
+- [Non-strict format, time to seconds converter distibuted via npm](https://www.npmjs.com/package/time-to-seconds) <br> [![Node.js CI](https://github.com/matzar/time-to-seconds/actions/workflows/node.js.yml/badge.svg)](https://github.com/matzar/time-to-seconds/actions/workflows/node.js.yml)
   [![codecov](https://codecov.io/gh/matzar/time-to-seconds/branch/master/graph/badge.svg?token=EUYZLw2SLo)](https://codecov.io/gh/matzar/time-to-seconds)
   [![CodeFactor](https://www.codefactor.io/repository/github/matzar/time-to-seconds/badge)](https://www.codefactor.io/repository/github/matzar/time-to-seconds)
   [![NPM Version](https://img.shields.io/npm/v/time-to-seconds)](https://www.npmjs.com/package/time-to-seconds)
