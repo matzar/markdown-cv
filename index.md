@@ -63,28 +63,29 @@ Software Engineer
 
 During my time at [asensei](https://asensei.com/) I accomplished the following:
 
-- **Soft Skills Developed:**
+### Soft Skills Developed
 
-  - Mentored interns and onboarded new staff members.
-  - Spearheaded the tool development team.
-  - Collaborated with the team to elevate:
-    - Workflow efficiency.
-    - Code quality, readability, maintainability, performance, security, scalability, testability, reusability, extensibility, modularity, and portability.
-  - Actively communicated ideas, progress, challenges, and solutions to team members, ensuring feedback was timely, constructive, and delivered in a positive manner.
+- Mentored interns and onboarded new staff members.
+- Spearheaded the tool development team.
+- Collaborated with the team to elevate:
+  - Workflow efficiency.
+  - Code quality, readability, maintainability, performance, security, scalability, testability, reusability, extensibility, modularity, and portability.
+- Actively communicated ideas, progress, challenges, and solutions to team members, ensuring feedback was timely, constructive, and delivered in a positive manner.
 
-- **Technical Accomplishments:**
-  - Developed an Angular/Ionic fitness app with Capacitor for iOS/Android (you can see it in [this LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7008497164364505089?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7008497164364505089%29)), showcasing a custom design for swift exercise retrieval and [ASENSEI SDK](https://www.asensei.ai/) - (the SDK to capture, correct and coach human movement). Notable features include:
-    - Implementation of the Figma design within 2 weeks, encompassing app architecture and ASENSEI SDK integration.
-    - Video, image, and file streaming from Dropbox.
-    - Served as a foundation for the second iteration of the ASENSEI SDK.
-    - Acts as a daily-use demo for company employees to build and test content and a testament to potential clients, such as [Powerblock](https://powerblock.com/) ([press release here](https://www.linkedin.com/pulse/powerblock-selects-asensei-lead-weight-recognition-adjustable%3FtrackingId=jqbvb6d6lFjkwE3quLJR7g%253D%253D/?trackingId=jqbvb6d6lFjkwE3quLJR7g%3D%3D)), [AMP](https://www.amprecover.com/) ([press release here](https://www.linkedin.com/posts/amprecover_could-ai-help-with-workplace-injury-prevention-activity-7045425025365024768-lE-H?utm_source=share&utm_medium=member_desktop)) and many more (full list [here](https://www.asensei.ai/)).
-  - Engineered a subsequent Angular/Ionic fitness app highlighting the second iteration of the ASENSEI SDK. Angular/Ionic app fitness app which you can see it in these LinkedIn posts: [here](https://www.linkedin.com/posts/blake-whitcomb-7541bb37_computervision-connectedfitness-machinelearning-activity-7094359638887825408-mHMd?utm_source=share&utm_medium=member_desktop) and [here](https://www.linkedin.com/posts/blake-whitcomb-7541bb37_computervision-connectedfitness-coaching-activity-7091847070822645760-mARy?utm_source=share&utm_medium=member_desktop))
-  - Crafted a StencilJS web component that melds Three.js graphics, [quaternion](http://www.euclideanspace.com/maths/algebra/realNormedAlgebra/quaternions/code/index.htm) math, and RxJS, and is automatically shipped as an npm package via [semantic release](https://semantic-release.gitbook.io/semantic-release/).
-  - Constructed an [Angular](https://angular.io/)/[Ionic](https://ionicframework.com/) content-building tool that employs the aforementioned web component. This tool is a daily essential for two full-time employees.
-  - Innovated a new version of the proprietary markup language and its accompanying content-building tool, built with TypeScript and Node.js. This innovation led to a development time savings of approximately 10 to 12 months to date.
-  - Designed a VS Code extension enhancing intelli-sense capabilities for the in-house markup language.
-  - Transitioned projects to an Nx workspace and introduced reusable GitHub workflows. These encompass tasks such as Docker image building for Angular apps, testing, linting, and more. For an in-depth look, see my Medium article: [Optimize Your Angular Application Deployment with Multi-Stage Dockerfiles in an Nx Workspace](https://medium.com/@mat.zar./optimize-your-angular-application-deployment-with-multi-stage-dockerfiles-in-an-nx-workspace-8e2ae581d7fa).
-  - Augmented the team's productivity through the implementation of tailored bash aliases and functions. Explore [some of the git bash aliases and functions I use daily](https://gist.github.com/matzar/3a8e8b4d28429d62420689a894583247).
+### Technical Accomplishments
+
+- Developed an Angular/Ionic fitness app with Capacitor for iOS/Android (you can see it in [this LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7008497164364505089?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7008497164364505089%29)), showcasing a custom design for swift exercise retrieval and [ASENSEI SDK](https://www.asensei.ai/) - (the SDK to capture, correct and coach human movement). Notable features include:
+  - Implementation of the Figma design within 2 weeks, encompassing app architecture and ASENSEI SDK integration.
+  - Video, image, and file streaming from Dropbox.
+  - Served as a foundation for the second iteration of the ASENSEI SDK.
+  - Acts as a daily-use demo for company employees to build and test content and a testament to potential clients, such as [Powerblock](https://powerblock.com/) ([press release here](https://www.linkedin.com/pulse/powerblock-selects-asensei-lead-weight-recognition-adjustable%3FtrackingId=jqbvb6d6lFjkwE3quLJR7g%253D%253D/?trackingId=jqbvb6d6lFjkwE3quLJR7g%3D%3D)), [AMP](https://www.amprecover.com/) ([press release here](https://www.linkedin.com/posts/amprecover_could-ai-help-with-workplace-injury-prevention-activity-7045425025365024768-lE-H?utm_source=share&utm_medium=member_desktop)) and many more (full list [here](https://www.asensei.ai/)).
+- Engineered a subsequent Angular/Ionic fitness app highlighting the second iteration of the ASENSEI SDK. Angular/Ionic app fitness app which you can see it in these LinkedIn posts: [here](https://www.linkedin.com/posts/blake-whitcomb-7541bb37_computervision-connectedfitness-machinelearning-activity-7094359638887825408-mHMd?utm_source=share&utm_medium=member_desktop) and [here](https://www.linkedin.com/posts/blake-whitcomb-7541bb37_computervision-connectedfitness-coaching-activity-7091847070822645760-mARy?utm_source=share&utm_medium=member_desktop))
+- Crafted a StencilJS web component that melds Three.js graphics, [quaternion](http://www.euclideanspace.com/maths/algebra/realNormedAlgebra/quaternions/code/index.htm) math, and RxJS, and is automatically shipped as an npm package via [semantic release](https://semantic-release.gitbook.io/semantic-release/).
+- Constructed an [Angular](https://angular.io/)/[Ionic](https://ionicframework.com/) content-building tool that employs the aforementioned web component. This tool is a daily essential for two full-time employees.
+- Innovated a new version of the proprietary markup language and its accompanying content-building tool, built with TypeScript and Node.js. This innovation led to a development time savings of approximately 10 to 12 months to date.
+- Designed a VS Code extension enhancing intelli-sense capabilities for the in-house markup language.
+- Transitioned projects to an Nx workspace and introduced reusable GitHub workflows. These encompass tasks such as Docker image building for Angular apps, testing, linting, and more. For an in-depth look, see my Medium article: [Optimize Your Angular Application Deployment with Multi-Stage Dockerfiles in an Nx Workspace](https://medium.com/@mat.zar./optimize-your-angular-application-deployment-with-multi-stage-dockerfiles-in-an-nx-workspace-8e2ae581d7fa).
+- Augmented the team's productivity through the implementation of tailored bash aliases and functions. Explore [some of the git bash aliases and functions I use daily](https://gist.github.com/matzar/3a8e8b4d28429d62420689a894583247).
 
 ## Open Source Contributions 📖
 
