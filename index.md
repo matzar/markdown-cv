@@ -108,7 +108,7 @@ Software Engineer
 
 - **Technical Documentation Expertise**: Authored in-depth technical documents using platforms like [Notion](https://www.notion.so/) and [Confluence](https://www.atlassian.com/software/confluence), ensuring comprehensive knowledge sharing and team alignment.
 
-## Professional accomplishments 🏆
+## Professional Accomplishments 🏆
 
 During my time at [asensei](https://asensei.com/) I accomplished the following:
 
@@ -244,6 +244,8 @@ BSc with Merit in Computer Game Applications Development, 2:1
 
 `May 2020-Present`
 **Software Engineer** at [asensei](https://asensei.com/), 📍[Edinburgh, UK](https://duckduckgo.com/?q=Edinburgh&t=ffab&atb=v220-1&ia=maps&iaxm=maps) | [San Francisco, CA](https://duckduckgo.com/?q=San+Francisco%2C+CA&t=ffab&atb=v220-1&ia=maps&iaxm=maps) | Remote from [Dundee, UK](https://duckduckgo.com/?q=dundee+uk&t=vivaldi&ia=web&iax=about&iaxm=about)
+
+[Link to Professional Accomplishments section](#professional-accomplishments-🏆)
 
 `Jan-Mar 2019`
 **Internship, C++ Software Engineer** at [viastore](https://www.viastore.com/en), 📍[Prague, Czechia](https://duckduckgo.com/?t=ffab&q=prague+czechia&atb=v220-1&ia=maps&iaxm=maps)
