@@ -31,33 +31,82 @@ Software Engineer
 
 ### Responsibilities 📝
 
-- **App Development 📱**: Build cross-platform apps using Angular and Ionic. These apps are then tailored and shipped for iOS and Android platforms through Capacitor.
+- **App Development 📱**: Build cross-platform apps using Angular and Ionic. These apps are then tailored and shipped for iOS and Android platforms through **Capacitor (versions 3-5)**.
 - **Web Development 🌐**: Develop and refine applications using **Angular (Versions 13-17)** and **StencilJS (Versions 2-4)**.
 - **Custom Web Components 📦**: Craft tailored web components using **StencilJS**, enhanced with graphics from **Three.js** and reactive programming via **RxJS**.
 - **Tools Development 🛠**: Construct user-centric tools with rich UI/UX using Angular and create CLI utilities leveraging TypeScript and [Commander.js](https://www.npmjs.com/package/commander).
 - **Software Architecture 🏗**: Lead initiatives to shape software design, architecture, and team workflows.
 - **Graphics Programming 🎨**: Delve into graphics projects utilizing **Three.js**.
-- **CI/CD Management**: Steer our continuous integration and deployment processes while providing mentorship to new team members and interns.
+- **CI/CD Management**: Steer our continuous integration and deployment processes with **GitHub Actions** and **Travis CI**. Package distribution via npm with [semantic-release](https://semantic-release.gitbook.io/semantic-release/) using **Travis CI** and **GitHub Actions**.
 - **Communication Facilitation**: Act as a bridge for effective team communication, ensuring ideas are conveyed and understood universally across the team.
 - **Scripting 📜**:
   - Enhance daily workflows with git bash/zsh [aliases and functions](https://gist.github.com/matzar/6f3f4f9689bed278ca9e576ab181596f).
   - Develop bash scripts to streamline file management tasks.
   - Script and automate tasks using TypeScript and JSON, leveraging the [Node.js file system](https://nodejs.org/api/fs.html).
 
-## **Core Expertise** 👨‍🎓
+## Core Expertise 👨‍🎓
 
-- **Web Development:** Angular, Ionic, StencilJS, TypeScript/JavaScript, RxJS, JSON, npm, ts-node, semantic-release.
-- **Containerization:** Advanced Docker skills including Docker Compose, Docker Hub, and Docker Images. Contributed a significant update on secure building of Docker images with private npm packages to npm's [**official documentation**](https://docs.npmjs.com/docker-and-private-modules). View the [**contribution here**](https://github.com/npm/documentation/pull/285). Deploying Angular apps inside an Nx Workspace using NginX Docker containers, automated with GitHub Actions.
-- **Other Tools & Languages:** Nx Workspace, git bash ([**daily aliases & functions**](https://gist.github.com/matzar/3a8e8b4d28429d62420689a894583247)).
-- **Mathematics:** Linear Algebra, Quaternions
+### Web Development
 
-## **Additional Skills** 🤹‍♂️
+- **Languages & Frameworks**: Angular (Versions 13-17), Ionic, StencilJS, TypeScript, JavaScript, RxJS.
+- **Tools**: npm, ts-node, semantic-release, es-build, Webpack.
+- **Web Graphics**: Three.js, HTML5, CSS3.
+- **Web Component**: Developed custom web components with StencilJS enhanced with graphics from Three.js.
 
-- **Backend**:
-  - **Server:** Node.js, Express, NestJS, TypeScript, JavaScript, RxJS, JSON.
-  - **Database:** AWS, Firebase, MongoDB, SQL.
-- **Game Development**: C++/C#, Unity3D, Unreal Engine 4
-- **Data Science**: Python/R
+### Containerization
+
+- **Docker**: Advanced Docker skills including Docker Compose, Docker Hub. Contributed to secure building of Docker images with private npm packages.
+- **Deployment**: Deploying Angular apps inside an Nx Workspace using NginX Docker containers, automated with GitHub Actions.
+
+### Software Architecture
+
+- **Design & Workflow**: Leading initiatives to shape software design, architecture, and team workflows using tools like Nx Workspace.
+
+### Tools & Scripting
+
+- **Scripting**: git bash/zsh ([daily aliases & functions](https://gist.github.com/matzar/6f3f4f9689bed278ca9e576ab181596f)), TypeScript scripting using Node.js file system.
+- **CLI Development**: Building CLI utilities with TypeScript and [Commander.js](https://www.npmjs.com/package/commander).
+- **IDE & Code**: VS Code, MS Visual Studio, UNIX terminal, XCode.
+
+### Mathematics
+
+- **Graphics Programming**: Delving into graphics projects with Three.js, understanding of quaternion math.
+
+### App Development
+
+- **Cross-Platform Development**: Building apps for iOS and Android using Angular, Ionic, and Capacitor (versions 3-5).
+
+### Testing & CI/CD
+
+- **Testing Frameworks**: Unit testing with Jest, Jasmine, Karma, and Playwright. Running these tests on CI tools like Travis CI and GitHub Actions.
+- **Workflow Automation**: Leveraging Nx's Reusable Workflows and running GitHub actions locally with [act](https://github.com/nektos/act).
+
+## Additional Skills 🤹‍♂️
+
+### Backend
+
+- **Server Frameworks**: Node.js, Express, NestJS.
+- **Languages**: TypeScript, JavaScript, RxJS.
+- **Databases**: AWS, Firebase, MongoDB, SQL.
+
+### Game Development
+
+- **Game Engines**: C++, C#, Unity3D, Unreal Engine 4.
+- **Other**: Python 3, Ren'Py, Xbox One, PSVita, Box2D, SFML graphics, DirectX 11, and Networking with SFML.
+
+### Data Science
+
+- **Languages & Tools**: Python, R, ggplot 2, pandas, NumPy, Gephi.
+- **Math & Reporting**: Statistics, LaTeX.
+
+### Teamwork & Collaboration
+
+- **Project Management**: Agile Methodologies, SCRUM, Notion, Jira, Confluence.
+- **Communication**: Slack, MS Teams, Pair programming with Live Share using VS Code.
+
+### Documentation & Collaboration
+
+- **Technical Documentation Expertise**: Authored in-depth technical documents using platforms like [Notion](https://www.notion.so/) and [Confluence](https://www.atlassian.com/software/confluence), ensuring comprehensive knowledge sharing and team alignment.
 
 ## Professional accomplishments 🏆
 
@@ -86,7 +135,7 @@ During my time at [asensei](https://asensei.com/) I accomplished the following:
   - Transitioned projects to an Nx workspace and introduced reusable GitHub workflows. These encompass tasks such as Docker image building for Angular apps, testing, linting, and more. For an in-depth look, see my Medium article: [Optimize Your Angular Application Deployment with Multi-Stage Dockerfiles in an Nx Workspace](https://medium.com/@mat.zar./optimize-your-angular-application-deployment-with-multi-stage-dockerfiles-in-an-nx-workspace-8e2ae581d7fa).
   - Augmented the team's productivity through the implementation of tailored bash aliases and functions. Explore [some of the git bash aliases and functions I use daily](https://gist.github.com/matzar/3a8e8b4d28429d62420689a894583247).
 
-## Open Source Contributions 📖
+## Open Source Software 📖
 
 - [Non-strict format, time to seconds converter distibuted via npm](https://www.npmjs.com/package/time-to-seconds) <br> [![Node.js CI](https://github.com/matzar/time-to-seconds/actions/workflows/node.js.yml/badge.svg)](https://github.com/matzar/time-to-seconds/actions/workflows/node.js.yml)
   [![codecov](https://codecov.io/gh/matzar/time-to-seconds/branch/master/graph/badge.svg?token=EUYZLw2SLo)](https://codecov.io/gh/matzar/time-to-seconds)
@@ -131,47 +180,6 @@ During my time at [asensei](https://asensei.com/) I accomplished the following:
   - [Mathematics](https://math.stackexchange.com/users/678465/matzar)
   - [Super User](https://superuser.com/users/1042855/matzar)
   - [Mathematica](https://mathematica.stackexchange.com/users/84916/matzar)
-
-### Teamwork 🤝
-
-Agile Methodologies, SCRUM, Notion, Jira, Confluence, Slack, MS Teams, [Pair programming with Live Share using VS Code](https://code.visualstudio.com/learn/collaboration/live-share)
-
-### Web Development 🌐
-
-Angular, Ionic, StencilJS, Three.js, HTML5, CSS3, JavaScript, TypeScript, JSON, XML, npm, [ts-node](https://www.npmjs.com/package/ts-node), [semantic-release](https://semantic-release.gitbook.io/semantic-release/), Docker Images; secure building of docker images with private npm packages, Docker Compose, Webpack, es-build
-
-### App Development 📱
-
-Developing cross-platform apps using Angular and Ionic, shipped for both iOS and Android via Capacitor.
-
-### Tools development 🛠
-
-Developing UI/UX rich tools with Angular and CLI tools with TypeScript and [Commander.js](https://www.npmjs.com/package/commander).
-
-### Scripting 📜
-
-git bash/zsh aliases and functions ([full list I use everyday](https://gist.github.com/matzar/6f3f4f9689bed278ca9e576ab181596f)), bash script to execute a command on all the files in the folder/put the new files into their own folder, scripting with TypeScript and JSON using [Node.js file system](https://nodejs.org/api/fs.html)
-
-### Gaming 🎮
-
-C#, Unity3D, Unreal Enging 4, Python 3, [Ren'Py](https://www.renpy.org/), Xbox One, PSVita, [Box2D](https://box2d.org), Graphics programming ([SFML](https://www.sfml-dev.org), DirectX 11), Networking with SFML
-
-### Data Science 📊
-
-Data visualization with ggplot 2 and R ([Project](https://github.com/matzar/R/blob/master/Statistics/submission/DataManipulation.R)), pandas and NumPy ([Project](https://github.com/matzar/Python/blob/master/Assignment/Assignment.py)), [Gephi](https://gephi.org/), SQL, Statistics, [LaTeX](https://www.latex-project.org)
-
-### Testing 🧪
-
-- Unit testing in Angular with Jest and/or Jasmine and Karma,
-- e2e/BDD testing in Angular with Playwright,
-- TypeScript/JavaScript unit testing with Jest, Mocha,
-- Running Jest, Jasmine/Karma and Playwright tests on CI (Travis CI/GitHub Actions)
-- GitHub Actions with workflows, actions and re-usable workflows like [Nx's Reusable Workflows](https://github.com/nrwl/ci)
-- Running GitHub actions locally with [act](https://github.com/nektos/act).
-
-### Tools 🛠
-
-VS Code, MS Visual Studio, UNIX terminal, XCode
 
 <!-- ### Research interests
 
@@ -222,7 +230,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
   - Asset Production for Games (B+):
     - <iframe frameborder="0" src="https://itch.io/embed/121052" width="552" height="167"><a href="https://matzar.itch.io/dragon-maze">Dragon Maze by matzar</a></iframe>
 
-## Funding Awarded 💷
+## Funding Awarded 💰
 
 `2019-2020`
 **The Data Lab scholarship**, 📍[Stirling, United Kingdom](https://duckduckgo.com/?t=ffab&q=Stirling&atb=v220-1&ia=web&iaxm=maps&strict_bbox=0&bbox=56.76740571082104%2C-4.854477200000005%2C55.736907205793685%2C-3.797899199999975&metatoken=0)
@@ -235,70 +243,27 @@ BSc with Merit in Computer Game Applications Development, 2:1
 ## Relevant Experience 👨‍💻
 
 `May 2020-Present`
-**Software Engineer, 🚀 [asensei](https://asensei.com/)**, 📍[Edinburgh, United Kingdom](https://duckduckgo.com/?q=Edinburgh&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=56.60267156887076%2C-3.0980411999999973%2C56.344904946670795%2C-2.832205899999977&metatoken=1) | [San Francisco, CA](https://duckduckgo.com/?q=San+Francisco%2C+CA&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=56.60267156887076%2C-3.0980411999999973%2C56.344904946670795%2C-2.832205899999977&metatoken=2) | Remote in [Dundee, United Kingdom](https://duckduckgo.com/?q=dundee+uk&t=vivaldi&ia=web&iax=about&iaxm=about)
-
-Overview:
-
-- App developemnt for Android and iOS using Angular/Ionic with Capacitor and Capacitor plugins, ia. Text-To-Speach Capacitor plugin
-- Tools development in Angular with Ionic, Bootstrap and custom web components built with Stencil
-- Test Driven Development (TDD):
-  - Unit testing with Jasmine and Karma
-  - e2e/BDD testing with Playwright and Docker
-  - Automated CI/CD with [semantic-release](https://semantic-release.gitbook.io/semantic-release/) for:
-    - software releases
-    - npm packages
-    - Stencil web components
-
-Details:
-
-- CI/CD with [GitHub actions](https://github.com/features/actions), Travis CI; stages: [Jest](https://jestjs.io/)/[Mocha](https://mochajs.org/), [Codecov](https://about.codecov.io/), [dependabot](https://github.com/dependabot), [semantic-release](https://semantic-release.gitbook.io/semantic-release/) to npm
-- Building applications in Angular/Ionic
-- Graphics programming with Three.js in Angular/Ionic and StencilJS
-- Building web components in StencilJS with Three.js and quaternion math
-- Development of internal tools with Angular, TypeScript, JSON and [Node.js file system](https://nodejs.org/api/fs.html)
-- Package distribution via npm with [semantic-release](https://semantic-release.gitbook.io/semantic-release/) using Travis CI
-- Building internal VS Code extensions to provide snippets and highlighting for the internal tools
-- bash/zsh functions/aliases to improve workflow (processing of multiple files, encapsulation and input simplification of commonly used commands)
-- Technical/implementation documentation writing in [Notion](https://www.notion.so/) and [Confluence](https://www.atlassian.com/software/confluence)
-- [Pair programming with Live Share in VS Code](https://code.visualstudio.com/learn/collaboration/live-share)
-- Onboarding and mentoring of new team members
+**Software Engineer** at [asensei](https://asensei.com/), 📍[Edinburgh, UK](https://duckduckgo.com/?q=Edinburgh&t=ffab&atb=v220-1&ia=maps&iaxm=maps) | [San Francisco, CA](https://duckduckgo.com/?q=San+Francisco%2C+CA&t=ffab&atb=v220-1&ia=maps&iaxm=maps) | Remote from [Dundee, UK](https://duckduckgo.com/?q=dundee+uk&t=vivaldi&ia=web&iax=about&iaxm=about)
 
 `Jan-Mar 2019`
-**Internship, C++ Software Engineer, 🏢 [viastore](https://www.viastore.com/en)**, 📍[Prague, Czechia](https://duckduckgo.com/?t=ffab&q=prague+czechia&atb=v220-1&ia=maps&iaxm=maps)
+**Internship, C++ Software Engineer** at [viastore](https://www.viastore.com/en), 📍[Prague, Czechia](https://duckduckgo.com/?t=ffab&q=prague+czechia&atb=v220-1&ia=maps&iaxm=maps)
 
-- Learned about:
-  - Relational and non-Relational Databases using SQL and C++
-  - Large distributed IT systems
-  - Business use of rapid prototyping
+- Gained insights into relational and non-relational databases using SQL and C++.
+- Explored large distributed IT systems and rapid prototyping for business.
 
 `Aug-Oct 2018`
-**Internship, Unreal Game Programmer, 🏢 [Bohemia Interactive](https://www.bohemia.net/)**, 📍[Prague, Czechia](https://duckduckgo.com/?t=ffab&q=prague+czechia&atb=v220-1&ia=maps&iaxm=maps)
+**Internship, Unreal Game Programmer** at [Bohemia Interactive](https://www.bohemia.net/), 📍[Prague, Czechia](https://duckduckgo.com/?t=ffab&q=prague+czechia&atb=v220-1&ia=maps&iaxm=maps)
 
-- Project worked on: [Vigor](https://www.youtube.com/watch?v=tJS4gItz56s), post-apocalyptic survival game
-- Responsibilities:
-  - Networked gameplay programming
-  - UI programming
-  - Prototyping
-  - Bug fixing
-  - Developing new solutions based on already existing ones
+- Contributed to [Vigor](https://www.youtube.com/watch?v=tJS4gItz56s), a post-apocalyptic survival game.
+- Tasks included networked gameplay, UI development, prototyping, bug fixing, and enhancing existing solutions.
 
 `Sep 2017-Jun 2018`
-**Lead Programmer, 🎓 Abertay University: Professional Project**, 📍[Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
+**Lead Programmer, Abertay University: Professional Project**, 📍[Dundee, UK](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps)
 
-- Projects worked on:
-- Mobile game for [Junkfish](https://www.teamjunkfish.com/) Game Company
-- Retro platformer for [Timex](https://www.timex.com/)
-  - Engine: Unity
-  - Programming language: C#
-  - Platforms: Android (Junk Fish), Windows (Timex)
-  - [GitHub](https://github.com/RetrospectAbertay/Lit)
-- Responsibilities:
-  - Gameplay programming
-  - Prototyping
-  - Source control maintenance: merging, pull requests, .gitignore
-- Team management:
-  - Kanban boards with GitHub Projects
-  - SCRUM (Deadlines setting, task assignment, mentoring)
+- Developed mobile game for [Junkfish](https://www.teamjunkfish.com/) and retro platformer for [Timex](https://www.timex.com/).
+- Utilized Unity with C# for Android (Junk Fish) and Windows (Timex). [GitHub Repo](https://github.com/RetrospectAbertay/Lit)
+- Managed gameplay programming, prototyping, and source control.
+- Led team operations: SCRUM, task assignments, and mentoring.
 
 ## Game Jams 👾
 
