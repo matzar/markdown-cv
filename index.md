@@ -32,11 +32,8 @@ Software Engineer
 ### Responsibilities 📝
 
 - **App Development 📱**: Build cross-platform apps using Angular and Ionic, tailored for iOS and Android platforms using Capacitor.
-  - _Versions_: Capacitor (3-5)
 - **Web Development 🌐**: Develop applications using Angular and StencilJS.
-  - _Versions_: Angular (13-17), StencilJS (2-4)
 - **Custom Web Components 📦**: Craft tailored web components using **StencilJS**, enhanced with graphics from **Three.js** and reactive programming via **RxJS**.
-  - _Versions_: RxJS (7)
 - **Tools Development 🛠**: Construct user-centric tools with rich UI/UX using Angular and create CLI utilities leveraging TypeScript and [Commander.js](https://www.npmjs.com/package/commander).
 - **Software Architecture 🏗**: Lead initiatives to shape software design, architecture, and team workflows.
 - **Graphics Programming 🎨**: Delve into graphics projects utilizing **Three.js**.
@@ -51,7 +48,7 @@ Software Engineer
 
 ### Web Development
 
-- **Languages & Frameworks**: Angular (Versions 13-17), Ionic, StencilJS, TypeScript, JavaScript, RxJS.
+- **Languages & Frameworks**: Angular (Versions 13-17), Ionic (Versions 5-7), StencilJS (Versions 2-4), TypeScript, JavaScript, RxJS.
 - **Tools**: npm, ts-node, semantic-release, es-build, Webpack.
 - **Web Graphics**: Three.js, HTML5, CSS3.
 - **Web Component**: Developed custom web components with StencilJS enhanced with graphics from Three.js.
