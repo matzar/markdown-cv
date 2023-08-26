@@ -185,6 +185,33 @@ During my time at [asensei](https://asensei.com/) I accomplished the following:
 
 Statistical analysis for data science, representing and manipulating data using R and Python programming -->
 
+## Relevant Experience 👨‍💻
+
+`May 2020-Present`
+**Software Engineer** at [asensei](https://asensei.com/), 📍[Edinburgh, UK](https://duckduckgo.com/?q=Edinburgh&t=ffab&atb=v220-1&ia=maps&iaxm=maps) | [San Francisco, CA](https://duckduckgo.com/?q=San+Francisco%2C+CA&t=ffab&atb=v220-1&ia=maps&iaxm=maps) | Remote from [Dundee, UK](https://duckduckgo.com/?q=dundee+uk&t=vivaldi&ia=web&iax=about&iaxm=about)
+
+[Link to Professional Accomplishments section](#professional-accomplishments-🏆)
+
+`Jan-Mar 2019`
+**Internship, C++ Software Engineer** at [viastore](https://www.viastore.com/en), 📍[Prague, Czechia](https://duckduckgo.com/?t=ffab&q=prague+czechia&atb=v220-1&ia=maps&iaxm=maps)
+
+- Gained insights into relational and non-relational databases using SQL and C++.
+- Explored large distributed IT systems and rapid prototyping for business.
+
+`Aug-Oct 2018`
+**Internship, Unreal Game Programmer** at [Bohemia Interactive](https://www.bohemia.net/), 📍[Prague, Czechia](https://duckduckgo.com/?t=ffab&q=prague+czechia&atb=v220-1&ia=maps&iaxm=maps)
+
+- Contributed to [Vigor](https://www.youtube.com/watch?v=tJS4gItz56s), a post-apocalyptic survival game.
+- Tasks included networked gameplay, UI development, prototyping, bug fixing, and enhancing existing solutions.
+
+`Sep 2017-Jun 2018`
+**Lead Programmer, Abertay University: Professional Project**, 📍[Dundee, UK](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps)
+
+- Developed mobile game for [Junkfish](https://www.teamjunkfish.com/) and retro platformer for [Timex](https://www.timex.com/).
+- Utilized Unity with C# for Android (Junk Fish) and Windows (Timex). [GitHub Repo](https://github.com/RetrospectAbertay/Lit)
+- Managed gameplay programming, prototyping, and source control.
+- Led team operations: SCRUM, task assignments, and mentoring.
+
 ## Education 🎓
 
 `2019-2020`
@@ -239,33 +266,6 @@ BSc with Merit in Computer Game Applications Development, 2:1
 - £6500 towards tuition fees
 - Professional training with Data Scientists
 - Data Lab events
-
-## Relevant Experience 👨‍💻
-
-`May 2020-Present`
-**Software Engineer** at [asensei](https://asensei.com/), 📍[Edinburgh, UK](https://duckduckgo.com/?q=Edinburgh&t=ffab&atb=v220-1&ia=maps&iaxm=maps) | [San Francisco, CA](https://duckduckgo.com/?q=San+Francisco%2C+CA&t=ffab&atb=v220-1&ia=maps&iaxm=maps) | Remote from [Dundee, UK](https://duckduckgo.com/?q=dundee+uk&t=vivaldi&ia=web&iax=about&iaxm=about)
-
-[Link to Professional Accomplishments section](#professional-accomplishments-🏆)
-
-`Jan-Mar 2019`
-**Internship, C++ Software Engineer** at [viastore](https://www.viastore.com/en), 📍[Prague, Czechia](https://duckduckgo.com/?t=ffab&q=prague+czechia&atb=v220-1&ia=maps&iaxm=maps)
-
-- Gained insights into relational and non-relational databases using SQL and C++.
-- Explored large distributed IT systems and rapid prototyping for business.
-
-`Aug-Oct 2018`
-**Internship, Unreal Game Programmer** at [Bohemia Interactive](https://www.bohemia.net/), 📍[Prague, Czechia](https://duckduckgo.com/?t=ffab&q=prague+czechia&atb=v220-1&ia=maps&iaxm=maps)
-
-- Contributed to [Vigor](https://www.youtube.com/watch?v=tJS4gItz56s), a post-apocalyptic survival game.
-- Tasks included networked gameplay, UI development, prototyping, bug fixing, and enhancing existing solutions.
-
-`Sep 2017-Jun 2018`
-**Lead Programmer, Abertay University: Professional Project**, 📍[Dundee, UK](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps)
-
-- Developed mobile game for [Junkfish](https://www.teamjunkfish.com/) and retro platformer for [Timex](https://www.timex.com/).
-- Utilized Unity with C# for Android (Junk Fish) and Windows (Timex). [GitHub Repo](https://github.com/RetrospectAbertay/Lit)
-- Managed gameplay programming, prototyping, and source control.
-- Led team operations: SCRUM, task assignments, and mentoring.
 
 ## Game Jams 👾
 
@@ -329,34 +329,6 @@ BSc with Merit in Computer Game Applications Development, 2:1
 
 - Listening to student feedback and liaising with lectures
 - Attended training about leadership and teamwork
-
-## Other Experience 🃏
-
-`Oct-Dec 2015`
-**Warden, ♱ St. Ninian's Institute, Diocese of Dunkeld**, 📍[Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
-
-- Taking care of the St Ninian's Institute and its guests
-- Welcoming at the reception and showing guests to their rooms
-
-`Apr-Aug 2015`
-**Waiter/Bartender, ⛳️ [Drumoig Golf Hotel](https://www.tripadvisor.com/Hotel_Review-g2423042-d568415-Reviews-Drumoig_Golf_Hotel-Drumoig_St_Andrews_Fife_Scotland.html)**, 📍[Drumoig, United Kingdom](https://duckduckgo.com/?t=ffab&q=Drumoig+Golf+Hotel&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=50.520360862075705%2C14.047522459960902%2C49.62129494252906%2C14.845404540039027&metatoken=0)
-
-- Welcoming people at the reception
-- Bartending
-- Waitering
-
-`May-Aug 2013`
-**Office Assistant, 🎓 [University of Wroclaw](https://uni.wroc.pl/en/)**, 📍[Wroclaw, Poland](https://duckduckgo.com/?q=wroc%C5%82aw+poland&t=ffab&atb=v220-1&ia=maps&iaxm=maps)
-
-- Calling vendors to set up appointments and gather information
-- Post delivery
-- Clerk duties
-
-`Jan-Aug 2009`
-**Junior Lifeguard, 🏖 [Wroclaw Water Park](https://aquapark.wroc.pl/en/)**, 📍[Wroclaw, Poland](https://duckduckgo.com/?q=wroc%C5%82aw+poland&t=ffab&atb=v220-1&ia=maps&iaxm=maps)
-
-- Taking care of visitors safety and well being
-- Stamina and wellbeing training
 
 <!-- ### Footer
 
