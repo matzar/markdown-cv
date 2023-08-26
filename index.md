@@ -27,7 +27,7 @@ Software Engineer
 
 ## Currently 📆
 
-Working at [asensei](https://asensei.com/), a Silicon Valley starup as a software engineer I develop tools in [Angular 15](https://angular.io) and web components in [StencilJS](https://stenciljs.com/) using [TypeScript](https://www.typescriptlang.org) and graphics programming with [Three.js](https://threejs.org). I take care of CI/CD pipeline, mentor interns and new employees and lead the tool development team.
+Working at [asensei](https://asensei.com/), a Silicon Valley starup as a software engineer I develop tools and apps in [Angular 13/14/15/16/17](https://angular.io) and web components in [StencilJS 2/3/4](https://stenciljs.com/) using [TypeScript](https://www.typescriptlang.org) and graphics programming with [Three.js](https://threejs.org). I am also responsible for the team's workflow, software design and architecture. I take care of CI/CD pipeline, mentor interns and new employees and communicating ideas and solutions to the team.
 <br>
 
 ## Specialized in 👨‍🎓
@@ -36,14 +36,28 @@ Working at [asensei](https://asensei.com/), a Silicon Valley starup as a softwar
 
 ## Professional accomplishments 💪
 
-- During my time at [asensei](https://asensei.com/) I have created:
-  - a custom web component in [StencilJS](https://stenciljs.com/) which integrates [Three.js](https://threejs.org/) graphics programming, [quaternion](http://www.euclideanspace.com/maths/algebra/realNormedAlgebra/quaternions/code/index.htm) math, [RxJS](https://rxjs.dev/), in-house libraries and ships automatically as an [npm](https://www.npmjs.com/) package using [semantic release](https://semantic-release.gitbook.io/semantic-release/).
-  - a content buidling tool - written in [Angular](https://angular.io/)/[Ionic](https://ionicframework.com/) - which uses my aformentioned custom web component for 3D graphics used by 2 full-time employess on a daily basis.
-  - Angular Ionic fitness app with a custom design to easily quickly load exercises from a remote, with video, image and file streaming from dropbox.
-  - a new version of the in-house markup language along with a content building tool - written in TypeScript and Node.js file system - which has saved 10 to 12 months in developemnt.
-  - VS Code extension that adds intelli-sense for the in-house markup language.
-  - Moved projects to Nx workspace, created GitHub re-usable workflows to, ie. build and publish Docker images for Angular apps, run tests, linting, etc. (see my Medium article on how to [Optimize Your Angular Application Deployment with Multi-Stage Dockerfiles in an Nx Workspace](https://medium.com/@mat.zar./optimize-your-angular-application-deployment-with-multi-stage-dockerfiles-in-an-nx-workspace-8e2ae581d7fa))
-  - Improved the workflow of the team with bash aliases and functions ([some of the git bash aliases and functions I use everyday](https://gist.github.com/matzar/3a8e8b4d28429d62420689a894583247)).
+- During my time at [asensei](https://asensei.com/) I accomplished the following:
+
+  - **Soft Skills Developed:**
+
+    - Mentored interns and onboarded new staff members.
+    - Spearheaded the tool development team.
+    - Collaborated with the team to elevate:
+
+      - Workflow efficiency.
+      - Code quality, readability, maintainability, performance, security, scalability, testability, reusability, extensibility, modularity, and portability.
+
+    - Actively communicated ideas, progress, challenges, and solutions to team members, ensuring feedback was timely, constructive, and delivered in a positive manner.
+
+  - **Technical Accomplishments:**
+    - [Angular](https://angular.io/)/[Ionic](https://ionicframework.com/) fitness app with a custom design to easily and quickly load exercises from the remote, with video, image and file streaming from dropbox. Total development time from start to finish was 1 month. I was the sole developer responsible for implementing the Figma design which was accomplished in 2 weeks and that included the design of the app's architecture for serving the files from the remote and interaction with the ASENSEI SDK which became the basis for the second interation of the ASENSEI SDK. The second 2 weeks were spent on implemnting the ASENSEI SDK. The app serves as a demo for potential clients and is used by the company's employees on a daily basis to test the SDK and the content building tool. Many clients who were shown the app was so impressed that they decided to use the SDK in their own app and are now a paying customer, i.a. Chris Hemsworth's fitness app [Centr](https://centr.com/).
+    - New [Angular](https://angular.io/)/[Ionic](https://ionicframework.com/) app fitness app that implemented the second iteration of the ASENSEI SDK. I was the sole developer responsible for implementing the Figma design which was accomplished in 2 weeks and that included the design of the app's architecture for serving the files from the remote and interaction with the ASENSEI SDK which became the basis for the second interation of the ASENSEI SDK. The app serves as a demo for potential clients and is used by the company's employees on a daily basis to test the SDK and the content building tool.
+    - a custom web component in [StencilJS](https://stenciljs.com/) which integrates [Three.js](https://threejs.org/) graphics programming, [quaternion](http://www.euclideanspace.com/maths/algebra/realNormedAlgebra/quaternions/code/index.htm) math, [RxJS](https://rxjs.dev/), in-house libraries and ships automatically as an [npm](https://www.npmjs.com/) package using [semantic release](https://semantic-release.gitbook.io/semantic-release/).
+    - a content buidling tool - written in [Angular](https://angular.io/)/[Ionic](https://ionicframework.com/) - which uses my aformentioned custom web component for 3D graphics used by 2 full-time employess on a daily basis.
+    - a new version of the in-house markup language along with a content building tool - written in TypeScript and Node.js file system - which has saved 10 to 12 months in developemnt.
+    - VS Code extension that adds intelli-sense for the in-house markup language.
+    - Moved projects to Nx workspace, created GitHub re-usable workflows to, ie. build and publish Docker images for Angular apps, run tests, linting, etc. (see my Medium article on how to [Optimize Your Angular Application Deployment with Multi-Stage Dockerfiles in an Nx Workspace](https://medium.com/@mat.zar./optimize-your-angular-application-deployment-with-multi-stage-dockerfiles-in-an-nx-workspace-8e2ae581d7fa))
+    - Improved the workflow of the team with bash aliases and functions ([some of the git bash aliases and functions I use everyday](https://gist.github.com/matzar/3a8e8b4d28429d62420689a894583247)).
 
 ## Open Source ✅
 
