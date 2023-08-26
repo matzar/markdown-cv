@@ -29,6 +29,8 @@ Software Engineer
 
 **Software Engineer** at [asensei](https://asensei.com/), a forward-thinking startup in Silicon Valley.
 
+Responsibilities:
+
 - **Web Development 🌐**: Develop and refine applications using **Angular (Versions 13-17)** and **StencilJS (Versions 2-4)**.
 - **Custom Web Components 📦**: Craft tailored web components using **StencilJS**, enhanced with graphics from **Three.js** and reactive programming via **RxJS**.
 - **App Development 📱**: Build cross-platform apps using Angular and Ionic. These apps are then tailored and shipped for iOS and Android platforms through Capacitor.
@@ -37,7 +39,6 @@ Software Engineer
 - **Graphics Programming 🎨**: Delve into graphics projects utilizing **Three.js**.
 - **CI/CD Management**: Steer our continuous integration and deployment processes while providing mentorship to new entrants and interns.
 - **Communication Facilitation**: Act as a bridge for effective team communication, ensuring ideas are conveyed and understood universally across the team.
-
 - **Scripting 📜**:
   - Enhance daily workflows with git bash/zsh [aliases and functions](https://gist.github.com/matzar/6f3f4f9689bed278ca9e576ab181596f).
   - Develop bash scripts to streamline file management tasks.
