@@ -2,10 +2,10 @@
 layout: cv
 title: Mateusz Zaremba's CV
 author: Mateusz Zaremba
-date: 25th April, 2023 Dundee, United Kingdom
+date: 26th August, 2023 Dundee, United Kingdom
 ---
 
-# Mateusz Zaremba 🙋‍♂️
+# Mateusz Zaremba 👨‍🚀
 
 Software Engineer
 
@@ -25,16 +25,40 @@ Software Engineer
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matzar&theme=prussian&hide_border=true&background=FFFFFF)](https://git.io/streak-stats) -->
 
-## Currently 📆
+## **Current Role** 👨‍💻
 
-Working at [asensei](https://asensei.com/), a Silicon Valley starup as a software engineer I develop tools and apps in [Angular 13/14/15/16/17](https://angular.io) and web components in [StencilJS 2/3/4](https://stenciljs.com/) using [TypeScript](https://www.typescriptlang.org) and graphics programming with [Three.js](https://threejs.org). I am also responsible for the team's workflow, software design and architecture. I take care of CI/CD pipeline, mentor interns and new employees and communicating ideas and solutions to the team.
-<br>
+**Software Engineer** at [asensei](https://asensei.com/), a forward-thinking startup in Silicon Valley.
 
-## Specialized in 👨‍🎓
+- **Web Development 🌐**: Develop and refine applications using **Angular (Versions 13-17)** and **StencilJS (Versions 2-4)**.
+- **Custom Web Components 📦**: Craft tailored web components using **StencilJS**, enhanced with graphics from **Three.js** and reactive programming via **RxJS**.
+- **App Development 📱**: Build cross-platform apps using Angular and Ionic. These apps are then tailored and shipped for iOS and Android platforms through Capacitor.
+- **Tools Development 🛠**: Construct user-centric tools with rich UI/UX using Angular and create CLI utilities leveraging TypeScript and [Commander.js](https://www.npmjs.com/package/commander).
+- **Software Architecture 🏗**: Lead initiatives to shape software design, architecture, and team workflows.
+- **Graphics Programming 🎨**: Delve into graphics projects utilizing **Three.js**.
+- **CI/CD Management**: Steer our continuous integration and deployment processes while providing mentorship to new entrants and interns.
+- **Communication Facilitation**: Act as a bridge for effective team communication, ensuring ideas are conveyed and understood universally across the team.
 
-[Angular](https://angular.io/), [Ionic](https://ionicframework.com/), [StencilJS](https://stenciljs.com/), [TypeScript](https://www.typescriptlang.org)/[JavaScript](https://www.javascript.com/), [RxJS](https://rxjs.dev/), [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra), [Quaternions](http://www.euclideanspace.com/maths/algebra/realNormedAlgebra/quaternions/code/index.htm), [C++](https://en.cppreference.com/w/cpp), [git bash](https://www.git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Bash)
+- **Scripting 📜**:
+  - Enhance daily workflows with git bash/zsh [aliases and functions](https://gist.github.com/matzar/6f3f4f9689bed278ca9e576ab181596f).
+  - Develop bash scripts to streamline file management tasks.
+  - Script and automate tasks using TypeScript and JSON, leveraging the [Node.js file system](https://nodejs.org/api/fs.html).
 
-## Professional accomplishments 💪
+## **Core Expertise** 👨‍🎓
+
+- **Web Development:** Angular, Ionic, StencilJS, TypeScript/JavaScript, RxJS, JSON, npm, ts-node, semantic-release.
+- **Containerization:** Advanced Docker skills including Docker Compose, Docker Hub, and Docker Images. Contributed a significant update on secure building of Docker images with private npm packages to npm's [**official documentation**](https://docs.npmjs.com/docker-and-private-modules). View the [**contribution here**](https://github.com/npm/documentation/pull/285). Deploying Angular apps inside an Nx Workspace using NginX Docker containers, automated with GitHub Actions.
+- **Other Tools & Languages:** Nx Workspace, git bash ([**daily aliases & functions**](https://gist.github.com/matzar/3a8e8b4d28429d62420689a894583247)).
+- **Mathematics:** Linear Algebra, Quaternions
+
+## **Additional Skills** 🤹‍♂️
+
+- **Backend**:
+  - **Server:** Node.js, Express, NestJS, TypeScript, JavaScript, RxJS, JSON.
+  - **Database:** AWS, Firebase, MongoDB, SQL.
+- **Game Development**: C++/C#, Unity3D, Unreal Engine 4
+- **Data Science**: Python/R
+
+## Professional accomplishments 🏆
 
 - During my time at [asensei](https://asensei.com/) I accomplished the following:
 
@@ -43,23 +67,25 @@ Working at [asensei](https://asensei.com/), a Silicon Valley starup as a softwar
     - Mentored interns and onboarded new staff members.
     - Spearheaded the tool development team.
     - Collaborated with the team to elevate:
-
       - Workflow efficiency.
       - Code quality, readability, maintainability, performance, security, scalability, testability, reusability, extensibility, modularity, and portability.
-
     - Actively communicated ideas, progress, challenges, and solutions to team members, ensuring feedback was timely, constructive, and delivered in a positive manner.
 
   - **Technical Accomplishments:**
-    - [Angular](https://angular.io/)/[Ionic](https://ionicframework.com/) fitness app with a custom design to easily and quickly load exercises from the remote, with video, image and file streaming from dropbox. Total development time from start to finish was 1 month. I was the sole developer responsible for implementing the Figma design which was accomplished in 2 weeks and that included the design of the app's architecture for serving the files from the remote and interaction with the ASENSEI SDK which became the basis for the second interation of the ASENSEI SDK. The second 2 weeks were spent on implemnting the ASENSEI SDK. The app serves as a demo for potential clients and is used by the company's employees on a daily basis to test the SDK and the content building tool. Many clients who were shown the app was so impressed that they decided to use the SDK in their own app and are now a paying customer, i.a. Chris Hemsworth's fitness app [Centr](https://centr.com/).
-    - New [Angular](https://angular.io/)/[Ionic](https://ionicframework.com/) app fitness app that implemented the second iteration of the ASENSEI SDK. I was the sole developer responsible for implementing the Figma design which was accomplished in 2 weeks and that included the design of the app's architecture for serving the files from the remote and interaction with the ASENSEI SDK which became the basis for the second interation of the ASENSEI SDK. The app serves as a demo for potential clients and is used by the company's employees on a daily basis to test the SDK and the content building tool.
-    - a custom web component in [StencilJS](https://stenciljs.com/) which integrates [Three.js](https://threejs.org/) graphics programming, [quaternion](http://www.euclideanspace.com/maths/algebra/realNormedAlgebra/quaternions/code/index.htm) math, [RxJS](https://rxjs.dev/), in-house libraries and ships automatically as an [npm](https://www.npmjs.com/) package using [semantic release](https://semantic-release.gitbook.io/semantic-release/).
-    - a content buidling tool - written in [Angular](https://angular.io/)/[Ionic](https://ionicframework.com/) - which uses my aformentioned custom web component for 3D graphics used by 2 full-time employess on a daily basis.
-    - a new version of the in-house markup language along with a content building tool - written in TypeScript and Node.js file system - which has saved 10 to 12 months in developemnt.
-    - VS Code extension that adds intelli-sense for the in-house markup language.
-    - Moved projects to Nx workspace, created GitHub re-usable workflows to, ie. build and publish Docker images for Angular apps, run tests, linting, etc. (see my Medium article on how to [Optimize Your Angular Application Deployment with Multi-Stage Dockerfiles in an Nx Workspace](https://medium.com/@mat.zar./optimize-your-angular-application-deployment-with-multi-stage-dockerfiles-in-an-nx-workspace-8e2ae581d7fa))
-    - Improved the workflow of the team with bash aliases and functions ([some of the git bash aliases and functions I use everyday](https://gist.github.com/matzar/3a8e8b4d28429d62420689a894583247)).
+    - Developed an Angular/Ionic fitness app with Capacitor for iOS/Android (you can see it in [this LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7008497164364505089?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7008497164364505089%29)), showcasing a custom design for swift exercise retrieval and [ASENSEI SDK](https://www.asensei.ai/) - (the SDK to capture, correct and coach human movement). Notable features include:
+      - Implementation of the Figma design within 2 weeks, encompassing app architecture and ASENSEI SDK integration.
+      - Video, image, and file streaming from Dropbox.
+      - Served as a foundation for the second iteration of the ASENSEI SDK.
+      - Acts as a daily-use demo for company employees to build and test content and a testament to potential clients, such as [Powerblock](https://powerblock.com/) ([press release here](https://www.linkedin.com/pulse/powerblock-selects-asensei-lead-weight-recognition-adjustable%3FtrackingId=jqbvb6d6lFjkwE3quLJR7g%253D%253D/?trackingId=jqbvb6d6lFjkwE3quLJR7g%3D%3D)), [AMP](https://www.amprecover.com/) ([press release here](https://www.linkedin.com/posts/amprecover_could-ai-help-with-workplace-injury-prevention-activity-7045425025365024768-lE-H?utm_source=share&utm_medium=member_desktop)) and many more (full list [here](https://www.asensei.ai/)).
+    - Engineered a subsequent Angular/Ionic fitness app highlighting the second iteration of the ASENSEI SDK. Angular/Ionic app fitness app which you can see it in these LinkedIn posts: [here](https://www.linkedin.com/posts/blake-whitcomb-7541bb37_computervision-connectedfitness-machinelearning-activity-7094359638887825408-mHMd?utm_source=share&utm_medium=member_desktop) and [here](https://www.linkedin.com/posts/blake-whitcomb-7541bb37_computervision-connectedfitness-coaching-activity-7091847070822645760-mARy?utm_source=share&utm_medium=member_desktop))
+    - Crafted a StencilJS web component that melds Three.js graphics, [quaternion](http://www.euclideanspace.com/maths/algebra/realNormedAlgebra/quaternions/code/index.htm) math, and RxJS, and is automatically shipped as an npm package via [semantic release](https://semantic-release.gitbook.io/semantic-release/).
+    - Constructed an [Angular](https://angular.io/)/[Ionic](https://ionicframework.com/) content-building tool that employs the aforementioned web component. This tool is a daily essential for two full-time employees.
+    - Innovated a new version of the proprietary markup language and its accompanying content-building tool, built with TypeScript and Node.js. This innovation led to a development time savings of approximately 10 to 12 months to date.
+    - Designed a VS Code extension enhancing intelli-sense capabilities for the in-house markup language.
+    - Transitioned projects to an Nx workspace and introduced reusable GitHub workflows. These encompass tasks such as Docker image building for Angular apps, testing, linting, and more. For an in-depth look, see my Medium article: [Optimize Your Angular Application Deployment with Multi-Stage Dockerfiles in an Nx Workspace](https://medium.com/@mat.zar./optimize-your-angular-application-deployment-with-multi-stage-dockerfiles-in-an-nx-workspace-8e2ae581d7fa).
+    - Augmented the team's productivity through the implementation of tailored bash aliases and functions. Explore [some of the git bash aliases and functions I use daily](https://gist.github.com/matzar/3a8e8b4d28429d62420689a894583247).
 
-## Open Source ✅
+## Open Source Contributions 📖
 
 - [Non-strict format, time to seconds converter distibuted via npm](https://www.npmjs.com/package/time-to-seconds) <br> [![Node.js CI](https://github.com/matzar/time-to-seconds/actions/workflows/node.js.yml/badge.svg)](https://github.com/matzar/time-to-seconds/actions/workflows/node.js.yml)
   [![codecov](https://codecov.io/gh/matzar/time-to-seconds/branch/master/graph/badge.svg?token=EUYZLw2SLo)](https://codecov.io/gh/matzar/time-to-seconds)
@@ -105,9 +131,21 @@ Working at [asensei](https://asensei.com/), a Silicon Valley starup as a softwar
   - [Super User](https://superuser.com/users/1042855/matzar)
   - [Mathematica](https://mathematica.stackexchange.com/users/84916/matzar)
 
-### Web 🌐
+### Teamwork 🤝
 
-[Angular](https://angular.io/), [Ionic](https://ionicframework.com/), [StencilJS](https://stenciljs.com/), [Three.js](https://threejs.org/), [HTML5](https://html.com/html5/), [CSS3](https://css3.com/), [JavaScript](https://www.javascript.com/), [TypeScript](https://www.typescriptlang.org/), [JSON](https://www.json.org/json-en.html), [npm](https://www.npmjs.com/), [ts-node](https://www.npmjs.com/package/ts-node), [semantic-release](https://semantic-release.gitbook.io/semantic-release/), [SQL](https://www.dataquest.io/blog/sql-commands/), [MongoDB](https://www.mongodb.com), [docker images](https://docs.docker.com/engine/reference/commandline/images/); secure building of docker images with private npm packages.
+Agile Methodologies, SCRUM, Notion, Jira, Confluence, Slack, MS Teams, [Pair programming with Live Share using VS Code](https://code.visualstudio.com/learn/collaboration/live-share)
+
+### Web Development 🌐
+
+Angular, Ionic, StencilJS, Three.js, HTML5, CSS3, JavaScript, TypeScript, JSON, XML, npm, [ts-node](https://www.npmjs.com/package/ts-node), [semantic-release](https://semantic-release.gitbook.io/semantic-release/), Docker Images; secure building of docker images with private npm packages, Docker Compose, Webpack, es-build
+
+### App Development 📱
+
+Developing cross-platform apps using Angular and Ionic, shipped for both iOS and Android via Capacitor.
+
+### Tools development 🛠
+
+Developing UI/UX rich tools with Angular and CLI tools with TypeScript and [Commander.js](https://www.npmjs.com/package/commander).
 
 ### Scripting 📜
 
@@ -115,23 +153,24 @@ git bash/zsh aliases and functions ([full list I use everyday](https://gist.gith
 
 ### Gaming 🎮
 
-C#, [Unity3D](https://unity.com), [UE4](https://www.unrealengine.com/en-US), [Python 3](https://www.python.org), [Ren'Py](https://www.renpy.org/), Xbox One, PSVita, [Box2D](https://box2d.org), Graphics programming ([SFML](https://www.sfml-dev.org), DirectX 11), Networking with [SFML](https://www.sfml-dev.org)
+C#, Unity3D, Unreal Enging 4, Python 3, [Ren'Py](https://www.renpy.org/), Xbox One, PSVita, [Box2D](https://box2d.org), Graphics programming ([SFML](https://www.sfml-dev.org), DirectX 11), Networking with SFML
 
-### Data 📊
+### Data Science 📊
 
 Data visualization with ggplot 2 and R ([Project](https://github.com/matzar/R/blob/master/Statistics/submission/DataManipulation.R)), pandas and NumPy ([Project](https://github.com/matzar/Python/blob/master/Assignment/Assignment.py)), [Gephi](https://gephi.org/), SQL, Statistics, [LaTeX](https://www.latex-project.org)
 
 ### Testing 🧪
 
-[Unit testing in Angular with Jasmine and Karma](https://medium.com/swlh/angular-unit-testing-jasmine-karma-step-by-step-e3376d110ab4), e2e/BDD testing in Angular with [Playwright](https://github.com/microsoft/playwright) and [Docker](https://www.docker.com), [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/), [Travis CI](https://www.travis-ci.com/), running Jasmine/Karma and Playwright tests on CI (Travis/GitHub Actions)
+- Unit testing in Angular with Jest and/or Jasmine and Karma,
+- e2e/BDD testing in Angular with Playwright,
+- TypeScript/JavaScript unit testing with Jest, Mocha,
+- Running Jest, Jasmine/Karma and Playwright tests on CI (Travis CI/GitHub Actions)
+- GitHub Actions with workflows, actions and re-usable workflows like [Nx's Reusable Workflows](https://github.com/nrwl/ci)
+- Running GitHub actions locally with [act](https://github.com/nektos/act).
 
-### Tools 🔧
+### Tools 🛠
 
 VS Code, MS Visual Studio, UNIX terminal, XCode
-
-### Teamwork 🤝
-
-[Notion](https://www.notion.so/), [Jira](https://www.atlassian.com/software/jira), [Confluence](https://www.atlassian.com/software/confluence), [Slack](https://slack.com/intl/en-gb/), [MS Teams](https://www.microsoft.com/en-gb/microsoft-teams/log-in), [Pair programming with Live Share using VS Code](https://code.visualstudio.com/learn/collaboration/live-share)
 
 <!-- ### Research interests
 
@@ -211,12 +250,12 @@ Overview:
 
 Details:
 
-- CI/CD with [GitHub actions](https://github.com/features/actions), [Travis CI](https://www.travis-ci.com/); stages: [Jest](https://jestjs.io/)/[Mocha](https://mochajs.org/), [Codecov](https://about.codecov.io/), [dependabot](https://github.com/dependabot), [semantic-release](https://semantic-release.gitbook.io/semantic-release/) to [npm](https://www.npmjs.com/)
-- Building applications in [Angular](https://angular.io/)/[Ionic](https://ionicframework.com/)
-- Graphics programming with [Three.js](https://threejs.org/) in [Angular](https://angular.io/)/[Ionic](https://ionicframework.com/) and [StencilJS](https://stenciljs.com/)
-- Building web components in [StencilJS](https://stenciljs.com/) with [Three.js](https://threejs.org/) and quaternion math
+- CI/CD with [GitHub actions](https://github.com/features/actions), Travis CI; stages: [Jest](https://jestjs.io/)/[Mocha](https://mochajs.org/), [Codecov](https://about.codecov.io/), [dependabot](https://github.com/dependabot), [semantic-release](https://semantic-release.gitbook.io/semantic-release/) to npm
+- Building applications in Angular/Ionic
+- Graphics programming with Three.js in Angular/Ionic and StencilJS
+- Building web components in StencilJS with Three.js and quaternion math
 - Development of internal tools with Angular, TypeScript, JSON and [Node.js file system](https://nodejs.org/api/fs.html)
-- Package distribution via [npm](https://www.npmjs.com/) with [semantic-release](https://semantic-release.gitbook.io/semantic-release/) using [Travis CI](https://www.travis-ci.com/)
+- Package distribution via npm with [semantic-release](https://semantic-release.gitbook.io/semantic-release/) using Travis CI
 - Building internal VS Code extensions to provide snippets and highlighting for the internal tools
 - bash/zsh functions/aliases to improve workflow (processing of multiple files, encapsulation and input simplification of commonly used commands)
 - Technical/implementation documentation writing in [Notion](https://www.notion.so/) and [Confluence](https://www.atlassian.com/software/confluence)
