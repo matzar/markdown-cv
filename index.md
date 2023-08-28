@@ -31,6 +31,7 @@ Software Engineer
 
 ### Responsibilities 📝
 
+- **Communication Facilitation 🤝**: Act as a bridge for effective team communication, ensuring ideas are conveyed and understood universally across the team.
 - **App Development 📱**: Build cross-platform apps using Angular and Ionic, tailored for iOS and Android platforms using Capacitor.
 - **Web Development 🌐**: Develop applications using Angular and StencilJS.
 - **Custom Web Components 📦**: Craft tailored web components using **StencilJS**, enhanced with graphics from **Three.js** and reactive programming via **RxJS**.
@@ -38,13 +39,17 @@ Software Engineer
 - **Software Architecture 🏗**: Lead initiatives to shape software design, architecture, and team workflows.
 - **Graphics Programming 🎨**: Delve into graphics projects utilizing **Three.js**.
 - **CI/CD Management**: Steer our continuous integration and deployment processes with **GitHub Actions** and **Travis CI**. Package distribution via npm with [semantic-release](https://semantic-release.gitbook.io/semantic-release/) using **Travis CI** and **GitHub Actions**.
-- **Communication Facilitation**: Act as a bridge for effective team communication, ensuring ideas are conveyed and understood universally across the team.
 - **Scripting 📜**:
   - Enhance daily workflows with git bash/zsh [aliases and functions](https://gist.github.com/matzar/6f3f4f9689bed278ca9e576ab181596f).
   - Develop bash scripts to streamline file management tasks.
   - Script and automate tasks using TypeScript and JSON, leveraging the [Node.js file system](https://nodejs.org/api/fs.html).
 
 ## Core Expertise 👨‍🎓
+
+### Teamwork & Collaboration 🤝
+
+- **Project Management**: Agile Methodologies, SCRUM, Notion, Jira, Confluence.
+- **Communication**: Slack, MS Teams, Pair programming with Live Share using VS Code.
 
 ### Web Development 🌐
 
@@ -85,6 +90,10 @@ Software Engineer
 - **Testing Frameworks**: Unit testing with Jest, Jasmine, Karma, and Playwright. Running these tests on CI tools like Travis CI and GitHub Actions.
 - **Workflow Automation**: Leveraging Nx's Reusable Workflows and running GitHub actions locally with [act](https://github.com/nektos/act).
 
+### Documentation & Collaboration 📝
+
+- **Technical Documentation Expertise**: Authored in-depth technical documents using platforms like [Notion](https://www.notion.so/) and [Confluence](https://www.atlassian.com/software/confluence), ensuring comprehensive knowledge sharing and team alignment.
+
 ## Additional Skills 🤹‍♂️
 
 ### Backend Development 🖥
@@ -102,15 +111,6 @@ Software Engineer
 
 - **Languages & Tools**: Python, R, ggplot 2, pandas, NumPy, Gephi.
 - **Math & Reporting**: Statistics, LaTeX.
-
-### Teamwork & Collaboration 🤝
-
-- **Project Management**: Agile Methodologies, SCRUM, Notion, Jira, Confluence.
-- **Communication**: Slack, MS Teams, Pair programming with Live Share using VS Code.
-
-### Documentation & Collaboration 📝
-
-- **Technical Documentation Expertise**: Authored in-depth technical documents using platforms like [Notion](https://www.notion.so/) and [Confluence](https://www.atlassian.com/software/confluence), ensuring comprehensive knowledge sharing and team alignment.
 
 ## Professional Accomplishments 🏆
 
