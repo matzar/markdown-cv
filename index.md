@@ -14,7 +14,7 @@ Software Engineer
 <div id="webaddress">
 <a href="mailto:mat.zar@icloud.com">mat.zar@icloud.com</a>
 | <a href="https://matzar.github.io/">https://matzar.github.io/</a>
-| Update: Dundee, United Kingdom, 28th Augues 2023
+| Update: Dundee, United Kingdom, 28th August 2023
 </div>
 
 <br>
