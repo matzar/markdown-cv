@@ -339,4 +339,4 @@ BSc with Merit in Computer Game Applications Development, 2:1
 
 <!-- ### Footer
 
-Last updated: Sep 2021 -->
+Last updated: Aug 2023 -->
