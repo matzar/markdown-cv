@@ -60,6 +60,7 @@ Software Engineer
 ### Continuous Integration & Deployment 🚀
 
 - **Deployment**: Deploying Angular apps inside an Nx Workspace using NginX Docker containers, automated with GitHub Actions.
+- **Semantic Release**: Employed the [semantic-release](https://semantic-release.gitbook.io/semantic-release/) tool for automated versioning and package publication, relying on commit message semantics. Customized release types using specific tags, as outlined in the `.releaserc` configuration, such as [this example](https://gist.github.com/matzar/f25898c5bfbed2598cf36b99f62c7d79.js).
 
 ### Software Architecture 🏗
 
