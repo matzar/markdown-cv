@@ -27,7 +27,7 @@ Software Engineer
 
 ## **Current Role** 👨‍💻
 
-**Software Engineer** at [asensei](https://asensei.com/), a forward-thinking startup in Silicon Valley.
+**Software Engineer** at [asensei](https://asensei.ai/), a forward-thinking startup in Silicon Valley.
 
 ### Responsibilities 📝
 
@@ -114,7 +114,7 @@ Software Engineer
 
 ## Professional Accomplishments 🏆
 
-During my time at [asensei](https://asensei.com/) I accomplished the following:
+### asensei 🏋️‍♀️
 
 - **Soft Skills Developed**:
 
@@ -195,7 +195,7 @@ Statistical analysis for data science, representing and manipulating data using 
 ## Relevant Experience 👨‍💻
 
 `May 2020-Present`
-**Software Engineer** at [asensei](https://asensei.com/), 📍[Edinburgh, UK](https://duckduckgo.com/?q=Edinburgh&t=ffab&atb=v220-1&ia=maps&iaxm=maps) | [San Francisco, CA](https://duckduckgo.com/?q=San+Francisco%2C+CA&t=ffab&atb=v220-1&ia=maps&iaxm=maps) | Remote from [Dundee, UK](https://duckduckgo.com/?q=dundee+uk&t=vivaldi&ia=web&iax=about&iaxm=about)
+**Software Engineer** at [asensei](https://asensei.ai/), 📍[Edinburgh, UK](https://duckduckgo.com/?q=Edinburgh&t=ffab&atb=v220-1&ia=maps&iaxm=maps) | [San Francisco, CA](https://duckduckgo.com/?q=San+Francisco%2C+CA&t=ffab&atb=v220-1&ia=maps&iaxm=maps) | Remote from [Dundee, UK](https://duckduckgo.com/?q=dundee+uk&t=vivaldi&ia=web&iax=about&iaxm=about)
 
 [Link to Professional Accomplishments section](#professional-accomplishments-🏆)
 
