@@ -2,7 +2,7 @@
 layout: cv
 title: Mateusz Zaremba's CV
 author: Mateusz Zaremba
-date: 26th August, 2023 Dundee, United Kingdom
+date: 28th August, 2023 Dundee, United Kingdom
 ---
 
 # Mateusz Zaremba 👨‍🚀
