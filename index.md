@@ -102,11 +102,6 @@ Software Engineer
 
 ## Additional Skills 🤹‍♂️
 
-### Backend Development 🖥
-
-- **Server Frameworks**: Node.js, Express.js, NestJS.
-- **Databases**: AWS, Firebase, MongoDB, SQL.
-
 ### Game Development 🎮
 
 - **Game Engines**: C++, C#, Unity3D, Unreal Engine 4.
