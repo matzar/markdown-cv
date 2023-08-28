@@ -230,6 +230,16 @@ Statistical analysis for data science, representing and manipulating data using 
     <br>
     [Barack Obama's Retweet Network](https://github.com/matzar/statistics-for-data-science/blob/master/Networks/pdf/Mateusz-Zaremba--MATPDM2--Markdown.pdf)
 
+### Funding Awarded 💰
+
+`2019-2020`
+**The Data Lab scholarship**, 📍[Stirling, United Kingdom](https://duckduckgo.com/?t=ffab&q=Stirling&atb=v220-1&ia=web&iaxm=maps&strict_bbox=0&bbox=56.76740571082104%2C-4.854477200000005%2C55.736907205793685%2C-3.797899199999975&metatoken=0)
+
+- Fully funded place in Mathematics and Data Science
+- £6500 towards tuition fees
+- Professional training with Data Scientists
+- Data Lab events
+
 `2015-2018`
 **[University of Abertay Dundee](https://www.abertay.ac.uk/)**, 📍[Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
 
@@ -258,17 +268,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
   - Asset Production for Games (B+):
     - <iframe frameborder="0" src="https://itch.io/embed/121052" width="552" height="167"><a href="https://matzar.itch.io/dragon-maze">Dragon Maze by matzar</a></iframe>
 
-## Funding Awarded 💰
-
-`2019-2020`
-**The Data Lab scholarship**, 📍[Stirling, United Kingdom](https://duckduckgo.com/?t=ffab&q=Stirling&atb=v220-1&ia=web&iaxm=maps&strict_bbox=0&bbox=56.76740571082104%2C-4.854477200000005%2C55.736907205793685%2C-3.797899199999975&metatoken=0)
-
-- Fully funded place in Mathematics and Data Science
-- £6500 towards tuition fees
-- Professional training with Data Scientists
-- Data Lab events
-
-## Game Jams 👾
+### Game Jams 👾
 
 `Jan 24-26, 2018`
 **Gameplay Programmer/Design/Team Lead, Serious Game Jam**, 📍[Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
@@ -310,7 +310,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
 - Programming language: C#
 - Platforms: Windows, MAC, Linux
 
-## Societies 👥
+### Societies 👥
 
 `Sep 2015-Jul 2018`
 **Member of Abertay Game Development Society**, 📍[Dundee, United Kingdom](https://duckduckgo.com/?q=Dundee&t=ffab&atb=v220-1&ia=maps&iaxm=maps&strict_bbox=0&bbox=51.33054640525637%2C16.806780300000014%2C50.92391760399238%2C17.175838999999996&metatoken=0)
