@@ -143,16 +143,14 @@ During my time at [asensei](https://asensei.com/) I accomplished the following:
   [![codecov](https://codecov.io/gh/matzar/time-to-seconds/branch/master/graph/badge.svg?token=EUYZLw2SLo)](https://codecov.io/gh/matzar/time-to-seconds)
   [![CodeFactor](https://www.codefactor.io/repository/github/matzar/time-to-seconds/badge)](https://www.codefactor.io/repository/github/matzar/time-to-seconds)
   [![NPM Version](https://img.shields.io/npm/v/time-to-seconds)](https://www.npmjs.com/package/time-to-seconds)
-  [![NPM Downloads](https://img.shields.io/npm/dt/time-to-seconds)](https://www.npmjs.com/package/time-to-seconds?minimal=true)
-  [![NPM Downloads](https://img.shields.io/npm/dw/time-to-seconds)](https://www.npmjs.com/package/time-to-seconds?minimal=true)
+  ![npm](https://img.shields.io/npm/dw/time-to-seconds?cacheSeconds=10)
   [![install size](https://packagephobia.com/badge?p=time-to-seconds)](https://packagephobia.com/result?p=time-to-seconds)
-  [![NPM](https://img.shields.io/npm/l/time-to-seconds)](https://tldrlegal.com/license/mit-license)
   ![npms.io (maintenance)](https://img.shields.io/npms-io/maintenance-score/time-to-seconds)
   ![npms.io (quality)](https://img.shields.io/npms-io/quality-score/time-to-seconds)
   ![npms.io (popularity)](https://img.shields.io/npms-io/popularity-score/time-to-seconds)
   ![npms.io (final)](https://img.shields.io/npms-io/final-score/time-to-seconds)
-  ![Snyk Vulnerabilities for npm package](https://img.shields.io/snyk/vulnerabilities/npm/time-to-seconds)
   [![semantic-release: angular](https://img.shields.io/badge/semantic--release-angular-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
+  [![NPM](https://img.shields.io/npm/l/time-to-seconds)](https://tldrlegal.com/license/mit-license)
 
 #### Developer Extensions 🧩
 
