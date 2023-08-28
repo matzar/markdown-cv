@@ -174,6 +174,8 @@ During my time at [asensei](https://asensei.com/) I accomplished the following:
 
 - Medium articles:
   - [Optimize Your Angular Application Deployment with Multi-Stage Dockerfiles in an Nx Workspace](https://medium.com/@mat.zar./optimize-your-angular-application-deployment-with-multi-stage-dockerfiles-in-an-nx-workspace-8e2ae581d7fa)
+  - [Guarding Data Integrity: Immutable Getters vs. Observable Approach for Sorted String and Number Arrays in BehaviorSubjects](https://medium.com/@mat.zar./guarding-data-integrity-immutable-getters-vs-a52a5f4ac2be)
+  - [Write git commits with one letter command — `c your commit message` and no double-quotes!](https://medium.com/@mat.zar./write-git-commits-with-one-letter-command-c-your-commit-message-and-no-double-quotes-740d2536a650)
 - Answering math questions on [Quora](https://www.quora.com/profile/Mat-Zaremba):
   - [What does "as a function on time" mean?](https://www.quora.com/What-does-%E2%80%9Cas-a-function-of-time%E2%80%9D-mean)
   - [What is f(x)?](https://www.quora.com/What-is-f-x)
