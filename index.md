@@ -135,11 +135,9 @@ During my time at [asensei](https://asensei.com/) I accomplished the following:
   - Transitioned projects to an Nx workspace and introduced reusable GitHub workflows. These encompass tasks such as Docker image building for Angular apps, testing, linting, and more. For an in-depth look, see my Medium article: [Optimize Your Angular Application Deployment with Multi-Stage Dockerfiles in an Nx Workspace](https://medium.com/@mat.zar./optimize-your-angular-application-deployment-with-multi-stage-dockerfiles-in-an-nx-workspace-8e2ae581d7fa).
   - Augmented the team's productivity through the implementation of tailored bash aliases and functions. Explore [some of the git bash aliases and functions I use daily](https://gist.github.com/matzar/3a8e8b4d28429d62420689a894583247).
 
-### Tools I've Crafted 🔧
+### Open Source Packages 📦
 
-#### Open Source Packages 📦
-
-- [Non-strict format, time to seconds converter distibuted via npm](https://www.npmjs.com/package/time-to-seconds) <br> [![Node.js CI](https://github.com/matzar/time-to-seconds/actions/workflows/node.js.yml/badge.svg)](https://github.com/matzar/time-to-seconds/actions/workflows/node.js.yml)
+- Created [Non-strict format, time to seconds converter distibuted via npm](https://www.npmjs.com/package/time-to-seconds) <br> [![Node.js CI](https://github.com/matzar/time-to-seconds/actions/workflows/node.js.yml/badge.svg)](https://github.com/matzar/time-to-seconds/actions/workflows/node.js.yml)
   [![codecov](https://codecov.io/gh/matzar/time-to-seconds/branch/master/graph/badge.svg?token=EUYZLw2SLo)](https://codecov.io/gh/matzar/time-to-seconds)
   [![CodeFactor](https://www.codefactor.io/repository/github/matzar/time-to-seconds/badge)](https://www.codefactor.io/repository/github/matzar/time-to-seconds)
   [![NPM Version](https://img.shields.io/npm/v/time-to-seconds)](https://www.npmjs.com/package/time-to-seconds)
@@ -152,9 +150,9 @@ During my time at [asensei](https://asensei.com/) I accomplished the following:
   [![semantic-release: angular](https://img.shields.io/badge/semantic--release-angular-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
   [![NPM](https://img.shields.io/npm/l/time-to-seconds)](https://tldrlegal.com/license/mit-license)
 
-#### Developer Extensions 🧩
+### Developer Extensions 🧩
 
-- VS Code extension to accompany nand2tetris course published on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang) <br> [![Version](https://img.shields.io/visual-studio-marketplace/v/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang) [![Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang) [![Installs](https://img.shields.io/visual-studio-marketplace/i/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang) <br>
+- Created VS Code extension to accompany nand2tetris course published on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang) <br> [![Version](https://img.shields.io/visual-studio-marketplace/v/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang) [![Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang) [![Installs](https://img.shields.io/visual-studio-marketplace/i/matzar.hdl-lang)](https://marketplace.visualstudio.com/items?itemName=matzar.hdl-lang) <br>
 
 ## PRs 🔀
 
