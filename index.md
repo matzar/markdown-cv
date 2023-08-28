@@ -53,10 +53,16 @@ Software Engineer
 
 ### Web Development 🌐
 
-- **Languages & Frameworks**: Angular (Versions 13-17), Ionic (Versions 5-7), StencilJS (Versions 2-4), TypeScript, JavaScript, RxJS.
-- **Tools**: npm, ts-node, semantic-release, es-build, Webpack.
-- **Web Graphics**: Three.js, HTML5, CSS3.
-- **Web Component**: Developed custom web components with StencilJS enhanced with graphics from Three.js.
+- **Languages**: TypeScript, JavaScript.
+- **Frameworks & Libraries**: Angular (Versions 13-17), Ionic (Versions 5-7), StencilJS (Versions 2-4), RxJS.
+- **Styling & UI**: HTML5, CSS3, SCSS, SASS, Bootstrap, Angular Material, Material Design.
+- **Web Graphics & Components**: Advanced graphics with Three.js and custom web components developed using StencilJS.
+- **Development Tools**: npm, yarn, ts-node, semantic-release, es-build, Webpack.
+
+### Backend Development 🖥
+
+- **Server Frameworks**: Node.js, Express.js, NestJS.
+- **Databases**: AWS, Firebase, MongoDB, SQL.
 
 ### Containerization with Docker 🐳
 
@@ -98,8 +104,7 @@ Software Engineer
 
 ### Backend Development 🖥
 
-- **Server Frameworks**: Node.js, Express, NestJS.
-- **Languages**: TypeScript, JavaScript, RxJS.
+- **Server Frameworks**: Node.js, Express.js, NestJS.
 - **Databases**: AWS, Firebase, MongoDB, SQL.
 
 ### Game Development 🎮
