@@ -40,7 +40,7 @@ Software Engineer
 - **Graphics Programming 🎨**: Delve into graphics projects utilizing **Three.js**.
 - **CI/CD Management**: Steer our continuous integration and deployment processes with **GitHub Actions** and **Travis CI**. Package distribution via npm with [semantic-release](https://semantic-release.gitbook.io/semantic-release/) using **Travis CI** and **GitHub Actions**.
 - **Scripting 📜**:
-  - Enhance daily workflows with git bash/zsh [aliases and functions](https://gist.github.com/matzar/6f3f4f9689bed278ca9e576ab181596f).
+  - Enhance daily workflows with git bash/zsh [aliases and functions](https://gist.github.com/matzar/3a8e8b4d28429d62420689a894583247).
   - Develop bash scripts to streamline file management tasks.
   - Script and automate tasks using TypeScript and JSON, leveraging the [Node.js file system](https://nodejs.org/api/fs.html).
 
