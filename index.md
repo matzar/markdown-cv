@@ -74,7 +74,7 @@ Software Engineer
 
 ### Graphics Programming 🎨
 
-- **Graphics Programming**: graphics programming projects with Three.js, understanding of quaternion math.
+- **Graphics Programming**: graphics programming projects with Three.js, understanding of quaternion math and linear algebra.
 
 ### App Development 📱
 
