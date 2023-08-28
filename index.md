@@ -46,65 +46,68 @@ Software Engineer
 
 ## Core Expertise 👨‍🎓
 
-### Web Development
+### Web Development 🌐
 
 - **Languages & Frameworks**: Angular (Versions 13-17), Ionic (Versions 5-7), StencilJS (Versions 2-4), TypeScript, JavaScript, RxJS.
 - **Tools**: npm, ts-node, semantic-release, es-build, Webpack.
 - **Web Graphics**: Three.js, HTML5, CSS3.
 - **Web Component**: Developed custom web components with StencilJS enhanced with graphics from Three.js.
 
-### Containerization
+### Containerization with Docker 🐳
 
 - **Docker**: Advanced Docker skills including Docker Compose, Docker Hub. Contributed to secure building of Docker images with private npm packages.
+
+### Continuous Integration & Deployment 🚀
+
 - **Deployment**: Deploying Angular apps inside an Nx Workspace using NginX Docker containers, automated with GitHub Actions.
 
-### Software Architecture
+### Software Architecture 🏗
 
 - **Design & Workflow**: Leading initiatives to shape software design, architecture, and team workflows using tools like Nx Workspace.
 
-### Tools & Scripting
+### Tools & Scripting 🛠
 
 - **Scripting**: git bash/zsh ([daily aliases & functions](https://gist.github.com/matzar/6f3f4f9689bed278ca9e576ab181596f)), TypeScript scripting using Node.js file system.
 - **CLI Development**: Building CLI utilities with TypeScript and [Commander.js](https://www.npmjs.com/package/commander).
 - **IDE & Code**: VS Code, MS Visual Studio, UNIX terminal, XCode.
 
-### Mathematics
+### Graphics Programming 🎨
 
-- **Graphics Programming**: Delving into graphics projects with Three.js, understanding of quaternion math.
+- **Graphics Programming**: graphics programming projects with Three.js, understanding of quaternion math.
 
-### App Development
+### App Development 📱
 
 - **Cross-Platform Development**: Building apps for iOS and Android using Angular, Ionic, and Capacitor (versions 3-5).
 
-### Testing & CI/CD
+### Testing & CI/CD 🧪
 
 - **Testing Frameworks**: Unit testing with Jest, Jasmine, Karma, and Playwright. Running these tests on CI tools like Travis CI and GitHub Actions.
 - **Workflow Automation**: Leveraging Nx's Reusable Workflows and running GitHub actions locally with [act](https://github.com/nektos/act).
 
 ## Additional Skills 🤹‍♂️
 
-### Backend
+### Backend Development 🖥
 
 - **Server Frameworks**: Node.js, Express, NestJS.
 - **Languages**: TypeScript, JavaScript, RxJS.
 - **Databases**: AWS, Firebase, MongoDB, SQL.
 
-### Game Development
+### Game Development 🎮
 
 - **Game Engines**: C++, C#, Unity3D, Unreal Engine 4.
 - **Other**: Python 3, Ren'Py, Xbox One, PSVita, Box2D, SFML graphics, DirectX 11, and Networking with SFML.
 
-### Data Science
+### Data Science 📊
 
 - **Languages & Tools**: Python, R, ggplot 2, pandas, NumPy, Gephi.
 - **Math & Reporting**: Statistics, LaTeX.
 
-### Teamwork & Collaboration
+### Teamwork & Collaboration 🤝
 
 - **Project Management**: Agile Methodologies, SCRUM, Notion, Jira, Confluence.
 - **Communication**: Slack, MS Teams, Pair programming with Live Share using VS Code.
 
-### Documentation & Collaboration
+### Documentation & Collaboration 📝
 
 - **Technical Documentation Expertise**: Authored in-depth technical documents using platforms like [Notion](https://www.notion.so/) and [Confluence](https://www.atlassian.com/software/confluence), ensuring comprehensive knowledge sharing and team alignment.
 
@@ -166,7 +169,7 @@ During my time at [asensei](https://asensei.com/) I accomplished the following:
   - [![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/state/github/gitignore/2850)](https://github.com/github/gitignore/pull/2850) [![GitHub issue/pull request detail](https://img.shields.io/github/issues/detail/title/github/gitignore/2850)](https://github.com/github/gitignore/pull/2850) [![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/author/github/gitignore/2850)](https://github.com/pctroll) ![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/label/github/gitignore/2850) ![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/comments/github/gitignore/2850) ![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/age/github/gitignore/2850) ![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/last-update/github/gitignore/2850) <br><br>
   - [![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/state/github/gitignore/3068)](https://github.com/github/gitignore/pull/3068) [![GitHub issue/pull request detail](https://img.shields.io/github/issues/detail/title/github/gitignore/3068)](https://github.com/github/gitignore/pull/3068) [![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/author/github/gitignore/3068)](https://github.com/der-hugo) ![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/label/github/gitignore/3068) ![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/comments/github/gitignore/3068) ![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/age/github/gitignore/3068) ![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/last-update/github/gitignore/3068)
 
-## Social 𝐐
+## Social Presence 🌐
 
 - Medium articles:
   - [Optimize Your Angular Application Deployment with Multi-Stage Dockerfiles in an Nx Workspace](https://medium.com/@mat.zar./optimize-your-angular-application-deployment-with-multi-stage-dockerfiles-in-an-nx-workspace-8e2ae581d7fa)
