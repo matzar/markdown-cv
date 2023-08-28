@@ -79,7 +79,7 @@ Software Engineer
 
 ### Tools & Scripting 🛠
 
-- **Scripting**: git bash/zsh ([daily aliases & functions](https://gist.github.com/matzar/6f3f4f9689bed278ca9e576ab181596f)), TypeScript scripting using Node.js file system.
+- **Scripting**: git bash/zsh ([daily aliases & functions](https://gist.github.com/matzar/3a8e8b4d28429d62420689a894583247)), TypeScript scripting using Node.js file system.
 - **CLI Development**: Building CLI utilities with TypeScript and [Commander.js](https://www.npmjs.com/package/commander).
 - **IDE & Code**: VS Code, MS Visual Studio, UNIX terminal, XCode, Android Studio.
 
