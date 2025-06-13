@@ -2,7 +2,7 @@
 layout: cv
 title: Mateusz Zaremba's CV
 author: Mateusz Zaremba
-date: 8th August, 2024 Dundee, United Kingdom
+date: 13th June, 2025 Dundee, United Kingdom
 ---
 
 # Mateusz Zaremba
@@ -222,7 +222,7 @@ Statistical analysis for data science, representing and manipulating data using 
 ## Relevant Experience
 
 `Sep 2024 – present`
-**Software Engineer** at Ascent Platform, New York, US | Edinburgh UK
+**Software Engineer** at Ascent Platform, Edinburgh UK | New York, US
 
 Developing across the full stack:
 
@@ -232,7 +232,7 @@ Developing across the full stack:
 - Collaborated with design team to deliver user-friendly interfaces and seamless user experiences
 
 `April 2024-July 2024`
-**Front End Developer** at Optimove, Tel Aviv IZ | Dundee UK
+**Front End Developer** at Optimove, Dundee UK | Tel Aviv, IZ
 
 - Built a CRM dashboard for marketing campaigns using React, Next.js, TypeScript, MobX, and React Query.
 - Integrated AWS services (Lambda, S3) and email functionalities.
@@ -240,7 +240,7 @@ Developing across the full stack:
 - Worked in Agile/Scrum and collaborated closely with backend team.
 
 `May 2020-Feb 2024`
-**Software Engineer** at [asensei](https://asensei.ai/), San Francisco, CA | Edinburgh, UK
+**Software Engineer** at [asensei](https://asensei.ai/), Edinburgh, UK | San Francisco, CA
 
 - _Communication Facilitation_: Act as a bridge for effective team communication, ensuring ideas are conveyed and understood universally across the team.
 - _App Development_: Develop cross-platform applications using Angular and Ionic, specifically tailored for iOS and Android with Capacitor, and leverage AWS S3 for cloud storage.
