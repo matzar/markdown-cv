@@ -2,7 +2,7 @@
 layout: cv
 title: Mateusz Zaremba's CV
 author: Mateusz Zaremba
-date: 13th June, 2025 Dundee, United Kingdom
+date: 17th June, 2025 Dundee, United Kingdom
 ---
 
 # Mateusz Zaremba
@@ -14,7 +14,7 @@ Software Engineer
 <div id="webaddress">
 <a href="mailto:matzar@matzar.dev">matzar@matzar.dev</a>
 | <a href="https://matzar.github.io/">https://matzar.github.io/</a>
-| Update: Dundee, United Kingdom, 13th June 2025
+| Update: Greater Dundee Area, United Kingdom, 17th June 2025
 </div>
 
 <br>
@@ -37,7 +37,7 @@ Open to new opportunities. Available to start immidiately.
 - **UI Library**: React.js
 - **Frameworks**: [Next.js](https://nextjs.org/), [Angular](https://angular.dev/), [Ionic](https://ionicframework.com/), [StencilJS](https://stenciljs.com/)
 - **Routing**: [React Router](https://reactrouter.com/), Next.js App Router/Pages Router
-- **Mobile Apps**: Native Runtime Apps with [Capacitor](https://capacitorjs.com/), [Expo](https://expo.dev/) for React Native
+- **Mobile Apps**: Native Runtime Apps with [Capacitor](https://capacitorjs.com/), [Expo](https://expo.dev/) with React Native
 - **State Management**: [RxJS](https://rxjs.dev/), [MobX](https://mobx.js.org/README.html), [Zustand](https://zustand-demo.pmnd.rs/), React Hooks, [React Query](https://tanstack.com/query/latest/docs/framework/react/overview)
 - **Component Libraries**: [Ionic](https://ionicframework.com/), [Angular Material](https://material.angular.dev/), [MUI](https://mui.com/)
 - **Styling & UI**: HTML5, CSS3, SCSS, SASS, Bootstrap
