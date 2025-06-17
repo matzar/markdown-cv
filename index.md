@@ -12,7 +12,7 @@ Software Engineer
 [![Website matzar.github.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://matzar.github.io/) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 <div id="webaddress">
-<a href="mailto:mat.zar@icloud.com">mat.zar@icloud.com</a>
+<a href="mailto:matzar@matzar.dev">matzar@matzar.dev</a>
 | <a href="https://matzar.github.io/">https://matzar.github.io/</a>
 | Update: Dundee, United Kingdom, 13th June 2025
 </div>
