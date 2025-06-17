@@ -31,20 +31,27 @@ Open to new opportunities. Available to start immidiately.
 
 ## Core Expertise
 
-### Web Development
+### Frontend/Web Development
 
-- **Languages**: TypeScript, JavaScript.
-- **Frameworks & Libraries**: Angular, React, Ionic, StencilJS
-- **State Management**: RxJS, MobX, React Query
-- **Styling & UI**: HTML5, CSS3, SCSS, SASS, Bootstrap, Angular Material, Material Design.
-- **Web Graphics & Components**: Advanced graphics with Three.js and custom web components developed using StencilJS.
-- **Development Tools**: npm, yarn, ts-node, semantic-release, es-build, Webpack.
+- **Languages**: TypeScript, JavaScript
+- **UI Library**: React.js
+- **Frameworks**: [Next.js](https://nextjs.org/), [Angular](https://angular.dev/), [Ionic](https://ionicframework.com/), [StencilJS](https://stenciljs.com/)
+- **Routing**: [React Router](https://reactrouter.com/), Next.js App Router/Pages Router
+- **Mobile Apps**: Native Runtime Apps with [Capacitor](https://capacitorjs.com/), [Expo](https://expo.dev/) for React Native
+- **State Management**: [RxJS](https://rxjs.dev/), [MobX](https://mobx.js.org/README.html), [Zustand](https://zustand-demo.pmnd.rs/), React Hooks, [React Query](https://tanstack.com/query/latest/docs/framework/react/overview)
+- **Component Libraries**: [Ionic](https://ionicframework.com/), [Angular Material](https://material.angular.dev/), [MUI](https://mui.com/)
+- **Styling & UI**: HTML5, CSS3, SCSS, SASS, Bootstrap
+- **Web Graphics & Components**: Advanced graphics with [Three.js](https://threejs.org/) and custom web components developed using [StencilJS](https://stenciljs.com/).
+- **JavaScript Runtimes**: Node.js, [Bun](https://bun.sh/), [Deno](https://deno.com/)
+- **JavaScript Bundlers**: Webpack, [esbuild](https://esbuild.github.io/)
+- **TypeScript Development Tools**: ts-node, [tsx](https://tsx.is/getting-started)
+- **Node Package Managers**: npm, pnpm, yarn
 
 ### Backend Development
 
 - **Server Frameworks**: NestJS, Express.js, Node.js
 - **Databases**: NoSQL (MongoDB), SQL (PostgreSQL)
-- **Object Relations Mapping/ORMs**: Mongoose ORM for MongoDB, Prisma ORM for PostgreSQL
+- **Data Mapping**: [Mongoose ODM](https://mongoosejs.com/) for MongoDB, [Prisma ORM](https://www.prisma.io/) for PostgreSQL
 - **Database Cloud Services**: [MongoDB Atlas](https://www.mongodb.com/atlas) for MongoDB, [Confluent](https://www.confluent.io/) for Apache Kafka
 - **Database UI Clients**: [MongoDB Compass](https://www.mongodb.com/products/tools/compass) for MongoDB, [Database Client for VS Code](https://database-client.com/) for PostgreSQL, [Kadeck Kafka UI](https://www.datastreamhouse.com/) for Apache Kafka
 - **Event Driven Architecture/EDA**: Apache Kafka
