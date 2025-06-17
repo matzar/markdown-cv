@@ -302,15 +302,18 @@ strong {
 
   /* Trophy container */
   .trophy-container {
-    text-align: center;
-    overflow-x: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     margin: 20px 0;
   }
 
   /* Mobile trophy display - show mobile, hide desktop */
   .trophy-mobile {
     display: block;
-    margin: auto;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
   }
 
   .trophy-desktop {
