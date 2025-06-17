@@ -267,6 +267,21 @@ strong {
   display: none;
 }
 
+/* Default (Desktop) trophy display */
+.trophy-mobile {
+  display: none;
+}
+
+.trophy-desktop {
+  display: block;
+  margin: auto;
+}
+
+.trophy-container {
+  text-align: center;
+  margin: 20px 0;
+}
+
 /* Mobile-first responsive design */
 @media (max-width: 768px) {
   body {
@@ -289,6 +304,17 @@ strong {
   .trophy-container {
     text-align: center;
     overflow-x: auto;
+    margin: 20px 0;
+  }
+
+  /* Mobile trophy display - show mobile, hide desktop */
+  .trophy-mobile {
+    display: block;
+    margin: auto;
+  }
+
+  .trophy-desktop {
+    display: none;
   }
 
   /* Web address styling */
