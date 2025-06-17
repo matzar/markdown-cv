@@ -19,7 +19,10 @@ Software Engineer
 
 <br>
 
-[![Mat's github trophy](https://github-profile-trophy.vercel.app/?username=matzar&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<div class="trophy-container">
+  <img class="trophy-desktop" src="https://github-profile-trophy.vercel.app/?username=matzar&row=1" alt="Mat's github trophy">
+  <img class="trophy-mobile" src="https://github-profile-trophy.vercel.app/?username=matzar&row=2&column=3" alt="Mat's github trophy">
+</div>
 
 <br>
 
