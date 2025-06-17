@@ -314,6 +314,7 @@ strong {
     max-width: 100%;
     height: auto;
     margin: 0 auto;
+    padding-left: 200px;
   }
 
   .trophy-desktop {
