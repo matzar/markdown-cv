@@ -42,8 +42,12 @@ Open to new opportunities. Available to start immidiately.
 
 ### Backend Development
 
-- **Server Frameworks**: Node.js, Express.js, NestJS
-- **Databases**: MongoDB, SQL
+- **Server Frameworks**: NestJS, Express.js, Node.js
+- **Databases**: NoSQL (MongoDB), SQL (PostgreSQL)
+- **Object Relations Mapping/ORMs**: Mongoose ORM for MongoDB, PrismaORM for PostgreSQL
+- **Database Cloud Solution**: Mongo Atlas for MongoDB, Confluent for Apache Kafka
+- **Database UI Clients**: MongoDB Compass for MongoDB, Postgres for PostgreSQL, Kadeck for Apache Kafka
+- **Event Driven Architecture/EDA**: Apache Kafka
 - **Cloud**: AWS Lambda, AWS S3
 
 ### Containerization with Docker
