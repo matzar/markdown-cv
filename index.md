@@ -44,9 +44,9 @@ Open to new opportunities. Available to start immidiately.
 
 - **Server Frameworks**: NestJS, Express.js, Node.js
 - **Databases**: NoSQL (MongoDB), SQL (PostgreSQL)
-- **Object Relations Mapping/ORMs**: Mongoose ORM for MongoDB, PrismaORM for PostgreSQL
-- **Database Cloud Solution**: Mongo Atlas for MongoDB, Confluent for Apache Kafka
-- **Database UI Clients**: MongoDB Compass for MongoDB, Postgres for PostgreSQL, Kadeck for Apache Kafka
+- **Object Relations Mapping/ORMs**: Mongoose ORM for MongoDB, Prisma ORM for PostgreSQL
+- **Database Cloud Services**: [MongoDB Atlas](https://www.mongodb.com/atlas) for MongoDB, [Confluent](https://www.confluent.io/) for Apache Kafka
+- **Database UI Clients**: [MongoDB Compass](https://www.mongodb.com/products/tools/compass) for MongoDB, [Database Client for VS Code](https://database-client.com/) for PostgreSQL, [Kadeck Kafka UI](https://www.datastreamhouse.com/) for Apache Kafka
 - **Event Driven Architecture/EDA**: Apache Kafka
 - **Cloud**: AWS Lambda, AWS S3
 
