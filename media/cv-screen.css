@@ -284,6 +284,18 @@ strong {
 
 /* Mobile-first responsive design */
 @media (max-width: 768px) {
+  p > code {
+    display: block;
+    width: 100%;
+    min-width: 0;
+    margin: 0 0 0.2em 0;
+    font-size: 13px;
+    text-align: left;
+    color: #666;
+    position: static;
+    left: auto;
+  }
+
   body {
     font-size: 14px;
     line-height: 1.4;
