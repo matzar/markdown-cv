@@ -12,9 +12,10 @@ Software Engineer
 [![Website matzar.github.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://matzar.github.io/) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 <div id="webaddress">
-<a href="mailto:matzar@matzar.dev">matzar@matzar.dev</a>
-| <a href="https://matzar.github.io/">https://matzar.github.io/</a>
-| Update: Greater Dundee Area, United Kingdom, 17th June 2025
+  <span class="webaddress-item">Email: <a href="mailto:matzar@matzar.dev">matzar@matzar.dev</a></span>
+  <span class="webaddress-item">Website: <a href="https://matzar.github.io/">https://matzar.github.io/</a></span>
+  <span class="webaddress-item">AI Chatbot: <a href="https://www.matzar.dev/">https://matzar.dev/</a></span>
+  <span class="webaddress-item">Update: 17th June 2025</span>
 </div>
 
 <br>
