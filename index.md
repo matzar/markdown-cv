@@ -21,7 +21,7 @@ Software Engineer
 
 <div class="trophy-container">
   <img class="trophy-desktop" src="https://github-profile-trophy.vercel.app/?username=matzar&row=1" alt="Mat's github trophy">
-  <img class="trophy-mobile" src="https://github-profile-trophy.vercel.app/?username=matzar&row=2&column=3" alt="Mat's github trophy">
+  <img class="trophy-mobile" src="https://github-profile-trophy.vercel.app/?username=matzar&row=3&column=2" alt="Mat's github trophy">
 </div>
 
 <br>
