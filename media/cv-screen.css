@@ -284,18 +284,6 @@ strong {
 
 /* Mobile-first responsive design */
 @media (max-width: 768px) {
-  p > code {
-    display: block;
-    width: 100%;
-    min-width: 0;
-    margin: 0 0 0.2em 0;
-    font-size: 13px;
-    text-align: left;
-    color: #666;
-    position: static;
-    left: auto;
-  }
-
   body {
     font-size: 14px;
     line-height: 1.4;
@@ -326,7 +314,7 @@ strong {
     max-width: 100%;
     height: auto;
     margin: 0 auto;
-    padding-left: 200px;
+    padding-left: 0px;
   }
 
   .trophy-desktop {
@@ -360,5 +348,56 @@ strong {
   pre {
     overflow-x: auto;
     font-size: 12px;
+  }
+
+  /* Mobile specific styles */
+  p {
+    position: relative;
+    left: 0; /* Remove absolute positioning */
+    width: 100%; /* Full width */
+    padding-left: 1em; /* Add padding for spacing */
+  }
+
+  ul {
+    position: relative;
+    left: 0; /* Remove absolute positioning */
+    width: 100%; /* Full width */
+    padding-left: 1em; /* Add padding for spacing */
+  }
+
+  h1 {
+    left: 0; /* Remove absolute positioning */
+    width: 100%; /* Full width */
+    padding-left: 0.5em; /* Add padding for spacing */
+  }
+
+  h2 {
+    top: 0; /* Reset top positioning */
+    text-align: left; /* Align text to the left */
+    width: 100%; /* Full width */
+    padding-left: 0.5em; /* Add padding for spacing */
+  }
+
+  h3 {
+    top: 0; /* Reset top positioning */
+    text-align: left; /* Align text to the left */
+    width: 100%; /* Full width */
+    padding-left: 0.5em; /* Add padding for spacing */
+  }
+
+  p > code {
+    font-size: 12px;
+    display: block;
+    width: 100%;
+    min-width: 0;
+    margin: 0 0 0.2em 0;
+    text-align: left;
+    position: static; /* Remove absolute positioning */
+    left: auto; /* Reset left positioning */
+  }
+
+  #webaddress {
+    left: 0; /* Remove absolute positioning */
+    padding-left: 0.5em; /* Add padding for spacing */
   }
 }
