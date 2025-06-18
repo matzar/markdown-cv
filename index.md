@@ -14,7 +14,6 @@ Software Engineer
 <div id="webaddress">
   <span class="webaddress-item">Email: <a href="mailto:matzar@matzar.dev">matzar@matzar.dev</a></span>
   <span class="webaddress-item">Website: <a href="https://matzar.github.io/">https://matzar.github.io/</a></span>
-  <span class="webaddress-item">AI Chatbot: <a href="https://www.matzar.dev/">https://matzar.dev/</a></span>
   <span class="webaddress-item">Update: 17th June 2025</span>
 </div>
 
