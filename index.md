@@ -9,7 +9,7 @@ date: 17th June, 2025 Dundee, United Kingdom
 
 Software Engineer
 
-[![Website matzar.github.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://matzar.github.io/) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) ![Jekyll](https://img.shields.io/badge/Built%20with-Jekyll-blue?logo=jekyll) [![Website matzar.github.io](https://img.shields.io/website-up-down-green-red/http/matzar.github.io/dev-journey)](http://matzar.github.io/)
 
 <div id="webaddress">
   <span class="webaddress-item">Email: <a href="mailto:matzar@matzar.dev">matzar@matzar.dev</a></span>
