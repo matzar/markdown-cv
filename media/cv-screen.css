@@ -353,36 +353,36 @@ strong {
   /* Mobile specific styles */
   p {
     position: relative;
-    left: 0; /* Remove absolute positioning */
-    width: 100%; /* Full width */
-    padding-left: 1em; /* Add padding for spacing */
+    left: 0;
+    width: 100%;
+    padding-left: 1em;
   }
 
   ul {
     position: relative;
-    left: 0; /* Remove absolute positioning */
-    width: 100%; /* Full width */
-    padding-left: 1em; /* Add padding for spacing */
+    left: 0;
+    width: 100%;
+    padding-left: 1em;
   }
 
   h1 {
-    left: 0; /* Remove absolute positioning */
-    width: 100%; /* Full width */
-    padding-left: 0.5em; /* Add padding for spacing */
+    left: 0;
+    width: 100%;
+    padding-left: 0.5em;
   }
 
   h2 {
-    top: 0; /* Reset top positioning */
-    text-align: left; /* Align text to the left */
-    width: 100%; /* Full width */
-    padding-left: 0.5em; /* Add padding for spacing */
+    top: 0;
+    text-align: left;
+    width: 100%;
+    padding-left: 0.5em;
   }
 
   h3 {
-    top: 0; /* Reset top positioning */
-    text-align: left; /* Align text to the left */
-    width: 100%; /* Full width */
-    padding-left: 0.5em; /* Add padding for spacing */
+    top: 0;
+    text-align: left;
+    width: 100%;
+    padding-left: 0.5em;
   }
 
   p > code {
@@ -392,12 +392,17 @@ strong {
     min-width: 0;
     margin: 0 0 0.2em 0;
     text-align: left;
-    position: static; /* Remove absolute positioning */
-    left: auto; /* Reset left positioning */
+    position: static;
+    left: auto;
   }
 
   #webaddress {
-    left: 0; /* Remove absolute positioning */
-    padding-left: 0.5em; /* Add padding for spacing */
+    left: 0;
+    padding-left: 0.5em;
+  }
+
+  iframe {
+    max-width: 100%;
+    height: auto;
   }
 }
