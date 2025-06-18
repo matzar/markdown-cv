@@ -282,6 +282,11 @@ strong {
   margin: 20px 0;
 }
 
+iframe {
+  min-width: 552px;
+  min-height: 167px;
+}
+
 /* Mobile-first responsive design */
 @media (max-width: 768px) {
   body {
@@ -403,6 +408,9 @@ strong {
 
   iframe {
     max-width: 100%;
+    width: 100%; /* Ensure it takes the full width */
     height: auto;
+    min-width: 0; /* Override desktop min-width */
+    min-height: 0; /* Override desktop min-height */
   }
 }

@@ -320,7 +320,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
   - Mathematics for Applications Development 1 (A+)
   - Games for Change (B+)
   - Asset Production for Games (B+):
-    - <iframe frameborder="0" src="https://itch.io/embed/121052" width="552" height="167"><a href="https://matzar.itch.io/dragon-maze">Dragon Maze by matzar</a></iframe>
+  - <iframe frameborder="0" src="https://itch.io/embed/121052"><a href="https://matzar.itch.io/dragon-maze">Dragon Maze by matzar</a></iframe>
 
 ### Funding Awarded
 
@@ -354,7 +354,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
 - Programming language: Python
 - Platform: Windows
 - [GitHub](https://github.com/matzar/ren-py)
-- <iframe frameborder="0" src="https://itch.io/embed/192517" width="552" height="167"><a href="https://matzar.itch.io/knock-knock">Knock Knock by matzar</a></iframe>
+- <iframe frameborder="0" src="https://itch.io/embed/192517"><a href="https://matzar.itch.io/knock-knock">Knock Knock by matzar</a></iframe>
 
 `Aug 15-17, 2016`
 **Gameplay Programmer/Design/Team Lead, Rainbow Game Jam**, Dundee, United Kingdom
@@ -364,7 +364,7 @@ BSc with Merit in Computer Game Applications Development, 2:1
 - Programming language: C#
 - Platforms: Windows, MAC, Linux
 - [GitHub](https://github.com/matzar/infinite-runner)
-- <iframe frameborder="0" src="https://itch.io/embed/83599" width="552" height="167"><a href="https://matzar.itch.io/rainbow-dash">Rainbow Dash by matzar</a></iframe>
+- <iframe frameborder="0" src="https://itch.io/embed/83599"><a href="https://matzar.itch.io/rainbow-dash">Rainbow Dash by matzar</a></iframe>
 
 `Jan 29-31, 2016`
 **Gameplay Programmer, Global Game Jam 2016**, Dundee, United Kingdom
