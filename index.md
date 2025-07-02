@@ -76,7 +76,7 @@ Open to new opportunities. Available to start immidiately.
 
 ### Tools & Scripting
 
-- **Scripting**: git bash/zsh ([daily aliases & functions](https://gist.github.com/matzar/3a8e8b4d28429d62420689a894583247)), TypeScript scripting using Node.js file system.
+- **Scripting**: Git bash ([custom aliases/functions](https://gist.github.com/matzar/3a8e8b4d28429d62420689a894583247), rebase, cherry-pick, submodules, hooks with Husky), TypeScript scripting using Node.js file system.
 - **CLI Development**: Building CLI utilities with TypeScript and [Commander.js](https://www.npmjs.com/package/commander).
 - **IDE & Code**: VS Code, Cursor, MS Visual Studio, UNIX terminal, XCode, Android Studio.
 
